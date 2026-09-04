@@ -41,3 +41,10 @@ outputs/**
 dashboard/.uploads/
 __pycache__/
 *.pyc
+
+# --- Explicit exceptions to the vault personal-content rule above ---
+# Curated research that is meant to be shared/synced rather than kept local.
+# Everything else under raw/ and wiki/ stays ignored; add exceptions deliberately.
+!wiki/INDEX.md
+!wiki/public-domain-spanish-books.md
+!raw/2026-09-04_public-domain-spanish-books-research.md
