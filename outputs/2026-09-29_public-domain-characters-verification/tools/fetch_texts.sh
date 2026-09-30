@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Rebuild tools/books/ from the exact Standard Ebooks source commits used on 2026-09-29.
+# Rebuild tools/books/ from the exact Standard Ebooks source commits used on 2026-09-30.
 set -euo pipefail
 cd "$(dirname "$0")"
 export GIT_LFS_SKIP_SMUDGE=1

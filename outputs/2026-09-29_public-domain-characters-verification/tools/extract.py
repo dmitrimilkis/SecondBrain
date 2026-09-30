@@ -80,8 +80,22 @@ def main(repo_dir: str, out_txt: str):
         stem = f.stem
         if stem in SKIP_FILES:
             continue
+        source = f.read_text(encoding="utf-8")
+        articles = re.findall(r'<article id="([^"]+)"[^>]*>(.*?)</article>', source, flags=re.S)
+        if len(articles) > 1:
+            # one file holding many short pieces (e.g. Aesop's fables): one section per piece,
+            # so every quote can be traced to its own fable or tale
+            for art_id, chunk in articles:
+                heading = re.search(r"<h[1-6][^>]*>(.*?)</h[1-6]>", chunk, flags=re.S)
+                title = html.unescape(re.sub(r"<[^>]+>", "", heading.group(1)).strip()) if heading else art_id
+                g = TextGrabber()
+                g.feed(chunk)
+                body = clean("".join(g.out))
+                parts.append(f"@@@ {stem}-{art_id} | {title}\n{body}\n")
+                index.append({"file": f"{stem}-{art_id}", "title": title, "chars": len(body)})
+            continue
         g = TextGrabber()
-        g.feed(f.read_text(encoding="utf-8"))
+        g.feed(source)
         body = clean("".join(g.out))
         title = html.unescape((g.title or stem).strip())
         parts.append(f"@@@ {stem} | {title}\n{body}\n")

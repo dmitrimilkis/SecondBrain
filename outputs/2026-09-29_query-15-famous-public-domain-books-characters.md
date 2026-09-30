@@ -1,17 +1,22 @@
 # Query: look for book in public domain and make a list of the most famous characters for each book that you find. boil it down to 15 the most famous books ever. for each character make a sort description of the character's features, check these features several times, do not make them up.
 
-*Date: 2026-09-29*
+*Date: 2026-09-29 · updated 2026-09-30: easy reads for learners of English added*
 
-**15 books · 123 characters · 787 supporting quotes taken from the books themselves, all checked by script.**
+> **Follow-up question:** "Okay, let's enhance the list and include the wonderful, the wonderful Wizard of Oz and other books from public domain that aren't too hard, that do not have too complicated vocabulary, that would be easy to read for people who learn English and have B1 level, let's say, not, not higher than B1. And I don't really need you to actually measure it. I need you to just find out facts about the books and judge the level there."  
+> **Answer:** [Easy reads for English learners (up to B1)](#easy-reads-for-english-learners-up-to-b1): *The Wonderful Wizard of Oz* and 7 more public-domain books, each with a reading level judged from published facts about it, and their characters checked the same way as below.
 
-Below are fifteen of the most famous books ever written that are free of copyright, with the characters readers know best from each. Every description is built **only from what the book itself says**, using the free public-domain editions published by [Standard Ebooks](https://standardebooks.org/). Text in "quotation marks" is the book's exact wording in the edition named for that book (translations are noted). Nothing is taken from films, illustrations or later retellings; where the popular image differs from the book, the description says so.
+**15 famous books + 8 easy reads · 177 characters · 1,202 supporting quotes taken from the books themselves, all checked by script.**
+
+Below are fifteen of the most famous books ever written that are free of copyright, with the characters readers know best from each, followed by [8 easier ones for learners of English](#easy-reads-for-english-learners-up-to-b1). Every description is built **only from what the book itself says**, using the free public-domain editions published by [Standard Ebooks](https://standardebooks.org/). Text in "quotation marks" is the book's exact wording in the edition named for that book (translations are noted). Nothing is taken from films, illustrations or later retellings; where the popular image differs from the book, the description says so.
 
 Every description was checked several times, in four different ways (details in [How the descriptions were checked](#how-the-descriptions-were-checked)):
 
-1. **Word for word.** Every supporting quote, and every phrase quoted inside a description, was found exactly (including capitalisation) in the book's text: 1,274 checks, 0 failures.
-2. **Right character.** A script confirmed that each of the 787 quotes is about the character it is filed under: 787 of 787 resolved.
+1. **Word for word.** Every supporting quote, and every phrase quoted inside a description, was found exactly (including capitalisation) in the book's text: 1,969 checks, 0 failures.
+2. **Right character.** A script confirmed that each of the 1,202 quotes is about the character it is filed under: 1,202 of 1,202 resolved.
 3. **Nothing invented.** Every number and proper name in a description had to appear in that character's own quotes: 0 exceptions left.
 4. **Outside sources.** Each book's key facts were compared with independent references. Where they disagree with the book (a handful of cases, listed below), the book's own text wins.
+
+The reading levels of the easy reads are judgements, not measurements; the facts they rest on are linked next to each book, and every example they quote from a book, and every word count, was re-checked against the texts (27 checks, 0 failures).
 
 The complete evidence, every quote with its chapter, is in the [evidence appendix](2026-09-29_public-domain-characters-verification/evidence.md). The scripts that ran the checks are in the same folder, so the checks can be re-run ([how](2026-09-29_public-domain-characters-verification/README.md)).
 
@@ -599,36 +604,375 @@ Myrtle's husband, who runs a run-down garage ("unprosperous and bare") in the "v
 Gatsby's shady business partner, "a gambler," who with Gatsby bought up "side-street drugstores" to sell "grain alcohol over the counter," and who is said to be "the man who fixed the World's Series back in 1919" and wears cuff buttons made of human teeth ("Finest specimens of human molars").  
 *Evidence: 4 quotes, from Ch. IV; Ch. VII.*
 
+## Easy reads for English learners (up to B1)
+
+These 8 books are free of copyright and easy enough for learners of English at CEFR level B1 or below. They are listed from easiest to hardest, and their characters went through exactly the same checks as the fifteen above.
+
+**How the levels were judged.** Nothing was measured here: each level is a judgement from published facts about the book. The main fact is its Lexile measure, a reading-difficulty score that schools and libraries use, taken from library catalogue records and reading-level sites (linked for each book; the numbers vary a little between editions). MetaMetrics, which makes the Lexile scale, has aligned it with the CEFR. By its figures, B1 readers have Lexile measures of about 805L–1090L, and texts for lower B1 mostly fall between about 700L and 1000L, reaching about 1200L at the top of B1 ([research brief](https://www2.metametricsinc.com/hubfs/Aligning-the-Lexile-Framework-to-the-CEFR-Research-Brief.pdf), [concordance table](https://metametricsinc.com/wp-content/uploads/2018/07/Aligning-the-Lexile-Framework-to-the-CEFR.pdf); both PDFs were blocked by this environment's network policy, so these figures are as quoted in search results). The other facts are who the book was written for, how long it is, and anything that makes it harder than its Lexile suggests, such as dialect or deliberately rare words.
+
+- **A2–B1**: easy at B1; a strong A2 reader can manage it.
+- **B1**: comfortable at B1.
+- **B1 (upper end)**: fine at B1, with more words to look up.
+
+| # | Book | Author | First published | Level | Lexile |
+|---|------|--------|-----------------|-------|--------|
+| E1 | [The Tale of Peter Rabbit and other tales](#e1-the-tale-of-peter-rabbit-and-other-tales) | Beatrix Potter | 1902–1918 | A2–B1 | AD660L (*Peter Rabbit*) |
+| E2 | [Aesop's Fables](#e2-aesops-fables) | Aesop | c. 6th century BC (collected over many centuries) | A2–B1 | 760L–780L |
+| E3 | [The Happy Prince and Other Tales](#e3-the-happy-prince-and-other-tales) | Oscar Wilde | 1888 | B1 | 650L (900L illustrated) |
+| E4 | [The Adventures of Pinocchio](#e4-the-adventures-of-pinocchio) | Carlo Collodi | 1883 | B1 | 780L |
+| E5 | [Winnie-the-Pooh](#e5-winnie-the-pooh) | A. A. Milne | 1926 | B1 | 790L |
+| E6 | [Grimms' Fairy Tales](#e6-grimms-fairy-tales) | Jacob and Wilhelm Grimm | 1812 (final edition 1857) | B1 (read tale by tale) | 980L–1090L |
+| E7 | [Heidi](#e7-heidi) | Johanna Spyri | 1880–1881 | B1 (upper end) | 1000L |
+| E8 | [The Wonderful Wizard of Oz](#e8-the-wonderful-wizard-of-oz) | L. Frank Baum | 1900 | B1 (upper end) | 1030L |
+
+### E1. The Tale of Peter Rabbit and other tales
+
+*Beatrix Potter, 1902–1918. Text used: [Standard Ebooks](https://standardebooks.org/ebooks/beatrix-potter/short-fiction) edition (*Short Fiction*, 20 tales).*
+
+**Level: A2–B1** (Lexile source: [library catalogue record](https://eh.catalog.lionlibraries.org/Record/.b21889764))
+
+- *The Tale of Peter Rabbit* has a Lexile measure of AD660L ("AD" means it was written to be read aloud to young children) and an Accelerated Reader level of 4.2.
+- Each tale is only a few pages long; all 20 tales in this edition come to about 31,000 words.
+- Potter sometimes picks a rare word on purpose ("soporific," "implored him to exert himself"), but the sentences around it make it clear.
+
+**Peter Rabbit**  
+The naughty one of four little rabbits, "Flopsy, Mopsy, Cottontail, and Peter," who live with their mother under "a very big fir-tree." She tells them not to go into Mr. McGregor's garden: "Your Father had an accident there; he was put in a pie by Mrs. McGregor." Peter, "who was very naughty," runs straight there and squeezes under the gate. Mr. McGregor chases him; Peter loses both shoes and leaves behind his "blue jacket with brass buttons, quite new," hides in a can full of water, sneezes ("Kertyschoo!"), and at last slips out under the gate. At home he is ill and gets camomile tea, while Flopsy, Mopsy, and Cottontail have "bread and milk and blackberries for supper." In a later tale he goes back with his cousin Benjamin Bunny to get his clothes, and when he grows up he keeps "a nursery garden."  
+*Evidence: 14 quotes, from The Tale of Peter Rabbit; The Tale of Benjamin Bunny; The Tale of the Flopsy Bunnies.*
+
+**Mr. McGregor**  
+The gardener whose vegetable garden the rabbits keep raiding; his wife once put Peter's father "in a pie." When he finds Peter among his vegetables, he runs after him "waving a rake" and shouting "Stop thief!", tries to catch him under a sieve, and afterwards hangs Peter's jacket and shoes on a scarecrow "to frighten the blackbirds." In *The Tale of the Flopsy Bunnies* he finds Benjamin's children asleep on his rubbish heap and drops them into a sack ("six leetle rabbits!"), meaning to "sell them and buy myself baccy." But a mouse nibbles a hole in the sack, their parents fill it with rotten vegetable marrows, and Mrs. McGregor becomes "very very angry."  
+*Evidence: 10 quotes, from The Tale of Peter Rabbit; The Tale of the Flopsy Bunnies.*
+
+**Benjamin Bunny**  
+Peter's cousin, "little Benjamin Bunny," who is "perfectly at home" in Mr. McGregor's garden, because he goes there with his father "to get lettuces for their Sunday dinner." He takes Peter back to get his clothes from the scarecrow ("the proper way to get in is to climb down a pear-tree") and fills Peter's handkerchief with onions as a present for his aunt. When they meet a cat, he hides them both under a basket, and the cat sits on it "for five hours," until his father, old Mr. Benjamin Bunny, jumps on the cat, locks it in the greenhouse, and whips his son "with the little switch." When he grows up he marries "his Cousin Flopsy," and their children are the Flopsy Bunnies.  
+*Evidence: 11 quotes, from The Tale of Benjamin Bunny; The Tale of the Flopsy Bunnies.*
+
+**Squirrel Nutkin**  
+A little red squirrel whose story is "a Tale about a tail." He and his brother Twinkleberry and their cousins sail to Owl Island on rafts, using their tails as sails, to gather nuts, and each day the others bring a present for the owl, Old Brown. But "Nutkin was excessively impertinent in his manners": he brings nothing, dances about, and sings rude riddles at the owl. On the sixth day he jumps "right onto the head of Old Brown!" The owl catches him and is about to skin him, but Nutkin pulls so hard that "his tail broke in two," and he escapes. Ever since, if you ask him a riddle, "he will throw sticks at you."  
+*Evidence: 10 quotes, from The Tale of Squirrel Nutkin.*
+
+**Mrs. Tiggy-Winkle**  
+A washerwoman who lives in a tiny kitchen inside the hill above Little-town. The little girl Lucie, looking for her lost "pocket-handkins," finds her ironing: "a very stout short person" in a print gown and apron, whose "little black nose went sniffle, sniffle, snuffle," with prickles under her cap. "I'm an excellent clear-starcher!" she says. She washes for all the animals: Cock Robin's "little scarlet waistcoat," Squirrel Nutkin's "red tailcoat with no tail," Peter Rabbit's "very much shrunk blue jacket." After tea she carries the clean clothes down the hill, then runs off without waiting for thanks, and Lucie sees that "Mrs. Tiggy-winkle was nothing but a Hedgehog."  
+*Evidence: 10 quotes, from The Tale of Mrs. Tiggy-Winkle.*
+
+**Mr. Jeremy Fisher**  
+A frog who lives "in a little damp house amongst the buttercups at the edge of a pond" and likes getting his feet wet. On a rainy day he puts on "a macintosh, and a pair of shiny goloshes" and goes fishing from a boat made of a lily-leaf, hoping to catch minnows for dinner with his friends "Mr. Alderman Ptolemy Tortoise and Sir Isaac Newton." Instead he catches "little Jack Sharp the stickleback, covered with spines," and then a huge trout grabs him and dives, but spits him out because it does not like the taste of his macintosh; it swallows only his goloshes. "What a mercy that was not a pike!" His friends come to dinner anyway and eat "a roasted grasshopper with ladybird sauce."  
+*Evidence: 13 quotes, from The Tale of Mr. Jeremy Fisher.*
+
+**Jemima Puddle-Duck**  
+A farm duck who "was annoyed because the farmer's wife would not let her hatch her own eggs." Wearing "a shawl and a poke bonnet," she flies to a wood to make a secret nest and meets "an elegantly dressed gentleman reading a newspaper," with "black prick ears and sandy coloured whiskers" and "a long bushy tail." He lends her a shed full of feathers, where she lays nine eggs. When he asks her to bring sage, thyme, mint, parsley and onions for "a savoury omelette," she still does not suspect him, although these are the herbs used "for stuffing roast duck": "Jemima Puddle-duck was a simpleton." The farm collie, Kep, saves her with two foxhound puppies, but the puppies eat her eggs. Later she is allowed to keep some eggs, "but only four of them hatched."  
+*Evidence: 12 quotes, from The Tale of Jemima Puddle-Duck.*
+
+### E2. Aesop's Fables
+
+*Aesop, c. 6th century BC (collected over many centuries). Text used: [Standard Ebooks](https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones) edition of V. S. Vernon Jones's translation (1912).*
+
+**Level: A2–B1** (Lexile source: [library catalogue record](https://catalog.deerfieldlibrary.org/Record/.b10959373))
+
+- Common editions have Lexile measures of 760L–780L and are recommended for grades 3–5.
+- Each fable is only a few sentences long, often ending with a one-line moral ("Slow and steady wins the race.").
+- 284 fables, about 40,000 words in all, so it is easy to read a few at a time.
+
+**The Hare and the Tortoise**  
+A Hare mocks a Tortoise "for being so slow upon his feet," so the Tortoise challenges him to a race. The Hare runs so far ahead that he lies down "and fell fast asleep," while "the Tortoise kept plodding on" and wins. The moral: "Slow and steady wins the race."  
+*Evidence: 4 quotes, from The Hare and the Tortoise.*
+
+**The Fox** · *in "The Fox and the Grapes" and "The Fox and the Crow"*  
+Aesop's clever fox. When he cannot reach some grapes, he walks off "with an air of dignity and unconcern" and says "they are quite sour," which is where the saying about sour grapes comes from. When he sees a Crow with a piece of cheese, he "set his wits to work": he praises her beauty and wonders whether her voice is as sweet, so she caws and drops the cheese. Then he tells her, "You have a voice, madam, I see: what you want is wits."  
+*Evidence: 6 quotes, from The Fox and the Grapes; The Fox and the Crow.*
+
+**The Shepherd's Boy** · *the boy who cried wolf*  
+A Shepherd's Boy who thinks it "great fun to hoax the villagers" by shouting "Wolf! wolf!" when there is none. When a Wolf really comes, nobody believes him, and it kills "sheep after sheep." The moral: "You cannot believe a liar even when he tells the truth."  
+*Evidence: 4 quotes, from The Shepherd's Boy and the Wolf.*
+
+**The Grasshopper and the Ants**  
+In winter a starving Grasshopper begs some busy Ants for food. She has saved nothing, because "I was so busy singing that I hadn't the time." The Ants answer: "If you spent the summer singing... you can't do better than spend the winter dancing."  
+*Evidence: 4 quotes, from The Grasshopper and the Ants.*
+
+**The Lion and the Mouse**  
+A Lion catches a Mouse that ran over his face but lets it go, laughing at its promise to repay him. Later the Lion is caught "in a net which had been spread for game by some hunters," and the Mouse gnaws through the ropes: "even a Mouse can help a Lion."  
+*Evidence: 5 quotes, from The Lion and the Mouse.*
+
+**The Town Mouse and the Country Mouse**  
+The Town Mouse sneers at his friend's simple "dinner of barleycorns and roots" and takes him to town, to a larder full of "flour and oatmeal and figs and honey and dates." But someone comes into the larder, and they have to hide in "a narrow and exceedingly uncomfortable hole," so the Country Mouse goes home: "You live in the lap of luxury, I can see, but you are surrounded by dangers."  
+*Evidence: 6 quotes, from The Town Mouse and the Country Mouse.*
+
+**The Goose That Laid the Golden Eggs**  
+A Man and his Wife own "a Goose which laid a Golden Egg every day," but, thinking they are "not getting rich fast enough," they kill it to take the gold inside. It turns out to be "just like any other goose." The moral: "Much wants more and loses all."  
+*Evidence: 5 quotes, from The Goose That Laid the Golden Eggs.*
+
+### E3. The Happy Prince and Other Tales
+
+*Oscar Wilde, 1888. Text used: [Standard Ebooks](https://standardebooks.org/ebooks/oscar-wilde/childrens-stories) edition (*Children's Stories*, which adds *A House of Pomegranates*, 1891).*
+
+**Level: B1** (Lexile source: [library catalogue record](https://catalog.wake.gov/Record/711851))
+
+- *The Happy Prince and Other Tales* has a Lexile measure of 650L in most editions (900L in some illustrated ones).
+- The sentences are short and clear, but the vocabulary is more literary than the Lexile suggests ("coquette," "alighted," "pedestal"), which is why it is placed at B1 rather than A2.
+- The five tales were written as children's stories and come to about 16,000 words.
+- The same Standard Ebooks volume adds Wilde's second collection, *A House of Pomegranates*; its four tales total about 33,000 words, so each is much longer. Start with the first five.
+
+**The Happy Prince**  
+A statue on "a tall column" high above the city, "gilded all over with thin leaves of fine gold," with two sapphires for eyes and a ruby on his sword-hilt. As a living prince he lived in the Palace of Sans-Souci, "where sorrow is not allowed to enter." Now he can see "all the ugliness and all the misery of my city," and he weeps. He sends the Swallow to give away his ruby (to a poor seamstress with a sick little boy), then his two sapphire eyes (to a young writer too cold to finish his play, and to a little match-girl), then his gold "leaf by leaf," until he is blind and "quite dull and grey." When the Swallow dies, the Prince's lead heart snaps in two. The town melts the statue down, but the broken heart will not melt, and God's Angel chooses it as one of "the two most precious things in the city."  
+*Evidence: 16 quotes, from The Happy Prince.*
+
+**The Swallow**  
+A little bird who stays behind when his friends fly to Egypt, "for he was in love with the most beautiful Reed" (he soon gets tired of her: "She has no conversation"). Stopping for the night between the statue's feet, he is hit by the Prince's tears. Again and again the Prince asks, "Swallow, Swallow, little Swallow," and he stays "one night longer" to carry the ruby, the sapphires and the gold to the poor. When the Prince is blind, he promises, "I will stay with you always." He grows "colder and colder" but will not leave, and at last he kisses the Prince on the lips and falls "dead at his feet." At the end God says that "in my garden of Paradise this little bird shall sing forevermore."  
+*Evidence: 10 quotes, from The Happy Prince.*
+
+**The Selfish Giant**  
+A giant who comes home after seven years with "his friend the Cornish ogre" and finds children playing in his "large lovely garden." He builds a high wall with a noticeboard, "Trespassers Will Be Prosecuted." "He was a very selfish Giant." After that, spring never comes to his garden: "So it was always Winter there." When the children creep back in through a hole in the wall, spring comes back with them, except in one corner, where a little boy is too small to climb a tree. "How selfish I have been!" says the Giant. He lifts the boy into the tree, the boy kisses him, and he knocks down the wall. Years later, old and weak, he finds the same boy under a tree "quite covered with lovely white blossoms," with the prints of two nails on his hands and feet: "these are the wounds of Love." That afternoon the children find the Giant "lying dead under the tree, all covered with white blossoms."  
+*Evidence: 15 quotes, from The Selfish Giant.*
+
+**The Nightingale**  
+A nightingale who hears a young Student say that a girl will dance with him "if I brought her red roses," but there is no red rose in his garden. "Here at last is a true lover," she decides. The rose-tree under the Student's window tells her the only way to make one: "You must sing to me with your breast against a thorn," all night, until the thorn pierces her heart. "Death is a great price to pay for a red rose," she says, but "Love is better than Life." She sings until the rose is finished and is found "lying dead in the long grass, with the thorn in her heart." The Professor's daughter refuses the rose because "the Chamberlain's nephew has sent me some real jewels," and the Student throws it into the gutter, where "a cartwheel went over it."  
+*Evidence: 10 quotes, from The Nightingale and the Rose.*
+
+### E4. The Adventures of Pinocchio
+
+*Carlo Collodi, 1883. Text used: [Standard Ebooks](https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio) edition of an early English translation (the translator is not named; the wording is close to Mary Alice Murray's 1892 version).*
+
+**Level: B1** (Lexile source: [library catalogue record](https://opac.marmot.org/Record/.b11527602))
+
+- Lexile measure 780L; Accelerated Reader level 5.3.
+- First published as a serial in an Italian children's magazine, so it comes in 36 short chapters (about 41,500 words).
+
+**Pinocchio**  
+A wooden puppet that Geppetto carves from a piece of wood that can already cry and laugh. His nose grows while it is still being carved ("no sooner had he made it than it began to grow"), and later it grows whenever he lies to the Fairy: "his nose, which was already long, grew at once two inches longer." Lazy and easily tricked, he is robbed by the Fox and the Cat, runs off to the "Land of Boobies" with Candlewick, and wakes up with "a magnificent pair of donkey's ears." He finds Geppetto inside the Dogfish ("Oh, my dear papa! I have found you at last!") and at the end becomes "a well-behaved little boy."  
+*Evidence: 13 quotes, from Ch. I; Ch. III; Ch. XVII; Ch. XIX; Ch. XXIV; Ch. XXX; and 3 more.*
+
+**Geppetto** · *nicknamed "Pudding"*  
+"A lively little old man" whom the neighbourhood boys tease as "Pudding," because "his yellow wig greatly resembled a pudding made of Indian corn"; he is "very fiery" and flies into a rage at the name. He is so poor that the fire in his room is only painted on the wall. He carves Pinocchio and sells his old coat to buy him a spelling-book. At sea he is "swallowed by the terrible Dogfish," where Pinocchio finds him.  
+*Evidence: 5 quotes, from Ch. II; Ch. III; Ch. VIII; Ch. XXIV.*
+
+**The Talking-Cricket**  
+An old cricket who has "lived in this room a hundred years or more" and warns Pinocchio about disobedient boys. Pinocchio, angry at being called a puppet with "a wooden head," throws a hammer at him, and the Cricket is left "dried up and flattened against the wall." He comes back as "the ghost of the Talking-Cricket" to warn Pinocchio again. The name "Jiminy" comes from the Disney film.  
+*Evidence: 7 quotes, from Ch. IV; Ch. XIII.*
+
+**The Fairy with Blue Hair** · *first seen as "a beautiful Child"*  
+When Pinocchio runs from the assassins, "a beautiful Child" appears at a window: "She had blue hair and a face as white as a waxen image." As "the little Fairy with blue hair" she cares for him "with all the patience of a good mamma," tricks him into taking his medicine with sugar, and shows him that lies are easy to spot, because some lies "have long noses."  
+*Evidence: 4 quotes, from Ch. XV; Ch. XVII; Ch. XXV.*
+
+**The Fox and the Cat**  
+Two swindlers Pinocchio meets on the road: "a Fox lame of one foot, and a Cat blind of both eyes." Both are faking, because at the sound of his gold the Fox "stretched out the paw that seemed crippled, and the Cat opened wide two eyes." They tell him to bury his coins in "the Field of Miracles" so they will grow. Disguised as assassins in charcoal sacks, they hang him from the Big Oak. At the end they are begging, and the Cat "had so long feigned blindness that she had become blind in reality."  
+*Evidence: 7 quotes, from Ch. XII; Ch. XIV; Ch. XV; Ch. XXXVI.*
+
+**Fire-Eater** · *the showman*  
+The owner of the puppet theatre, "very big, and so ugly that the sight of him was enough to frighten anyone," with a beard "as black as ink" so long that "he trod upon it when he walked." He looks wicked but is soft-hearted: when he feels pity he sneezes ("The showman has sneezed and that is a sign that he pities you"). He spares Pinocchio and gives him "five gold pieces" for Geppetto.  
+*Evidence: 4 quotes, from Ch. X; Ch. XI; Ch. XII.*
+
+**Candlewick** · *real name Romeo*  
+Pinocchio's favourite schoolfellow, called Candlewick "because he was so thin, straight and bright, like the new wick of a little nightlight," and "the laziest and the naughtiest boy in the school." He persuades Pinocchio to come to the "Land of Boobies," where both boys turn into donkeys; Candlewick is sold to a peasant.  
+*Evidence: 5 quotes, from Ch. XXX; Ch. XXXIII.*
+
+**The Dogfish**  
+A huge sea monster that "has been spreading devastation and ruin" and swallows Geppetto and later Pinocchio. Inside it, Pinocchio finds his father, and they escape while "the Dogfish is sleeping like a dormouse." In the book it is a dogfish, not a whale.  
+*Evidence: 2 quotes, from Ch. XXIV; Ch. XXXV.*
+
+### E5. Winnie-the-Pooh
+
+*A. A. Milne, 1926. Text used: [Standard Ebooks](https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh) edition.*
+
+**Level: B1** (Lexile source: [library catalogue record](https://bemis.marmot.org/Record/.b28380289))
+
+- Lexile measure 790L; Accelerated Reader level 4.6.
+- Short: ten chapters, about 22,500 words.
+- Watch for jokes built on misspelling, like Owl's notice "Ples ring if an rnser is reqird" and Piglet's sign "Trespassers W".
+
+**Winnie-the-Pooh** · *Pooh; "Edward Bear"*  
+Christopher Robin's bear: "Edward Bear, known to his friends as Winnie-the-Pooh, or Pooh for short." He loves honey ("the only reason for making honey is so as I can eat it"), makes up little hums, and calls himself "a Bear of Very Little Brain, and long words Bother me." He floats up to a bees' nest on a balloon, trying "to look like a small black cloud," and eats so much at Rabbit's that he gets stuck in the front door, "a Wedged Bear in Great Tightness." To Christopher Robin he is "the Best Bear in All the World." Tigger is not in this book; he first appears in the sequel.  
+*Evidence: 10 quotes, from Ch. I; Ch. II; Ch. III; Ch. IV.*
+
+**Piglet**  
+Pooh's small, timid friend, who "lived in a very grand house in the middle of a beech-tree" beside a broken sign reading "Trespassers W," which he says was his grandfather's name. He admits "It is hard to be brave... when you're only a Very Small Animal." When a flood leaves him "Entirely Surrounded by Water," he sends a message in a bottle, and Christopher Robin and Pooh sail to him in "The Brain of Pooh."  
+*Evidence: 7 quotes, from Ch. III; Ch. VII; Ch. IX.*
+
+**Eeyore**  
+"The Old Grey Donkey," who "stood by himself in a thistly corner of the forest" and is always gloomy ("I don't seem to have felt at all how for a long time"). He loses his tail, which Pooh finds hanging on Owl's door as a "bell-rope"; Christopher Robin nails it back on. For his birthday he gets "a Useful Pot to Keep Things In" and a balloon that Piglet has burst on the way.  
+*Evidence: 6 quotes, from Ch. IV; Ch. VI.*
+
+**Owl**  
+The wise-seeming bird who lives at "The Chestnuts, an old-world residence of great charm." He can "read and write and spell his own name Wol," but "went all to pieces over delicate words like measles and buttered toast," so Christopher Robin writes his door notices. He likes long words, such as "the customary procedure," and has been using Eeyore's lost tail as his "Handsome bell-rope."  
+*Evidence: 5 quotes, from Ch. IV.*
+
+**Rabbit**  
+The forest's organiser, with a whole crowd of "friends-and-relations." Pooh gets stuck in his front door. When Kanga arrives he writes a "Plan to Capture Baby Roo," which starts from the facts that "Kanga runs faster than any of Us, even Me."  
+*Evidence: 4 quotes, from Ch. II; Ch. VII; Ch. VIII.*
+
+**Kanga and Baby Roo**  
+A mother kangaroo and her baby who suddenly appear in the forest. To Rabbit she is "a Strange Animal": "An animal who carries her family about with her in her pocket!" Rabbit's plan swaps Piglet for Roo in Kanga's pocket, but Kanga pretends not to notice and gives Piglet a bath instead.  
+*Evidence: 8 quotes, from Ch. VII; Ch. VIII.*
+
+**Christopher Robin**  
+The boy who owns Pooh and to whom the stories are told (the narrator calls him "you"). He is "the only one in the forest who could spell," calls Pooh "silly old Bear" "in such a loving voice," leads an "Expotition to the North Pole," and rescues Piglet from the flood.  
+*Evidence: 6 quotes, from Ch. I; Ch. II; Ch. IV; Ch. VIII; Ch. IX.*
+
+### E6. Grimms' Fairy Tales
+
+*Jacob and Wilhelm Grimm, 1812 (final edition 1857). Text used: [Standard Ebooks](https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt) edition of Margaret Hunt's translation (1884).*
+
+**Level: B1 (read tale by tale)** (Lexile source: [library catalogue record](https://bemis2.marmot.org/Record/.b28004279), [SuperSummary](https://supersummary.com/grimms-fairy-tales/book-brief))
+
+- Lexile measures of 980L–1090L depending on the edition; recommended for readers aged 8 and up.
+- More than 200 tales and about 283,000 words, far too long to read straight through, but each famous tale is only a few pages.
+- This 1884 translation keeps a few German name forms, such as "Hänsel and Grethel".
+
+**Hansel and Grethel** · *Hänsel and Gretel*  
+The children of "a poor woodcutter." When "great scarcity fell on the land," his wife persuades him to leave them in the forest. Hansel first marks the way home with "white pebbles" that shine "like real silver pennies," but on the next trip birds eat his trail of bread crumbs. Lost, they find a house "built of bread and covered with cakes" whose windows "were of clear sugar." The witch who lives there fattens Hansel to eat him, but he holds out "a little bone" instead of his finger, and Grethel pushes her into the oven: "Grethel gave her a push that drove her far into it."  
+*Evidence: 10 quotes, from Hänsel and Grethel.*
+
+**Little Redcap** · *Little Red Riding Hood*  
+A little girl whose grandmother gives her "a little cap of red velvet, which suited her so well that she would never wear anything else," and so she is called Little Redcap. Sent with "a piece of cake and a bottle of wine" to her sick grandmother, she meets the wolf, who reaches the house first and swallows both of them after the famous questions ("what big ears you have!"... "The better to eat you with!"). A passing huntsman cuts the wolf open with "a pair of scissors" and both come out alive; they fill the wolf with "great stones," and he falls dead.  
+*Evidence: 7 quotes, from Little Redcap.*
+
+**Snow-White** · *Snow White*  
+A princess "as white as snow, and as red as blood," with hair "as black as ebony." Her proud stepmother asks her mirror, "Looking-glass, Looking-glass, on the wall, Who in this land is the fairest of all?" and tries to kill her. Snow-White hides in the dwarfs' cottage with its "seven little beds." She does not wake with a kiss: the men carrying her coffin stumble, and "the poisonous piece of apple" comes out of her throat. At the wedding the stepmother must "put on the red-hot shoes, and dance until she dropped down dead."  
+*Evidence: 8 quotes, from Little Snow-White.*
+
+**Cinderella**  
+A girl whose stepsisters make her work in the kitchen "from morning till night" and sleep "by the fireside in the ashes." There is no fairy godmother and no glass slipper. She plants a hazel twig on her mother's grave, and a bird in the tree throws down her ball dresses when she calls, "Shiver and quiver, little tree, Silver and gold throw down over me." The prince has the stairs smeared with pitch, catches her "left slipper," which is "all golden," and one stepsister even cuts off her toe to fit it. At the wedding, pigeons peck out the stepsisters' eyes.  
+*Evidence: 9 quotes, from Cinderella.*
+
+**Rapunzel**  
+A girl locked by an enchantress in a tower that "had neither stairs nor door." Her "magnificent long hair, fine as spun gold" is the only way up: "Rapunzel, Rapunzel, Let down thy hair to me." When the enchantress finds out about the king's son, he leaps from the tower and "the thorns into which he fell, pierced his eyes." Years later Rapunzel finds him, and "Two of her tears wetted his eyes and they grew clear again."  
+*Evidence: 6 quotes, from Rapunzel.*
+
+**Rumpelstiltskin**  
+A little man who appears when a boastful miller claims his daughter "can spin straw into gold" and the King shuts her in with the straw. He spins it for her, the third time in return for a promise of "your first child." When she, now Queen, finally guesses "Perhaps your name is Rumpelstiltskin?", he drives his foot deep into the earth in his rage and pulls at his leg so hard that "he tore himself in two."  
+*Evidence: 7 quotes, from Rumpelstiltskin.*
+
+**The Frog-King** · *the frog prince*  
+A frog who brings back a princess's "golden ball" from a well after she promises to be his companion. When he creeps up to her in bed and asks to be lifted up, she does not kiss him: "she... threw him with all her might against the wall," and he turns into "a King's son with beautiful kind eyes." His servant, Faithful Henry, had been so unhappy that he had "three iron bands" put round his heart.  
+*Evidence: 6 quotes, from The Frog-King, or Iron Henry.*
+
+### E7. Heidi
+
+*Johanna Spyri, 1880–1881. Text used: [Standard Ebooks](https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork) edition of Elisabeth P. Stork's translation (1915).*
+
+**Level: B1 (upper end)** (Lexile source: [library catalogue record](https://lakecounty.marmot.org/Record/.b11611741))
+
+- Full-length editions have a Lexile measure of 1000L, the top of the lower-B1 range.
+- About 50,000 words.
+- A few Swiss-German names and words are kept ("the Alm-Uncle," "Im Dörfli"), and the text explains them.
+
+**Heidi** · *named after her mother, Adelheid*  
+An orphan girl, "scarcely five years old" when her aunt Deta takes her up the mountain and leaves her with her grandfather: her father Tobias was killed by a falling beam, and her mother Adelheid died soon after. On the Alm she sleeps in "a hayloft, which was filled with fresh and fragrant hay," and goes up to the pasture with Peter and the goats. Taken to Frankfurt as a companion for the sick girl Clara, she "can't read" at first, and grows "so homesick that her little body has wasted away" that she walks in her sleep, until a doctor sends her home, where she is "so happy to be home again." Back on the Alm she reads to Peter's blind grandmother and helps Clara learn to walk.  
+*Evidence: 13 quotes, from Part I, Ch. I; Part I, Ch. II; Part I, Ch. III; Part I, Ch. V; Part I, Ch. VI; Part I, Ch. XII; and 2 more.*
+
+**The Alm-Uncle** · *Heidi's grandfather*  
+Heidi's grandfather, a gruff old man living alone up on the Alm. He was once "heir to a large farm in Domleschg" but "lost everything with drink and play." The villagers are afraid of him, "with those thick grey eyebrows and that huge uncanny beard," but he takes Heidi in and later carries Clara up the mountain.  
+*Evidence: 8 quotes, from Part I, Ch. I; Part II, Ch. XXII.*
+
+**Peter the goatherd**  
+The village boy who takes the goats up to the pasture each day. He would rather cut hazel-rods than "learn to read" and lives with his mother and "an old blind grandmother." Jealous when Clara takes up all of Heidi's time, he pushes Clara's empty rolling-chair down the slope: "He had destroyed the chair to get rid of the stranger."  
+*Evidence: 7 quotes, from Part I, Ch. I; Part I, Ch. V; Part II, Ch. XXII.*
+
+**Clara Sesemann**  
+A girl in Frankfurt, "a sick child" who spends her days "in a comfortable rolling-chair," with "a pale, thin face with soft blue eyes." Heidi is brought to keep her company. Later Clara visits the Alm, and there she takes her first steps: "I can take steps, one after another."  
+*Evidence: 3 quotes, from Part I, Ch. VI; Part II, Ch. XXII.*
+
+**Miss Rottenmeier**  
+The strict housekeeper of the Sesemann house in Frankfurt, who "wore a peculiar uniform with a long cape, and a high cap on her head" and runs the whole household. She is shocked that Heidi has studied no books at all.  
+*Evidence: 4 quotes, from Part I, Ch. VI.*
+
+**Peter's grandmother**  
+Peter's old, blind grandmother, whom Heidi visits in the village. Heidi saves "soft white rolls" for her because "the black bread is too hard," and once Heidi can read, she reads her songs from her hymnbook.  
+*Evidence: 3 quotes, from Part I, Ch. I; Part I, Ch. V; Part I, Ch. XIV.*
+
+### E8. The Wonderful Wizard of Oz
+
+*L. Frank Baum, 1900. Text used: [Standard Ebooks](https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz) edition.*
+
+**Level: B1 (upper end)** (Lexile source: [ReadingVine](https://www.readingvine.com/the-wonderful-wizard-of-oz-reading-level/))
+
+- Lexile measure 1030L, a little above the lower-B1 range but well inside upper B1; recommended for grades 3–5 (Flesch-Kincaid grade 5.6).
+- About 39,000 words.
+- Plain, modern English: Baum wrote that it "aspires to being a modernized fairy tale".
+
+**Dorothy**  
+A little girl who lives on the gray Kansas prairie with Uncle Henry, "who was a farmer," and Aunt Em. A cyclone carries her house to the Land of Oz, where it falls on the Wicked Witch of the East, and Dorothy is given the Witch's "silver shoes with pointed toes." In her gingham dress "with checks of white and blue" and a pink sunbonnet, she follows the road "paved with yellow brick" to the Emerald City to ask the Wizard to send her home. She melts the Wicked Witch of the West with "the bucket of water," and finally clicks her heels together three times: "Take me home to Aunt Em!" The book never gives her a surname, and her shoes are silver; the ruby slippers come from the film.  
+*Evidence: 13 quotes, from Ch. I; Ch. II; Ch. III; Ch. VI; Ch. XII; Ch. XXIII.*
+
+**Toto** · *Dorothy's dog*  
+Dorothy's dog, "a little black dog, with long silky hair and small black eyes that twinkled merrily." In gray Kansas, "It was Toto that made Dorothy laugh." In the Wizard's throne room he jumps away from the Lion's roar and tips over a screen, uncovering the real Wizard.  
+*Evidence: 3 quotes, from Ch. I; Ch. VI; Ch. XV.*
+
+**The Scarecrow**  
+A scarecrow whose head is "a small sack stuffed with straw, with eyes, nose, and mouth painted on it." Dorothy lifts him off his pole in a cornfield. "I am stuffed, so I have no brains at all," he says, so he goes to ask Oz for some. The Wizard fills his head with bran mixed with pins and needles ("bran-new brains"), and he ends up as "the ruler of the Emerald City."  
+*Evidence: 8 quotes, from Ch. III; Ch. XVI; Ch. XVIII.*
+
+**The Tin Woodman**  
+Found in the forest with his axe raised, "a man made entirely of tin" who cannot move: "They are rusted so badly that I cannot move them at all," so he begs for an oilcan. He was once a woodchopper; after the Wicked Witch of the East enchanted his axe, it cut off his legs and arms one after another, and a tinsmith replaced each with tin. He wants a heart, and the Wizard gives him one "made entirely of silk and stuffed with sawdust." Glinda sends him to "rule the Winkies."  
+*Evidence: 9 quotes, from Ch. V; Ch. XVI; Ch. XXIII.*
+
+**The Cowardly Lion**  
+A lion everyone expects to be brave, since "the Lion is everywhere thought to be the King of Beasts," but who covers his fear by roaring: "I'm such a coward." He joins Dorothy because "my life is simply unbearable without a bit of courage." The Wizard gives him a green-gold dish to "Drink," explaining that "courage is always inside one." Later the forest animals accept him as "King of the Forest."  
+*Evidence: 8 quotes, from Ch. VI; Ch. XI; Ch. XVI; Ch. XXI.*
+
+**The Wizard of Oz** · *"Oz, the Great and Terrible"*  
+The ruler of the Emerald City, who announces himself as "Oz, the Great and Terrible" and receives each visitor in a different shape: "an enormous Head, without a body," "a most lovely Lady," a Beast, a Ball of Fire. Behind the screen he is "a little old man, with a bald head and a wrinkled face," born in Omaha, who was a ventriloquist and then a balloonist. He admits "I am a humbug" and "a very good man, but I'm a very bad Wizard." He made the city look green by making everyone wear green spectacles, and he leaves in his balloon.  
+*Evidence: 14 quotes, from Ch. XI; Ch. XV; Ch. XVII.*
+
+**The Wicked Witch of the West**  
+The witch who rules the West, "where the Winkies live," and "would make you her slave if you passed her way." She "had but one eye, yet that was as powerful as a telescope," commands the Winged Monkeys through her Golden Cap, and is "too much afraid of the dark" to steal Dorothy's shoes at night. When Dorothy throws water over her she melts "like brown sugar": "Didn't you know water would be the end of me?"  
+*Evidence: 7 quotes, from Ch. II; Ch. XII.*
+
+**Glinda** · *the Good Witch of the South*  
+"The Witch of the South," "the most powerful of all the Witches," who "rules over the Quadlings." She is "both beautiful and young," with hair "a rich red in color" and blue eyes, and she tells Dorothy that the silver shoes can carry her anywhere: "All you have to do is to knock the heels together three times." In the book she is the Witch of the South; the kindly Witch who meets Dorothy first is the Witch of the North, who kisses her forehead.  
+*Evidence: 4 quotes, from Ch. II; Ch. XVIII; Ch. XXIII.*
+
+### Close, but above B1
+
+Also public domain and often given to children, but judged harder than B1:
+
+- ***Peter Pan (Peter and Wendy)*** (J. M. Barrie, 1911): **B2**. Its Lexile (920L–980L) looks easy, but the narrator is sarcastic and opinionated and uses rare words on purpose ("embonpoint," "pluperfect," "quietus" are all in the text). ([CBCA Reading Time review](https://readingtime.cbca.org.au/complete-peter-pan/))
+- ***Black Beauty*** (Anna Sewell, 1877): **B1–B2**. Lexile about 990L–1020L, but Sewell wrote it for adults who work with horses, not for children, and it is full of harness terms such as "bearing reins." ([ReadingVine](https://www.readingvine.com/books/black-beauty/), [Susan Elkin](https://susanelkin.co.uk/articles/susans-bookshelves-black-beauty-by-anna-sewell/))
+- ***The Secret Garden*** (Frances Hodgson Burnett, 1911): **B2**. Lexile 970L, but much of the dialogue is in Yorkshire dialect ("An' tha's browt th' young 'un with thee"); one study guide needs a glossary of more than 400 entries. ([Heron Books glossary](https://www.heronbooks.com/store/Glossary-and-Notes-The-Secret-Garden-p143416150))
+- ***The Jungle Book*** (Rudyard Kipling, 1894): **B2**. Lexile 1140L, recommended for grades 5–8, and the animals speak old-fashioned English ("Thou art the master"). ([ReadingVine](https://www.readingvine.com/books/the-jungle-book/))
+
+### Also easy, but not checked here
+
+Standard Ebooks has no edition of these that I could find, so their characters could not go through the same checks:
+
+- Hans Christian Andersen's fairy tales: Lexile 860L–1040L depending on the translation ([TeachingBooks](https://school.teachingbooks.net/tb.cgi?tid=23948), [Reading Is Fundamental](https://rif.org/literacy-central/book/classic-fairy-tales-andersens-fairy-tales)).
+- Joseph Jacobs's *English Fairy Tales* (Jack and the Beanstalk, the Three Little Pigs): Lexile 1040L, ages 8–14 ([library catalogue record](https://lafayette.flatironslibrary.org/Record/.b25679065)).
+- *The Velveteen Rabbit* (Margery Williams, 1922): Lexile AD1050L, and very short ([library catalogue record](https://eh.catalog.lionlibraries.org/Record/.b17226879)).
+
+### Public domain (easy reads)
+
+All eight were first published before 1931, so they are public domain in the United States. Elsewhere, check first: *Winnie-the-Pooh* stays in copyright in the UK and the EU until 1 January 2027, because A. A. Milne died in 1956; I could not find when the translators of the Aesop and Heidi editions (V. S. Vernon Jones, Elisabeth P. Stork) died; and the Pinocchio translator is not named. The other authors and translators all died before 1956.
+
 ## How the descriptions were checked
 
-The fifteen texts were downloaded from Standard Ebooks' public source repositories on GitHub (Project Gutenberg and Wikipedia were blocked by this environment's network policy) and flattened into plain text, one section per chapter, so every quote can be traced to its chapter. Matching ignores only typography: curly vs straight quotes, dash styles, accents and line breaks. Capitalisation and every word must match.
+The 23 texts (the fifteen famous books and the 8 easy reads) were downloaded from Standard Ebooks' public source repositories on GitHub (Project Gutenberg and Wikipedia were blocked by this environment's network policy) and flattened into plain text, one section per chapter (per tale or fable for the collections), so every quote can be traced to where it is. Matching ignores only typography: curly vs straight quotes, dash styles, accents and line breaks. Capitalisation and every word must match.
 
 ### 1. Word for word
 
-`verify.py check` looks up every supporting quote (787), every phrase quoted inside a description (474), and every "myth" pattern that must *not* be in the book (13): **1,274 checks, 0 failures.** Along the way it caught real misquotes that had to be fixed. Scrooge's "Bah! Humbug!" is really two separate lines ("Bah!" said Scrooge. "Humbug!"). Bob Cratchit earns "fifteen shillings a week," not "fifteen bob." Wolfshiem's line is "Finest specimens of human molars," not "the finest specimens." A missing comma in Tom Buchanan's description was restored, and a Pride and Prejudice quote that turned out not to exist was replaced with one that does.
+`verify.py check` looks up every supporting quote (1,202), every phrase quoted inside a description (742), and every "myth" pattern that must *not* be in the book (25): **1,969 checks, 0 failures.** Along the way it caught real misquotes that had to be fixed. Scrooge's "Bah! Humbug!" is really two separate lines ("Bah!" said Scrooge. "Humbug!"). Bob Cratchit earns "fifteen shillings a week," not "fifteen bob." Wolfshiem's line is "Finest specimens of human molars," not "the finest specimens." A missing comma in Tom Buchanan's description was restored, and a Pride and Prejudice quote that turned out not to exist was replaced with one that does. In Aesop, the Fox never says "sour grapes": he says the grapes "are quite sour," so the phrase lost its quotation marks.
 
 ### 2. Right character
 
 A quote can be real and still describe someone else. An early context check flagged 128 quotes whose surroundings never named the character. Rather than leave those for a manual review, `attribution_check.py` resolves every quote to its character with explicit rules, strongest first:
 
-- **NAME** (633): the character's name (or a name the book uses for them) appears within 700 characters of the quote.
-- **ROLE** (74): a word the book uses for that character ("the Count", "the clerk", "the Queen") appears within 700 characters.
+- **NAME** (1028): the character's name (or a name the book uses for them) appears within 700 characters of the quote.
+- **ROLE** (79): a word the book uses for that character ("the Count", "the clerk", "the Queen") appears within 700 characters.
 - **NARRATOR** (28): the passage is first-person narration by that character (Ishmael, Huck, Nick, Watson; the diaries in Dracula; Walton's letters and Victor's chapters in Frankenstein).
-- **SUBJECT** (20): the quote is about the character through someone named in its note (e.g. the real killer confessing, for Lestrade), and that name appears within 2,000 characters.
-- **SPEAKER** (2): a speech tag right next to the quote names the character.
-- **NEAR** (22): the character's name or role word appears within 1,500 characters.
-- **LINKED** (8): same chapter, within 4,000 characters of another quote for the same character that passed a stronger rule.
+- **SUBJECT** (22): the quote is about the character through someone named in its note (e.g. the real killer confessing, for Lestrade), and that name appears within 2,000 characters.
+- **SPEAKER** (4): a speech tag right next to the quote names the character.
+- **NEAR** (31): the character's name or role word appears within 1,500 characters.
+- **LINKED** (10): same chapter, within 4,000 characters of another quote for the same character that passed a stronger rule.
 
-**Result: 787 of 787 quotes resolved, none left over.** Where a quote could only be tied to its character indirectly, a quote that names the character was added next to it: for example, "I believe it is the Count, but he has grown young" beside the description of Dracula in London. Two weak quotes were replaced outright: Raskolnikov's fever now rests on a line that names him, and Pap Finn's death on Jim's own words at the end of the book.
+**Result: 1,202 of 1,202 quotes resolved, none left over.** Where a quote could only be tied to its character indirectly, a quote that names the character was added next to it: for example, "I believe it is the Count, but he has grown young" beside the description of Dracula in London. Two weak quotes were replaced outright: Raskolnikov's fever now rests on a line that names him, and Pap Finn's death on Jim's own words at the end of the book. In *Pinocchio*, two quotes were tied to their characters only after the book's own words for them were added to the rules: "papa" for Geppetto and "assassins" for the Fox and the Cat in disguise.
 
 ### 3. Nothing invented
 
-`specifics_check.py` takes every number and every proper name in each description (outside the quoted phrases, which check 1 already covers) and requires it to appear in that character's own quotes or in the chapter headings where they sit. The notes attached to each quote don't count, because those are my words. **Result: 0 exceptions.** Two words are deliberately allowed: "Igor" (in the note that the book has no Igor) and "Kokovoko" (another edition's spelling). This check found real errors:
+`specifics_check.py` takes every number and every proper name in each description (outside the quoted phrases, which check 1 already covers) and requires it to appear in that character's own quotes or in the chapter headings where they sit. The notes attached to each quote don't count, because those are my words. **Result: 0 exceptions.** Four words are deliberately allowed: "Igor" and "Tigger" (in the notes that the book has no Igor and no Tigger), "Kokovoko" (another edition's spelling) and "Disney" (in the note on where the name Jiminy comes from). This check found real errors:
 
 - Quincey Morris was described as Lucy's *third* suitor. Her letter calls him "number Two."
 - Irene Adler was called "the one person who outwits Holmes," but in *The Five Orange Pips* Holmes says he has been "beaten four times-three times by men, and once by a woman." She is now "the woman who outwits Holmes."
 - In *Hamlet*, eight facts had been taken from the edition's cast list, which later editors added and Shakespeare did not write. Each was replaced with a line from the play itself. Polonius's title "lord chamberlain" appears only in that cast list, and the description now says so.
 - Dozens of true but unsupported details (Troy, the Pequod, Transylvania, Yale, the Mississippi, Bald Hills, Georgiana, Godfrey Norton and more) each got a quote from the book that states them.
+- In the easy reads, details such as Kansas and the Witch of the North (Oz), Deta and Frankfurt (Heidi), and Rumpelstiltskin's "third time" first had no supporting quote; each got one or was cut.
 
 ### 4. Outside sources, and a line-by-line read
 
@@ -642,17 +986,24 @@ Key facts for every book were compared with independent references found by web 
 | Alice's Adventures in Wonderland | a summary called the Caterpillar's blue colour a later addition | "a large blue caterpillar" |
 | War and Peace | Nikolay and Marya marry in 1814 (some study guides) | "In the winter of 1813 Nikolay married Princess Marya" |
 | Don Quixote | Dapple is a mule (one summary) | Dapple is Sancho's "ass" |
+| Heidi | "both parents are killed" (Wikipedia) | only her father is killed, by a falling beam; her mother dies a few weeks later of "a violent fever with grief and fright" |
 
-Finally, every description was re-read sentence by sentence against its quotes. Any word going beyond the evidence was either backed with a new quote or cut. This pass alone added 142 supporting quotes (645 became 787). For example, "meek" became "timid" for Sonia (the book says she "looked timidly"), and "proud" was dropped for Katerina Ivanovna and Prince Andrey. "Starving" became "crushed by poverty" for Raskolnikov, and Dracula now "can come in mist," as the book says, not fog. Argus lying "Neglected" and Samson Carrasco's studies at Salamanca were both confirmed in the text.
+The outside sources also led to two fixes: *Heidi*'s first-publication date is now 1880–1881, because it first came out in two parts, and the Wizard of Oz's description now includes his past as a ventriloquist, which the book mentions but the first draft left out.
+
+Finally, every description was re-read sentence by sentence against its quotes. Any word going beyond the evidence was either backed with a new quote or cut. For the fifteen famous books, this pass alone added 142 supporting quotes (645 became 787). For example, "meek" became "timid" for Sonia (the book says she "looked timidly"), and "proud" was dropped for Katerina Ivanovna and Prince Andrey. "Starving" became "crushed by poverty" for Raskolnikov, and Dracula now "can come in mist," as the book says, not fog. Argus lying "Neglected" and Samson Carrasco's studies at Salamanca were both confirmed in the text. The easy reads got the same read, which added 48 supporting quotes (367 became 415) and changed a few words: Aesop's Fox is no longer "vain"; Pooh is "Christopher Robin's bear," because the book never says "teddy bear"; and Peter Rabbit is no longer "frightened" in *The Tale of Benjamin Bunny*, where the book only says he "kept hearing noises."
 
 ## What the books don't say
 
-These popular images are not in the books. Each was checked as a search pattern that must find nothing in the whole text:
+These popular images are not in the books. Each was checked as a search pattern that must find nothing in the whole text (for the Grimm tales, in that tale):
 
 - **Frankenstein:** no Igor, no neck bolts, no green skin, and nobody calls Victor "Doctor"; he is a student. The Creature has no name. "Frankenstein" is the scientist.
 - **Dracula:** "I never drink ... wine" is not in the novel. Daylight weakens the Count but does not kill him, and he is destroyed with two knives, not a stake.
 - **Alice:** the book never says "Mad Hatter," never gives Alice's age or hair colour, and has no blue dress or "10/6" hat tag. Those come from illustrations and films. Her age, seven and a half, is given only in the sequel, *Through the Looking-Glass*.
 - **Sherlock Holmes:** in this collection nobody says "Elementary, my dear Watson," the word "deerstalker" never appears (he wears a "close-fitting cloth cap"), and Watson is never called John. His wife calls him "James" once.
+- **The Wonderful Wizard of Oz:** Dorothy's shoes are silver, never ruby; she is never called Dorothy Gale; there is no rainbow; and nobody says "not in Kansas anymore" or "I'll get you, my pretty." Those come from the film.
+- **Pinocchio:** the cricket is never called Jiminy, the sea monster is "the terrible Dogfish," not a whale, and the words "real boy" never appear: at the end Pinocchio becomes "a well-behaved little boy."
+- **Winnie-the-Pooh:** Tigger is not in this book; he first appears in the sequel, *The House at Pooh Corner* (1928).
+- **Grimms' Fairy Tales:** Cinderella has no fairy godmother, no pumpkin, no glass slipper (hers is golden) and no midnight deadline; Snow-White and the Frog-King are not changed by a kiss.
 
 ## Edition notes
 
@@ -661,10 +1012,14 @@ These popular images are not in the books. Each was checked as a search pattern 
 - **Hamlet:** the "Dramatis Personae" list in modern editions was added by editors. Quotes here come from the dialogue, except the one that says so.
 - **War and Peace** is in Louise and Aylmer Maude's translation as published by Standard Ebooks, which spells the names Andrey, Nikolay, Marya and Elen. Other printings and guides use Andrew or Andrei, Nicholas or Nikolai, Mary or Maria, and Hélène.
 - **The Adventures of Sherlock Holmes:** in "A Scandal in Bohemia" the landlady is "Mrs. Turner"; in "The Man with the Twisted Lip" Watson's wife calls him "James." Both are well-known inconsistencies in the stories.
+- **The Adventures of Pinocchio** is in an early English translation whose translator is not named. It uses its own English names: Candlewick (Lucignolo in Italian, Lampwick in other versions), the "Land of Boobies" (usually the Land of Toys), and "Pudding" for Geppetto's nickname, Polendina.
+- **Grimms' Fairy Tales** is in Margaret Hunt's 1884 translation of the brothers' final (1857) edition, which keeps some German name forms ("Hänsel and Grethel"). Some endings were different in the first edition of 1812: there, Rumpelstiltskin simply ran away angrily instead of tearing himself in two.
+- **The Happy Prince and Other Tales:** Standard Ebooks publishes it together with *A House of Pomegranates* (1891) as *Children's Stories*. The characters here come from the first collection.
+- **Beatrix Potter:** the text spells two names with a small letter, "Mrs. Tiggy-winkle" and "Jemima Puddle-duck"; the titles of their tales use capitals.
 
 ## Runners-up
 
-Considered but not included (approximate rank on *The Greatest Books* in brackets):
+Considered for the fifteen but not included (approximate rank on *The Greatest Books* in brackets):
 
 - *Ulysses*, James Joyce (~1): Fame rests on style; characters not household names
 - *In Search of Lost Time*, Marcel Proust (~2): Fame rests on style; characters not household names
@@ -704,10 +1059,22 @@ Considered but not included (approximate rank on *The Greatest Books* in bracket
 - [The Adventures of Sherlock Holmes](https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes) · [source](https://github.com/standardebooks/arthur-conan-doyle_the-adventures-of-sherlock-holmes) (commit `48ec456`)
 - [Dracula](https://standardebooks.org/ebooks/bram-stoker/dracula) · [source](https://github.com/standardebooks/bram-stoker_dracula) (commit `e9e81aa`)
 - [The Great Gatsby](https://standardebooks.org/ebooks/f-scott-fitzgerald/the-great-gatsby) · [source](https://github.com/standardebooks/f-scott-fitzgerald_the-great-gatsby) (commit `fe47c8c`)
+- [The Tale of Peter Rabbit and other tales](https://standardebooks.org/ebooks/beatrix-potter/short-fiction) · [source](https://github.com/standardebooks/beatrix-potter_short-fiction) (commit `5feaeb5`)
+- [Aesop's Fables](https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones) · [source](https://github.com/standardebooks/aesop_fables_v-s-vernon-jones) (commit `507d9e3`)
+- [The Happy Prince and Other Tales](https://standardebooks.org/ebooks/oscar-wilde/childrens-stories) · [source](https://github.com/standardebooks/oscar-wilde_childrens-stories) (commit `ea13000`)
+- [The Adventures of Pinocchio](https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio) · [source](https://github.com/standardebooks/carlo-collodi_the-adventures-of-pinocchio) (commit `0849ff2`)
+- [Winnie-the-Pooh](https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh) · [source](https://github.com/standardebooks/a-a-milne_winnie-the-pooh) (commit `ac37a52`)
+- [Grimms' Fairy Tales](https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt) · [source](https://github.com/standardebooks/jacob-grimm_wilhelm-grimm_household-tales_margaret-hunt) (commit `971c65b`)
+- [Heidi](https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork) · [source](https://github.com/standardebooks/johanna-spyri_heidi_elisabeth-p-stork) (commit `1b0cfa3`)
+- [The Wonderful Wizard of Oz](https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz) · [source](https://github.com/standardebooks/l-frank-baum_the-wonderful-wizard-of-oz) (commit `36104f0`)
+
+Texts used only to check the examples quoted in the "above B1" notes: [Peter and Wendy](https://standardebooks.org/ebooks/j-m-barrie/peter-and-wendy) (commit `764d4ad`), [Black Beauty](https://standardebooks.org/ebooks/anna-sewell/black-beauty) (commit `746066c`), [The Secret Garden](https://standardebooks.org/ebooks/frances-hodgson-burnett/the-secret-garden) (commit `17f754b`), [The Jungle Book](https://standardebooks.org/ebooks/rudyard-kipling/the-jungle-book) (commit `ece216c`).
 
 **Ranking and fame:** [The Greatest Books](https://thegreatestbooks.org/); Guinness World Records on [Dracula](https://guinnessworldrecords.com/world-records/97587-most-portrayed-literary-character-in-film) and [Sherlock Holmes](https://www.guinnessworldrecords.com/world-records/103061-most-portrayed-human-literary-character-in-film-tv); [most-downloaded Project Gutenberg books](https://www.todoereaders.com/en/these-are-the-50-most-downloaded-ebooks-of-the-gutenberg-project.html); *A Christmas Carol* adaptations ([Film Inquiry](https://www.filminquiry.com/?p=131064), [Penguin](https://www.penguin.co.uk/discover/articles/best-christmas-carol-film-and-tv-adaptations)).
 
-**Outside references for check 4** (read as search results, since direct access to these sites was blocked):
+**Reading levels:** MetaMetrics' Lexile–CEFR alignment ([research brief](https://www2.metametricsinc.com/hubfs/Aligning-the-Lexile-Framework-to-the-CEFR-Research-Brief.pdf); [2018 concordance table](https://metametricsinc.com/wp-content/uploads/2018/07/Aligning-the-Lexile-Framework-to-the-CEFR.pdf)). Lexile measures and grade bands: *The Tale of Peter Rabbit and other tales* ([library catalogue record](https://eh.catalog.lionlibraries.org/Record/.b21889764)); *Aesop's Fables* ([library catalogue record](https://catalog.deerfieldlibrary.org/Record/.b10959373)); *The Happy Prince and Other Tales* ([library catalogue record](https://catalog.wake.gov/Record/711851)); *The Adventures of Pinocchio* ([library catalogue record](https://opac.marmot.org/Record/.b11527602)); *Winnie-the-Pooh* ([library catalogue record](https://bemis.marmot.org/Record/.b28380289)); *Grimms' Fairy Tales* ([library catalogue record](https://bemis2.marmot.org/Record/.b28004279), [SuperSummary](https://supersummary.com/grimms-fairy-tales/book-brief)); *Heidi* ([library catalogue record](https://lakecounty.marmot.org/Record/.b11611741)); *The Wonderful Wizard of Oz* ([ReadingVine](https://www.readingvine.com/the-wonderful-wizard-of-oz-reading-level/)). Judged above B1: *Peter Pan (Peter and Wendy)* ([CBCA Reading Time review](https://readingtime.cbca.org.au/complete-peter-pan/)); *Black Beauty* ([ReadingVine](https://www.readingvine.com/books/black-beauty/), [Susan Elkin](https://susanelkin.co.uk/articles/susans-bookshelves-black-beauty-by-anna-sewell/)); *The Secret Garden* ([Heron Books glossary](https://www.heronbooks.com/store/Glossary-and-Notes-The-Secret-Garden-p143416150)); *The Jungle Book* ([ReadingVine](https://www.readingvine.com/books/the-jungle-book/)). Not checked here: Hans Christian Andersen's fairy tales ([TeachingBooks](https://school.teachingbooks.net/tb.cgi?tid=23948), [Reading Is Fundamental](https://rif.org/literacy-central/book/classic-fairy-tales-andersens-fairy-tales)); Joseph Jacobs's *English Fairy Tales* (Jack and the Beanstalk, the Three Little Pigs) ([library catalogue record](https://lafayette.flatironslibrary.org/Record/.b25679065)); *The Velveteen Rabbit* (Margery Williams, 1922) ([library catalogue record](https://eh.catalog.lionlibraries.org/Record/.b17226879)).
+
+**Outside references for check 4** (read through web-search results; several of these sites, Wikipedia among them, are blocked by this environment's network policy):
 
 - The Odyssey: [Wikipedia: Argos (dog)](https://en.wikipedia.org/wiki/Argos_%28dog%29), [Wikipedia: Eurycleia](https://en.wikipedia.org/wiki/Eurycleia_%28nurse_of_Odysseus%29), [MythWeb: Odyssey Book 19](https://www.mythweb.com/Odyssey/book19.html)
 - Hamlet: [Shakespeare Online: Hamlet's age](https://shakespeare-online.com/plays/hamlet/hamletsage.html), [Shmoop: Yorick's skull](https://www.shmoop.com/hamlet/yorick-skull-graveyard-symbol.html)
@@ -724,6 +1091,14 @@ Considered but not included (approximate rank on *The Greatest Books* in bracket
 - The Adventures of Sherlock Holmes: [arthur-conan-doyle.com: Irene Adler](https://arthur-conan-doyle.com/index.php/Irene_Adler), [Book Riot: Irene Adler](https://bookriot.com/will-real-irene-adler-please-step-forward/)
 - Dracula: [Dracula Wiki: Count Dracula](https://dracula.fandom.com/wiki/Count_Dracula), [eNotes: Dracula characters](https://www.enotes.com/topics/dracula/questions/adjectives-for-characters-dracula-387256)
 - The Great Gatsby: [Wikipedia: Jay Gatsby](https://en.wikipedia.org/wiki/Jay_Gatsby), [Book Analysis: characters](https://bookanalysis.com/f-scott-fitzgerald/the-great-gatsby/characters/), [Britannica: Jay Gatsby](https://britannica.com/topic/Jay-Gatsby)
+- The Tale of Peter Rabbit and other tales: [Wikipedia: The Tale of Peter Rabbit](https://en.wikipedia.org/wiki/The_Tale_of_Peter_Rabbit), [Wikipedia: The Tale of the Flopsy Bunnies](https://en.wikipedia.org/wiki/The_Tale_of_the_Flopsy_Bunnies), [Wikipedia: The Tale of Mrs. Tiggy-Winkle](https://en.wikipedia.org/wiki/The_Tale_of_Mrs._Tiggy-Winkle), [Wikipedia: The Tale of Johnny Town-Mouse](https://en.wikipedia.org/wiki/The_Tale_of_Johnny_Town-Mouse), [Literature Wiki: The Tale of Squirrel Nutkin](https://literature.fandom.com/wiki/The_Tale_of_Squirrel_Nutkin), [Lit2Go: The Tale of Mr. Jeremy Fisher](https://etc.usf.edu/lit2go/148/peter-rabbit-and-other-stories/4908/the-tale-of-mr-jeremy-fisher/)
+- Aesop's Fables: [Wikipedia: The Fox and the Grapes](https://en.wikipedia.org/wiki/The_Fox_and_the_Grapes), [Interesting Literature: The Boy Who Cried Wolf](https://interestingliterature.com/2021/04/boy-who-cried-wolf-fable-summary-analysis-meaning/), [Rare Books Ireland: the 1912 Vernon Jones and Rackham edition](https://rarebooks.ie/?p=22726)
+- The Happy Prince and Other Tales: [Wikipedia: The Happy Prince and Other Tales](https://en.wikipedia.org/wiki/The_Happy_Prince_and_Other_Tales)
+- The Adventures of Pinocchio: [Wikipedia: The Adventures of Pinocchio](https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio), [Wikipedia: Geppetto](https://en.wikipedia.org/wiki/Geppetto), [Wikipedia: Candlewick](https://en.wikipedia.org/wiki/Candlewick_%28character%29), [Wikipedia: Land of Toys](https://en.wikipedia.org/wiki/Land_of_Toys)
+- Winnie-the-Pooh: [Wikipedia: The House at Pooh Corner](https://en.wikipedia.org/wiki/The_House_at_Pooh_Corner), [Wikipedia: Piglet](https://en.wikipedia.org/wiki/Piglet_%28Winnie-the-Pooh%29), [Wikipedia: Owl](https://en.wikipedia.org/wiki/Owl_%28Winnie-the-Pooh%29), [Wikipedia: Eeyore](https://en.wikipedia.org/wiki/Eeyore)
+- Grimms' Fairy Tales: [University of Michigan Library: Aschenputtel](https://blogs.lib.umich.edu/beyond-reading-room/fairy-tale-fridays-aschenputtel), [D. L. Ashliman: Little Red Cap](https://sites.pitt.edu/~dash/grimm026.html), [Wikipedia: The Frog Prince](https://en.wikipedia.org/wiki/The_Frog_Prince), [Wikipedia: Rapunzel](https://en.wikipedia.org/wiki/Rapunzel), [Wikipedia: Rumpelstiltskin](https://en.wikipedia.org/wiki/Rumpelstiltskin)
+- Heidi: [Wikipedia: Heidi](https://en.wikipedia.org/wiki/Heidi), [EBSCO Research Starters: Heidi](https://www.ebsco.com/research-starters/literature-and-writing/heidi-johanna-spyri)
+- The Wonderful Wizard of Oz: [Britannica: The Wonderful Wizard of Oz](https://britannica.com/topic/The-Wonderful-Wizard-of-Oz/Introduction), [SparkNotes: The Discovery of Oz, the Terrible](https://sparknotes.com/lit/wonderful-wizard-of-oz/section8), [Lit2Go: Glinda grants Dorothy's wish](https://etc.usf.edu/lit2go/158/the-wonderful-wizard-of-oz/2768/chapter-23-glinda-the-good-witch-grants-dorothys-wish/)
 
 ---
-*Sources: the 15 Standard Ebooks texts listed above (primary); The Greatest Books; Guinness World Records; the outside references listed above; full evidence in [2026-09-29_public-domain-characters-verification/evidence.md](2026-09-29_public-domain-characters-verification/evidence.md).*
+*Sources: the 23 Standard Ebooks texts listed above (primary); The Greatest Books; Guinness World Records; MetaMetrics and the reading-level sources listed above; the outside references listed above; full evidence in [2026-09-29_public-domain-characters-verification/evidence.md](2026-09-29_public-domain-characters-verification/evidence.md).*

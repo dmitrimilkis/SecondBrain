@@ -176,8 +176,18 @@ def cmd_check(books):
                         report.append(f"{status}: {book} / {ch['name']}: \"{part[:90]}\"")
             for neg in ch.get("absent", []):
                 total += 1
+                # "in:<part of a section label>::<regex>" limits the search to matching sections,
+                # e.g. no kiss in "Little Snow-White" although other tales in the book have one
+                scope = None
+                if neg.startswith("in:"):
+                    scope, neg = neg[3:].split("::", 1)
                 pat = re.compile(neg, re.I)
-                found = [s["label"] for s in secs if not s["parent"] and pat.search(s["ntext"])]
+                pool = [s for s in secs if not s["parent"] and (scope is None or scope in s["label"])]
+                if scope is not None and not pool:
+                    bad += 1
+                    report.append(f"SCOPE NOT FOUND: {book} / {ch['name']}: {scope}")
+                    continue
+                found = [s["label"] for s in pool if pat.search(s["ntext"])]
                 if found:
                     bad += 1
                     report.append(f"PRESENT (should be absent): {book} / {ch['name']}: /{neg}/ in {found[:3]}")

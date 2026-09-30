@@ -1,0 +1,28 @@
+OK       potter: "soporific" (The Tale of the Flopsy Bunnies)
+OK       potter: "implored him to exert himself" (The Tale of Peter Rabbit)
+OK       aesop: "Slow and steady wins the race." (The Hare and the Tortoise)
+OK       wilde: "coquette" (The Happy Prince)
+OK       wilde: "alighted" (The Happy Prince)
+OK       wilde: "pedestal" (The Happy Prince)
+OK       pooh: "Ples ring if an rnser is reqird" (Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One)
+OK       pooh: "Trespassers W" (Chapter III: In Which Pooh and Piglet Go Hunting and Nearly Catch a Woozle)
+OK       grimm: "Hänsel and Grethel" (Hänsel and Grethel)
+OK       heidi: "the Alm-Uncle" (Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle)
+OK       heidi: "Im Dörfli" (Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle)
+OK       oz: "aspires to being a modernized fairy tale" (Introduction)
+OK       peterpan: "embonpoint" (Chapter III: Come Away, Come Away!)
+OK       peterpan: "pluperfect" (Chapter V: The Island Come True)
+OK       peterpan: "quietus" (Chapter XV: “Hook or Me This Time”)
+OK       blackbeauty: "bearing reins" (Part II, Chapter XXII: Earlshall)
+OK       secretgarden: "An' tha's browt th' young 'un with thee" (Chapter III: Across the Moor)
+OK       junglebook: "Thou art the master" (Mowgli’s Brothers)
+OK       potter (all): about 31,000 words claimed, 30,985 counted
+OK       aesop (all): about 40,000 words claimed, 39,579 counted
+OK       wilde (first five tales): about 16,000 words claimed, 16,213 counted
+OK       wilde (last four tales): about 33,000 words claimed, 33,093 counted
+OK       pinocchio (all): about 41,500 words claimed, 41,512 counted
+OK       pooh (all): about 22,500 words claimed, 22,557 counted
+OK       grimm (all): about 283,000 words claimed, 282,812 counted
+OK       heidi (all): about 50,000 words claimed, 50,128 counted
+OK       oz (all): about 39,000 words claimed, 39,440 counted
+checked 27 level-note facts, 0 problems

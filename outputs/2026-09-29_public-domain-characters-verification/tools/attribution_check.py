@@ -57,6 +57,9 @@ ROLES = {
     ("odyssey", "Polyphemus"): ["cyclops"],
     ("warpeace", "Pierre Bezukhov"): ["bezukhova"],
     ("warpeace", "Elen Kuragina"): ["his wife"],
+    ("pinocchio", "Pinocchio"): ["piece of wood", "bit of wood"],  # before he is carved and named
+    ("pinocchio", "Geppetto"): ["papa", "father"],
+    ("pinocchio", "The Fox and the Cat"): ["assassins"],
 }
 
 WHOLE_BOOK_NARRATOR = {

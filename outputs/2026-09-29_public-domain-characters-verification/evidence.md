@@ -1,8 +1,8 @@
-# Evidence: 15 famous public-domain books and their characters
+# Evidence: 15 famous public-domain books, 8 easy reads, and their characters
 
-*Companion to [the character list](../2026-09-29_query-15-famous-public-domain-books-characters.md). Generated 2026-09-29 from the same data the checks ran on.*
+*Companion to [the character list](../2026-09-29_query-15-famous-public-domain-books-characters.md). Generated 2026-09-30 from the same data the checks ran on.*
 
-For every character: the description as published, then **every** supporting quote (787 in all), copied from the edition with its original punctuation, where it is in the book, what it supports, and the rule that tied it to the character (see the key below). "Absent" lines are popular images that were searched for and confirmed *not* to be in the book.
+For every character: the description as published, then **every** supporting quote (1,202 in all), copied from the edition with its original punctuation, where it is in the book, what it supports, and the rule that tied it to the character (see the key below). "Absent" lines are popular images that were searched for and confirmed *not* to be in the book (or, for the Grimm tales, not in that tale).
 
 **Attribution rules** (strongest first):
 
@@ -2403,3 +2403,1199 @@ For every character: the description as published, then **every** supporting quo
    *Chapter IV*: World Series fix · `NAME`
 4. “Finest specimens of human molars”  
    *Chapter IV*: cufflinks · `NAME`
+
+---
+
+*The books from here on are the easy reads for learners of English; their levels, and the facts behind them, are in [the character list](../2026-09-29_query-15-famous-public-domain-books-characters.md#easy-reads-for-english-learners-up-to-b1).*
+
+## E1. The Tale of Peter Rabbit and other tales
+
+*Beatrix Potter, 1902–1918. Standard Ebooks edition (*Short Fiction*, 20 tales). [Standard Ebooks](https://standardebooks.org/ebooks/beatrix-potter/short-fiction), source [beatrix-potter_short-fiction](https://github.com/standardebooks/beatrix-potter_short-fiction) at commit `5feaeb53c922e2c0a41897f3cad6694d3eda690a`.*
+
+*Level: A2–B1.*
+
+### Peter Rabbit
+
+> The naughty one of four little rabbits, "Flopsy, Mopsy, Cottontail, and Peter," who live with their mother under "a very big fir-tree." She tells them not to go into Mr. McGregor's garden: "Your Father had an accident there; he was put in a pie by Mrs. McGregor." Peter, "who was very naughty," runs straight there and squeezes under the gate. Mr. McGregor chases him; Peter loses both shoes and leaves behind his "blue jacket with brass buttons, quite new," hides in a can full of water, sneezes ("Kertyschoo!"), and at last slips out under the gate. At home he is ill and gets camomile tea, while Flopsy, Mopsy, and Cottontail have "bread and milk and blackberries for supper." In a later tale he goes back with his cousin Benjamin Bunny to get his clothes, and when he grows up he keeps "a nursery garden."
+
+1. “Once upon a time there were four little Rabbits, and their names were Flopsy, Mopsy, Cottontail, and Peter. They lived with their Mother in a sandbank, underneath the root of a very big fir-tree.”  
+   *The Tale of Peter Rabbit*: family and home · `NAME`
+2. ““Your Father had an accident there; he was put in a pie by Mrs. McGregor.””  
+   *The Tale of Peter Rabbit*: the warning · `NAME`
+3. “But Peter, who was very naughty, ran straight away to Mr. McGregor’s garden. And squeezed under the gate!”  
+   *The Tale of Peter Rabbit*: disobeys · `NAME`
+4. “he jumped up and ran after Peter, waving a rake and calling out, “Stop thief!””  
+   *The Tale of Peter Rabbit*: the chase · `NAME`
+5. “He lost one of his shoes among the cabbages, and the other shoe amongst the potatoes.”  
+   *The Tale of Peter Rabbit*: loses his shoes · `NAME`
+6. “It was a blue jacket with brass buttons, quite new.”  
+   *The Tale of Peter Rabbit*: his jacket · `NAME`
+7. “but Peter wriggled out just in time, leaving his jacket behind him.”  
+   *The Tale of Peter Rabbit*: loses the jacket · `NAME`
+8. “And rushed into the tool-shed, and jumped into a can. It would have been a beautiful thing to hide in, if it had not had so much water in it.”  
+   *The Tale of Peter Rabbit*: hides in a can · `NAME`
+9. “Presently Peter sneezed—“Kertyschoo!””  
+   *The Tale of Peter Rabbit*: sneezes · `NAME`
+10. “He slipped underneath the gate, and was safe at last in the wood outside the garden.”  
+   *The Tale of Peter Rabbit*: escapes · `NAME`
+11. “I am sorry to say that Peter was not very well during the evening. His mother put him to bed, and made some camomile tea”  
+   *The Tale of Peter Rabbit*: camomile tea · `NAME`
+12. “But Flopsy, Mopsy, and Cottontail had bread and milk and blackberries for supper.”  
+   *The Tale of Peter Rabbit*: the others' supper · `NAME`
+13. ““Peter,” said little Benjamin, in a whisper, “who has got your clothes?””  
+   *The Tale of Benjamin Bunny*: goes back with Benjamin · `NAME`
+14. “Benjamin used to borrow cabbages from Flopsy’s brother, Peter Rabbit, who kept a nursery garden.”  
+   *The Tale of the Flopsy Bunnies*: grown up · `NAME`
+
+### Mr. McGregor
+
+> The gardener whose vegetable garden the rabbits keep raiding; his wife once put Peter's father "in a pie." When he finds Peter among his vegetables, he runs after him "waving a rake" and shouting "Stop thief!", tries to catch him under a sieve, and afterwards hangs Peter's jacket and shoes on a scarecrow "to frighten the blackbirds." In *The Tale of the Flopsy Bunnies* he finds Benjamin's children asleep on his rubbish heap and drops them into a sack ("six leetle rabbits!"), meaning to "sell them and buy myself baccy." But a mouse nibbles a hole in the sack, their parents fill it with rotten vegetable marrows, and Mrs. McGregor becomes "very very angry."
+
+1. ““Your Father had an accident there; he was put in a pie by Mrs. McGregor.””  
+   *The Tale of Peter Rabbit*: Peter's father · `NAME`
+2. “Mr. McGregor was on his hands and knees planting out young cabbages, but he jumped up and ran after Peter, waving a rake and calling out, “Stop thief!””  
+   *The Tale of Peter Rabbit*: the chase · `NAME`
+3. “Mr. McGregor came up with a sieve, which he intended to pop upon the top of Peter”  
+   *The Tale of Peter Rabbit*: the sieve · `NAME`
+4. “Mr. McGregor hung up the little jacket and the shoes for a scarecrow to frighten the blackbirds.”  
+   *The Tale of Peter Rabbit*: the scarecrow · `NAME`
+5. “suddenly Mr. McGregor emptied out a sackful of lawn mowings right upon the top of the sleeping Flopsy Bunnies!”  
+   *The Tale of the Flopsy Bunnies*: the Flopsy Bunnies asleep · `NAME`
+6. “Mr. McGregor climbed down on to the rubbish heap— “One, two, three, four! five! six leetle rabbits!” said he as he dropped them into his sack.”  
+   *The Tale of the Flopsy Bunnies*: the sack · `NAME`
+7. ““Line your old cloak?” shouted Mr. McGregor—“I shall sell them and buy myself baccy!””  
+   *The Tale of the Flopsy Bunnies*: his plan · `NAME`
+8. “She nibbled a hole in the bottom corner of the sack.”  
+   *The Tale of the Flopsy Bunnies*: the mouse · `NAME`
+9. “Their parents stuffed the empty sack with three rotten vegetable marrows, an old blacking-brush and two decayed turnips.”  
+   *The Tale of the Flopsy Bunnies*: the swap · `NAME`
+10. “Mrs. McGregor untied the sack and put her hand inside. When she felt the vegetables she became very very angry.”  
+   *The Tale of the Flopsy Bunnies*: Mrs. McGregor · `NAME`
+
+### Benjamin Bunny
+
+> Peter's cousin, "little Benjamin Bunny," who is "perfectly at home" in Mr. McGregor's garden, because he goes there with his father "to get lettuces for their Sunday dinner." He takes Peter back to get his clothes from the scarecrow ("the proper way to get in is to climb down a pear-tree") and fills Peter's handkerchief with onions as a present for his aunt. When they meet a cat, he hides them both under a basket, and the cat sits on it "for five hours," until his father, old Mr. Benjamin Bunny, jumps on the cat, locks it in the greenhouse, and whips his son "with the little switch." When he grows up he marries "his Cousin Flopsy," and their children are the Flopsy Bunnies.
+
+1. “little Benjamin Bunny slid down into the road, and set off—with a hop, skip, and a jump—to call upon his relations”  
+   *The Tale of Benjamin Bunny*: who he is · `NAME`
+2. “lived Benjamin’s aunt and his cousins—Flopsy, Mopsy, Cottontail, and Peter.”  
+   *The Tale of Benjamin Bunny*: Peter's cousin · `NAME`
+3. “Little Benjamin said: “It spoils people’s clothes to squeeze under a gate; the proper way to get in is to climb down a pear-tree.””  
+   *The Tale of Benjamin Bunny*: the pear-tree · `NAME`
+4. “Then he suggested that they should fill the pocket-handkerchief with onions, as a little present for his Aunt.”  
+   *The Tale of Benjamin Bunny*: the onions · `NAME`
+5. “Benjamin, on the contrary, was perfectly at home, and ate a lettuce leaf. He said that he was in the habit of coming to the garden with his father to get lettuces for their Sunday dinner.”  
+   *The Tale of Benjamin Bunny*: at home in the garden · `NAME`
+6. “he hid himself and Peter and the onions underneath a large basket.”  
+   *The Tale of Benjamin Bunny*: hides from the cat · `NAME`
+7. “Anyway, she sat down upon the top of the basket. She sat there for five hours.”  
+   *The Tale of Benjamin Bunny*: five hours · `NAME`
+8. “The cat looked up and saw old Mr. Benjamin Bunny prancing along the top of the wall of the upper terrace.”  
+   *The Tale of Benjamin Bunny*: his father · `NAME`
+9. “When old Mr. Bunny had driven the cat into the greenhouse, he locked the door. Then he came back to the basket and took out his son Benjamin by the ears, and whipped him with the little switch.”  
+   *The Tale of Benjamin Bunny*: rescue and punishment · `NAME`
+10. “When Benjamin Bunny grew up, he married his Cousin Flopsy. They had a large family, and they were very improvident and cheerful.”  
+   *The Tale of the Flopsy Bunnies*: grown up · `NAME`
+11. “they were generally called the “Flopsy Bunnies.””  
+   *The Tale of the Flopsy Bunnies*: his children · `NAME`
+
+### Squirrel Nutkin
+
+> A little red squirrel whose story is "a Tale about a tail." He and his brother Twinkleberry and their cousins sail to Owl Island on rafts, using their tails as sails, to gather nuts, and each day the others bring a present for the owl, Old Brown. But "Nutkin was excessively impertinent in his manners": he brings nothing, dances about, and sings rude riddles at the owl. On the sixth day he jumps "right onto the head of Old Brown!" The owl catches him and is about to skin him, but Nutkin pulls so hard that "his tail broke in two," and he escapes. Ever since, if you ask him a riddle, "he will throw sticks at you."
+
+1. “This is a Tale about a tail—a tail that belonged to a little red squirrel, and his name was Nutkin. He had a brother called Twinkleberry, and a great many cousins”  
+   *The Tale of Squirrel Nutkin*: who he is · `NAME`
+2. “amongst those trees stands a hollow oak-tree, which is the house of an owl who is called Old Brown.”  
+   *The Tale of Squirrel Nutkin*: Old Brown · `NAME`
+3. “They made little rafts out of twigs, and they paddled away over the water to Owl Island to gather nuts. Each squirrel had a little sack and a large oar, and spread out his tail for a sail.”  
+   *The Tale of Squirrel Nutkin*: sailing with tails · `NAME`
+4. “But Nutkin was excessively impertinent in his manners.”  
+   *The Tale of Squirrel Nutkin*: rude · `NAME`
+5. “but Nutkin, who had no nice manners, brought no present at all.”  
+   *The Tale of Squirrel Nutkin*: no present · `NAME`
+6. “But Nutkin sang as rudely as ever”  
+   *The Tale of Squirrel Nutkin*: rude riddles · `NAME`
+7. “On the sixth day, which was Saturday, the squirrels came again for the last time”  
+   *The Tale of Squirrel Nutkin*: the sixth day · `NAME`
+8. “Nutkin made a whirring noise to sound like the wind, and he took a running jump right onto the head of Old Brown!”  
+   *The Tale of Squirrel Nutkin*: jumps on the owl · `NAME`
+9. “Old Brown carried Nutkin into his house, and held him up by the tail, intending to skin him; but Nutkin pulled so very hard that his tail broke in two, and he dashed up the staircase and escaped out of the attic window.”  
+   *The Tale of Squirrel Nutkin*: loses his tail · `NAME`
+10. “And to this day, if you meet Nutkin up a tree and ask him a riddle, he will throw sticks at you”  
+   *The Tale of Squirrel Nutkin*: ever since · `NAME`
+
+### Mrs. Tiggy-Winkle
+
+> A washerwoman who lives in a tiny kitchen inside the hill above Little-town. The little girl Lucie, looking for her lost "pocket-handkins," finds her ironing: "a very stout short person" in a print gown and apron, whose "little black nose went sniffle, sniffle, snuffle," with prickles under her cap. "I'm an excellent clear-starcher!" she says. She washes for all the animals: Cock Robin's "little scarlet waistcoat," Squirrel Nutkin's "red tailcoat with no tail," Peter Rabbit's "very much shrunk blue jacket." After tea she carries the clean clothes down the hill, then runs off without waiting for thanks, and Lucie sees that "Mrs. Tiggy-winkle was nothing but a Hedgehog."
+
+1. “Once upon a time there was a little girl called Lucie, who lived at a farm called Little-town. She was a good little girl—only she was always losing her pocket-handkerchiefs!”  
+   *The Tale of Mrs. Tiggy-Winkle*: Lucie · `NAME`
+2. ““I’ve lost my pocket-handkin! Three handkins and a pinny!”  
+   *The Tale of Mrs. Tiggy-Winkle*: pocket-handkins · `NAME`
+3. “Lucie opened the door: and what do you think there was inside the hill?—a nice clean kitchen”  
+   *The Tale of Mrs. Tiggy-Winkle*: kitchen in the hill · `NEAR`
+4. “at the table, with an iron in her hand stood a very stout short person staring anxiously at Lucie. Her print gown was tucked up, and she was wearing a large apron over her striped petticoat. Her little black nose went sniffle, sniffle, snuffle, and her eyes went twinkle, twinkle; and underneath her cap—where Lucie had yellow curls—that little person had prickles!”  
+   *The Tale of Mrs. Tiggy-Winkle*: appearance · `NAME`
+5. ““Oh, yes, if you please’m; my name is Mrs. Tiggy-winkle; oh, yes if you please’m, I’m an excellent clear-starcher!””  
+   *The Tale of Mrs. Tiggy-Winkle*: who she is · `NAME`
+6. ““Oh no, if you please’m; that’s a little scarlet waistcoat belonging to Cock Robin!””  
+   *The Tale of Mrs. Tiggy-Winkle*: Cock Robin's waistcoat · `NAME`
+7. “a red tailcoat with no tail belonging to Squirrel Nutkin; and a very much shrunk blue jacket belonging to Peter Rabbit”  
+   *The Tale of Mrs. Tiggy-Winkle*: Nutkin's and Peter's clothes · `NAME`
+8. “Then away down the hill trotted Lucie and Mrs. Tiggy-winkle with the bundles of clothes!”  
+   *The Tale of Mrs. Tiggy-Winkle*: carries the clothes down · `NAME`
+9. “Mrs. Tiggy-winkle had not waited either for thanks or for the washing bill! She was running running running up the hill”  
+   *The Tale of Mrs. Tiggy-Winkle*: runs off · `NAME`
+10. “Why! Mrs. Tiggy-winkle was nothing but a Hedgehog.”  
+   *The Tale of Mrs. Tiggy-Winkle*: a hedgehog · `NAME`
+
+### Mr. Jeremy Fisher
+
+> A frog who lives "in a little damp house amongst the buttercups at the edge of a pond" and likes getting his feet wet. On a rainy day he puts on "a macintosh, and a pair of shiny goloshes" and goes fishing from a boat made of a lily-leaf, hoping to catch minnows for dinner with his friends "Mr. Alderman Ptolemy Tortoise and Sir Isaac Newton." Instead he catches "little Jack Sharp the stickleback, covered with spines," and then a huge trout grabs him and dives, but spits him out because it does not like the taste of his macintosh; it swallows only his goloshes. "What a mercy that was not a pike!" His friends come to dinner anyway and eat "a roasted grasshopper with ladybird sauce."
+
+1. “Once upon a time there was a frog called Mr. Jeremy Fisher; he lived in a little damp house amongst the buttercups at the edge of a pond.”  
+   *The Tale of Mr. Jeremy Fisher*: who he is · `NAME`
+2. “But Mr. Jeremy liked getting his feet wet”  
+   *The Tale of Mr. Jeremy Fisher*: wet feet · `NAME`
+3. “If I catch more than five fish, I will invite my friends Mr. Alderman Ptolemy Tortoise and Sir Isaac Newton.”  
+   *The Tale of Mr. Jeremy Fisher*: his friends · `NAME`
+4. “Mr. Jeremy put on a macintosh, and a pair of shiny goloshes”  
+   *The Tale of Mr. Jeremy Fisher*: macintosh and goloshes · `NAME`
+5. “The boat was round and green, and very like the other lily-leaves.”  
+   *The Tale of Mr. Jeremy Fisher*: lily-leaf boat · `NAME`
+6. “Instead of a smooth fat minnow, Mr. Jeremy landed little Jack Sharp the stickleback, covered with spines!”  
+   *The Tale of Mr. Jeremy Fisher*: the stickleback · `NAME`
+7. “A great big enormous trout came up”  
+   *The Tale of Mr. Jeremy Fisher*: the trout · `NAME`
+8. “it seized Mr. Jeremy with a snap”  
+   *The Tale of Mr. Jeremy Fisher*: grabs him · `NAME`
+9. “and then it turned and dived down to the bottom of the pond!”  
+   *The Tale of Mr. Jeremy Fisher*: dives · `NAME`
+10. “But the trout was so displeased with the taste of the macintosh, that in less than half a minute it spat him out again; and the only thing it swallowed was Mr. Jeremy’s goloshes.”  
+   *The Tale of Mr. Jeremy Fisher*: spat out · `NAME`
+11. ““What a mercy that was not a pike!” said Mr. Jeremy Fisher.”  
+   *The Tale of Mr. Jeremy Fisher*: his relief · `NAME`
+12. “He put some sticking plaster on his fingers, and his friends both came to dinner.”  
+   *The Tale of Mr. Jeremy Fisher*: dinner · `NAME`
+13. “they had a roasted grasshopper with ladybird sauce”  
+   *The Tale of Mr. Jeremy Fisher*: the menu · `NAME`
+
+### Jemima Puddle-Duck
+
+> A farm duck who "was annoyed because the farmer's wife would not let her hatch her own eggs." Wearing "a shawl and a poke bonnet," she flies to a wood to make a secret nest and meets "an elegantly dressed gentleman reading a newspaper," with "black prick ears and sandy coloured whiskers" and "a long bushy tail." He lends her a shed full of feathers, where she lays nine eggs. When he asks her to bring sage, thyme, mint, parsley and onions for "a savoury omelette," she still does not suspect him, although these are the herbs used "for stuffing roast duck": "Jemima Puddle-duck was a simpleton." The farm collie, Kep, saves her with two foxhound puppies, but the puppies eat her eggs. Later she is allowed to keep some eggs, "but only four of them hatched."
+
+1. “Listen to the story of Jemima Puddle-duck, who was annoyed because the farmer’s wife would not let her hatch her own eggs.”  
+   *The Tale of Jemima Puddle-Duck*: her problem · `NAME`
+2. “She was wearing a shawl and a poke bonnet.”  
+   *The Tale of Jemima Puddle-Duck*: shawl and bonnet · `NAME`
+3. “But—seated upon the stump, she was startled to find an elegantly dressed gentleman reading a newspaper. He had black prick ears and sandy coloured whiskers.”  
+   *The Tale of Jemima Puddle-Duck*: the gentleman · `NAME`
+4. “He had a long bushy tail which he was sitting upon”  
+   *The Tale of Jemima Puddle-Duck*: his tail · `NAME`
+5. “The shed was almost quite full of feathers”  
+   *The Tale of Jemima Puddle-Duck*: the shed · `NAME`
+6. “Jemima Puddle-duck came every afternoon; she laid nine eggs in the nest.”  
+   *The Tale of Jemima Puddle-Duck*: nine eggs · `NAME`
+7. “May I ask you to bring up some herbs from the farm-garden to make a savoury omelette? Sage and thyme, and mint and two onions, and some parsley.”  
+   *The Tale of Jemima Puddle-Duck*: the omelette · `NAME`
+8. “Jemima Puddle-duck was a simpleton: not even the mention of sage and onions made her suspicious. She went round the farm-garden, nibbling off snippets of all the different sorts of herbs that are used for stuffing roast duck.”  
+   *The Tale of Jemima Puddle-Duck*: not suspicious · `NAME`
+9. “The collie-dog Kep met her coming out”  
+   *The Tale of Jemima Puddle-Duck*: Kep · `NAME`
+10. “He went to look for two foxhound puppies who were out at walk with the butcher.”  
+   *The Tale of Jemima Puddle-Duck*: the puppies · `NAME`
+11. “Presently Kep opened the door of the shed, and let out Jemima Puddle-duck. Unfortunately the puppies rushed in and gobbled up all the eggs before he could stop them.”  
+   *The Tale of Jemima Puddle-Duck*: saved; eggs eaten · `NAME`
+12. “She laid some more in June, and she was permitted to keep them herself: but only four of them hatched.”  
+   *The Tale of Jemima Puddle-Duck*: the ending · `NAME`
+
+## E2. Aesop's Fables
+
+*Aesop, c. 6th century BC (collected over many centuries). Standard Ebooks edition of V. S. Vernon Jones's translation (1912). [Standard Ebooks](https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones), source [aesop_fables_v-s-vernon-jones](https://github.com/standardebooks/aesop_fables_v-s-vernon-jones) at commit `507d9e3182199f215cb7f1519ebf5d9e4caaf51b`.*
+
+*Level: A2–B1.*
+
+### The Hare and the Tortoise
+
+> A Hare mocks a Tortoise "for being so slow upon his feet," so the Tortoise challenges him to a race. The Hare runs so far ahead that he lies down "and fell fast asleep," while "the Tortoise kept plodding on" and wins. The moral: "Slow and steady wins the race."
+
+1. “A Hare was one day making fun of a Tortoise for being so slow upon his feet.”  
+   *The Hare and the Tortoise*: the mockery · `NAME`
+2. ““Wait a bit,” said the Tortoise; “I’ll run a race with you, and I’ll wager that I win.””  
+   *The Hare and the Tortoise*: the challenge · `NAME`
+3. “so down he lay and fell fast asleep. Meanwhile the Tortoise kept plodding on, and in time reached the goal.”  
+   *The Hare and the Tortoise*: the race · `NAME`
+4. “Slow and steady wins the race.”  
+   *The Hare and the Tortoise*: the moral · `NAME`
+
+### The Fox
+
+*Also: in "The Fox and the Grapes" and "The Fox and the Crow"*
+
+> Aesop's clever fox. When he cannot reach some grapes, he walks off "with an air of dignity and unconcern" and says "they are quite sour," which is where the saying about sour grapes comes from. When he sees a Crow with a piece of cheese, he "set his wits to work": he praises her beauty and wonders whether her voice is as sweet, so she caws and drops the cheese. Then he tells her, "You have a voice, madam, I see: what you want is wits."
+
+1. “A hungry Fox saw some fine bunches of Grapes hanging from a vine that was trained along a high trellis”  
+   *The Fox and the Grapes*: the grapes · `NAME`
+2. “walked away with an air of dignity and unconcern, remarking, “I thought those Grapes were ripe, but I see now they are quite sour.””  
+   *The Fox and the Grapes*: sour grapes · `NAME`
+3. “A Crow was sitting on a branch of a tree with a piece of cheese in her beak when a Fox observed her and set his wits to work to discover some way of getting the cheese.”  
+   *The Fox and the Crow*: sets his wits to work · `NAME`
+4. ““What a noble bird I see above me! Her beauty is without equal, the hue of her plumage exquisite. If only her voice is as sweet as her looks are fair, she ought without doubt to be Queen of the Birds.””  
+   *The Fox and the Crow*: flattery · `NAME`
+5. “just to show the Fox that she could sing she gave a loud caw.”  
+   *The Fox and the Crow*: the Crow caws · `NAME`
+6. “Down came the cheese, of course, and the Fox, snatching it up, said, “You have a voice, madam, I see: what you want is wits.””  
+   *The Fox and the Crow*: the trick works · `NAME`
+
+### The Shepherd's Boy
+
+*Also: the boy who cried wolf*
+
+> A Shepherd's Boy who thinks it "great fun to hoax the villagers" by shouting "Wolf! wolf!" when there is none. When a Wolf really comes, nobody believes him, and it kills "sheep after sheep." The moral: "You cannot believe a liar even when he tells the truth."
+
+1. “A Shepherd’s Boy was tending his flock near a village, and thought it would be great fun to hoax the villagers by pretending that a Wolf was attacking the sheep”  
+   *The Shepherd’s Boy and the Wolf*: the hoax · `NAME`
+2. “At last a Wolf really did come, and the Boy cried, “Wolf! wolf!” as loud as he could: but the people were so used to hearing him call that they took no notice”  
+   *The Shepherd’s Boy and the Wolf*: nobody comes · `NAME`
+3. “And so the Wolf had it all his own way, and killed off sheep after sheep at his leisure.”  
+   *The Shepherd’s Boy and the Wolf*: the result · `NAME`
+4. “You cannot believe a liar even when he tells the truth.”  
+   *The Shepherd’s Boy and the Wolf*: the moral · `NAME`
+
+### The Grasshopper and the Ants
+
+> In winter a starving Grasshopper begs some busy Ants for food. She has saved nothing, because "I was so busy singing that I hadn't the time." The Ants answer: "If you spent the summer singing... you can't do better than spend the winter dancing."
+
+1. “One fine day in winter some Ants were busy drying their store of corn”  
+   *The Grasshopper and the Ants*: the Ants · `NAME`
+2. “Presently up came a Grasshopper and begged them to spare her a few grains, “For,” she said, “I’m simply starving.””  
+   *The Grasshopper and the Ants*: the Grasshopper begs · `NAME`
+3. ““The fact is,” replied the Grasshopper, “I was so busy singing that I hadn’t the time.””  
+   *The Grasshopper and the Ants*: why she has nothing · `NAME`
+4. ““If you spent the summer singing,” replied the Ants, “you can’t do better than spend the winter dancing.””  
+   *The Grasshopper and the Ants*: the Ants' answer · `NAME`
+
+### The Lion and the Mouse
+
+> A Lion catches a Mouse that ran over his face but lets it go, laughing at its promise to repay him. Later the Lion is caught "in a net which had been spread for game by some hunters," and the Mouse gnaws through the ropes: "even a Mouse can help a Lion."
+
+1. “A Lion asleep in his lair was waked up by a Mouse running over his face.”  
+   *The Lion and the Mouse*: the meeting · `NAME`
+2. ““Please let me go,” it cried, “and one day I will repay you for your kindness.””  
+   *The Lion and the Mouse*: the promise · `NAME`
+3. “One day the Lion got entangled in a net which had been spread for game by some hunters”  
+   *The Lion and the Mouse*: the Lion trapped · `NAME`
+4. “Without more ado it set to work to gnaw the ropes with its teeth, and succeeded before long in setting the Lion free.”  
+   *The Lion and the Mouse*: the Mouse gnaws the ropes · `NAME`
+5. ““There!” said the Mouse, “you laughed at me when I promised I would repay you: but now you see, even a Mouse can help a Lion.””  
+   *The Lion and the Mouse*: the rescue · `NAME`
+
+### The Town Mouse and the Country Mouse
+
+> The Town Mouse sneers at his friend's simple "dinner of barleycorns and roots" and takes him to town, to a larder full of "flour and oatmeal and figs and honey and dates." But someone comes into the larder, and they have to hide in "a narrow and exceedingly uncomfortable hole," so the Country Mouse goes home: "You live in the lap of luxury, I can see, but you are surrounded by dangers."
+
+1. “The Town Mouse came, and they sat down to a dinner of barleycorns and roots”  
+   *The Town Mouse and the Country Mouse*: the country dinner · `NAME`
+2. ““My poor dear friend, you live here no better than the ants.”  
+   *The Town Mouse and the Country Mouse*: sneers · `NAME`
+3. “showed him into a larder containing flour and oatmeal and figs and honey and dates”  
+   *The Town Mouse and the Country Mouse*: the town larder · `NAME`
+4. “the door of the larder opened and someone came in.”  
+   *The Town Mouse and the Country Mouse*: someone comes in · `NAME`
+5. “The two Mice scampered off and hid themselves in a narrow and exceedingly uncomfortable hole.”  
+   *The Town Mouse and the Country Mouse*: the danger · `NAME`
+6. ““Goodbye,” said he, “I’m off. You live in the lap of luxury, I can see, but you are surrounded by dangers”  
+   *The Town Mouse and the Country Mouse*: the Country Mouse leaves · `NAME`
+
+### The Goose That Laid the Golden Eggs
+
+> A Man and his Wife own "a Goose which laid a Golden Egg every day," but, thinking they are "not getting rich fast enough," they kill it to take the gold inside. It turns out to be "just like any other goose." The moral: "Much wants more and loses all."
+
+1. “A Man and his Wife had the good fortune to possess a Goose which laid a Golden Egg every day.”  
+   *The Goose That Laid the Golden Eggs*: the goose · `NAME`
+2. “they soon began to think they were not getting rich fast enough”  
+   *The Goose That Laid the Golden Eggs*: impatient · `NAME`
+3. “imagining the bird must be made of gold inside, they decided to kill it”  
+   *The Goose That Laid the Golden Eggs*: greed · `NAME`
+4. “But when they cut it open they found it was just like any other goose.”  
+   *The Goose That Laid the Golden Eggs*: the result · `NAME`
+5. “Much wants more and loses all.”  
+   *The Goose That Laid the Golden Eggs*: the moral · `NAME`
+
+## E3. The Happy Prince and Other Tales
+
+*Oscar Wilde, 1888. Standard Ebooks edition (*Children's Stories*, which adds *A House of Pomegranates*, 1891). [Standard Ebooks](https://standardebooks.org/ebooks/oscar-wilde/childrens-stories), source [oscar-wilde_childrens-stories](https://github.com/standardebooks/oscar-wilde_childrens-stories) at commit `ea1300094ba944284ab6550d60ae2e10f8b9b6cf`.*
+
+*Level: B1.*
+
+### The Happy Prince
+
+> A statue on "a tall column" high above the city, "gilded all over with thin leaves of fine gold," with two sapphires for eyes and a ruby on his sword-hilt. As a living prince he lived in the Palace of Sans-Souci, "where sorrow is not allowed to enter." Now he can see "all the ugliness and all the misery of my city," and he weeps. He sends the Swallow to give away his ruby (to a poor seamstress with a sick little boy), then his two sapphire eyes (to a young writer too cold to finish his play, and to a little match-girl), then his gold "leaf by leaf," until he is blind and "quite dull and grey." When the Swallow dies, the Prince's lead heart snaps in two. The town melts the statue down, but the broken heart will not melt, and God's Angel chooses it as one of "the two most precious things in the city."
+
+1. “High above the city, on a tall column, stood the statue of the Happy Prince. He was gilded all over with thin leaves of fine gold, for eyes he had two bright sapphires, and a large red ruby glowed on his sword-hilt.”  
+   *The Happy Prince*: the statue · `NAME`
+2. “I did not know what tears were, for I lived in the Palace of Sans-Souci, where sorrow is not allowed to enter.”  
+   *The Happy Prince*: his life as a prince · `NAME`
+3. “they have set me up here so high that I can see all the ugliness and all the misery of my city, and though my heart is made of lead yet I cannot chose but weep.”  
+   *The Happy Prince*: why he weeps; lead heart · `NAME`
+4. “she has coarse, red hands, all pricked by the needle, for she is a seamstress.”  
+   *The Happy Prince*: the seamstress · `NAME`
+5. “her little boy is lying ill. He has a fever, and is asking for oranges.”  
+   *The Happy Prince*: her sick boy · `NEAR`
+6. “will you not bring her the ruby out of my sword-hilt?”  
+   *The Happy Prince*: gives the ruby · `NEAR`
+7. “He is trying to finish a play for the Director of the Theatre, but he is too cold to write any more.”  
+   *The Happy Prince*: the young writer · `NEAR`
+8. “They are made of rare sapphires, which were brought out of India a thousand years ago. Pluck out one of them and take it to him.”  
+   *The Happy Prince*: first sapphire · `NEAR`
+9. “there stands a little match-girl.”  
+   *The Happy Prince*: the match-girl · `NAME`
+10. “Pluck out my other eye, and give it to her”  
+   *The Happy Prince*: second sapphire · `NAME`
+11. ““I am covered with fine gold,” said the Prince, “you must take it off, leaf by leaf, and give it to my poor”  
+   *The Happy Prince*: gives the gold · `NAME`
+12. “Leaf after leaf of the fine gold the Swallow picked off, till the Happy Prince looked quite dull and grey.”  
+   *The Happy Prince*: dull and grey · `NAME`
+13. “The fact is that the leaden heart had snapped right in two.”  
+   *The Happy Prince*: his heart breaks · `NAME`
+14. “Then they melted the statue in a furnace”  
+   *The Happy Prince*: melted down · `NAME`
+15. “This broken lead heart will not melt in the furnace.”  
+   *The Happy Prince*: the heart will not melt · `NAME`
+16. ““Bring me the two most precious things in the city,” said God to one of His Angels; and the Angel brought Him the leaden heart and the dead bird.”  
+   *The Happy Prince*: the ending · `NAME`
+
+### The Swallow
+
+> A little bird who stays behind when his friends fly to Egypt, "for he was in love with the most beautiful Reed" (he soon gets tired of her: "She has no conversation"). Stopping for the night between the statue's feet, he is hit by the Prince's tears. Again and again the Prince asks, "Swallow, Swallow, little Swallow," and he stays "one night longer" to carry the ruby, the sapphires and the gold to the poor. When the Prince is blind, he promises, "I will stay with you always." He grows "colder and colder" but will not leave, and at last he kisses the Prince on the lips and falls "dead at his feet." At the end God says that "in my garden of Paradise this little bird shall sing forevermore."
+
+1. “One night there flew over the city a little Swallow. His friends had gone away to Egypt six weeks before, but he had stayed behind, for he was in love with the most beautiful Reed.”  
+   *The Happy Prince*: who he is · `NAME`
+2. ““She has no conversation,” he said, “and I am afraid that she is a coquette, for she is always flirting with the wind.””  
+   *The Happy Prince*: tires of the Reed · `NAME`
+3. “So he alighted just between the feet of the Happy Prince.”  
+   *The Happy Prince*: rests on the statue · `SPEAKER`
+4. “The eyes of the Happy Prince were filled with tears, and tears were running down his golden cheeks.”  
+   *The Happy Prince*: the Prince's tears · `NAME`
+5. “Swallow, Swallow, little Swallow, will you not bring her the ruby out of my sword-hilt?”  
+   *The Happy Prince*: the Prince's request · `NAME`
+6. ““I will wait with you one night longer,” said the Swallow, who really had a good heart.”  
+   *The Happy Prince*: stays one night longer · `NAME`
+7. ““You are blind now,” he said, “so I will stay with you always.””  
+   *The Happy Prince*: his promise · `NAME`
+8. “The poor little Swallow grew colder and colder, but he would not leave the Prince, he loved him too well.”  
+   *The Happy Prince*: will not leave · `NAME`
+9. “And he kissed the Happy Prince on the lips, and fell down dead at his feet.”  
+   *The Happy Prince*: his death · `NAME`
+10. ““You have rightly chosen,” said God, “for in my garden of Paradise this little bird shall sing forevermore”  
+   *The Happy Prince*: the ending · `NAME`
+
+### The Selfish Giant
+
+> A giant who comes home after seven years with "his friend the Cornish ogre" and finds children playing in his "large lovely garden." He builds a high wall with a noticeboard, "Trespassers Will Be Prosecuted." "He was a very selfish Giant." After that, spring never comes to his garden: "So it was always Winter there." When the children creep back in through a hole in the wall, spring comes back with them, except in one corner, where a little boy is too small to climb a tree. "How selfish I have been!" says the Giant. He lifts the boy into the tree, the boy kisses him, and he knocks down the wall. Years later, old and weak, he finds the same boy under a tree "quite covered with lovely white blossoms," with the prints of two nails on his hands and feet: "these are the wounds of Love." That afternoon the children find the Giant "lying dead under the tree, all covered with white blossoms."
+
+1. “Every afternoon, as they were coming from school, the children used to go and play in the Giant’s garden. It was a large lovely garden, with soft green grass.”  
+   *The Selfish Giant*: the garden · `NAME`
+2. “One day the Giant came back. He had been to visit his friend the Cornish ogre, and had stayed with him for seven years.”  
+   *The Selfish Giant*: comes home · `NAME`
+3. “So he built a high wall all round it, and put up a noticeboard. Trespassers Will Be Prosecuted He was a very selfish Giant.”  
+   *The Selfish Giant*: the wall and the notice · `NAME`
+4. “So it was always Winter there, and the North Wind, and the Hail, and the Frost, and the Snow danced about through the trees.”  
+   *The Selfish Giant*: always winter · `NAME`
+5. “Through a little hole in the wall the children had crept in, and they were sitting in the branches of the trees.”  
+   *The Selfish Giant*: the children come back · `NAME`
+6. “It was the farthest corner of the garden, and in it was standing a little boy. He was so small that he could not reach up to the branches of the tree”  
+   *The Selfish Giant*: the little boy · `NAME`
+7. ““How selfish I have been!” he said; “now I know why the Spring would not come here.”  
+   *The Selfish Giant*: changes his mind · `NAME`
+8. “took him gently in his hand, and put him up into the tree.”  
+   *The Selfish Giant*: helps the boy · `NAME`
+9. “the little boy stretched out his two arms and flung them round the Giant’s neck, and kissed him.”  
+   *The Selfish Giant*: the boy kisses him · `NAME`
+10. “he took a great axe and knocked down the wall.”  
+   *The Selfish Giant*: knocks down the wall · `NAME`
+11. “Years went over, and the Giant grew very old and feeble.”  
+   *The Selfish Giant*: old and weak · `NAME`
+12. “In the farthest corner of the garden was a tree quite covered with lovely white blossoms.”  
+   *The Selfish Giant*: the white tree · `NAME`
+13. “For on the palms of the child’s hands were the prints of two nails, and the prints of two nails were on the little feet.”  
+   *The Selfish Giant*: the nail prints · `NAME`
+14. ““Nay!” answered the child; “but these are the wounds of Love.””  
+   *The Selfish Giant*: wounds of Love · `NAME`
+15. “And when the children ran in that afternoon, they found the Giant lying dead under the tree, all covered with white blossoms.”  
+   *The Selfish Giant*: his death · `NAME`
+
+### The Nightingale
+
+> A nightingale who hears a young Student say that a girl will dance with him "if I brought her red roses," but there is no red rose in his garden. "Here at last is a true lover," she decides. The rose-tree under the Student's window tells her the only way to make one: "You must sing to me with your breast against a thorn," all night, until the thorn pierces her heart. "Death is a great price to pay for a red rose," she says, but "Love is better than Life." She sings until the rose is finished and is found "lying dead in the long grass, with the thorn in her heart." The Professor's daughter refuses the rose because "the Chamberlain's nephew has sent me some real jewels," and the Student throws it into the gutter, where "a cartwheel went over it."
+
+1. ““She said that she would dance with me if I brought her red roses,” cried the young Student; “but in all my garden there is no red rose.””  
+   *The Nightingale and the Rose*: the Student's problem · `NAME`
+2. ““Here at last is a true lover,” said the Nightingale.”  
+   *The Nightingale and the Rose*: she decides to help · `NAME`
+3. “So the Nightingale flew over to the Rose-tree that was growing beneath the Student’s window.”  
+   *The Nightingale and the Rose*: the rose-tree · `NAME`
+4. ““If you want a red rose,” said the Tree, “you must build it out of music by moonlight, and stain it with your own heart’s-blood. You must sing to me with your breast against a thorn. All night long you must sing to me, and the thorn must pierce your heart”  
+   *The Nightingale and the Rose*: the price · `NAME`
+5. ““Death is a great price to pay for a red rose,” cried the Nightingale”  
+   *The Nightingale and the Rose*: her answer · `NAME`
+6. “Yet Love is better than Life, and what is the heart of a bird compared to the heart of a man?”  
+   *The Nightingale and the Rose*: her choice · `NAME`
+7. ““Look, look!” cried the Tree, “the rose is finished now,” but the Nightingale made no answer, for she was lying dead in the long grass, with the thorn in her heart.”  
+   *The Nightingale and the Rose*: her death · `NAME`
+8. “ran up to the Professor’s house with the rose in his hand. The daughter of the Professor was sitting in the doorway”  
+   *The Nightingale and the Rose*: the Professor's daughter · `NAME`
+9. ““I am afraid it will not go with my dress,” she answered; “and, besides, the Chamberlain’s nephew has sent me some real jewels”  
+   *The Nightingale and the Rose*: the rose refused · `SPEAKER`
+10. “he threw the rose into the street, where it fell into the gutter, and a cartwheel went over it.”  
+   *The Nightingale and the Rose*: the rose thrown away · `NEAR`
+
+## E4. The Adventures of Pinocchio
+
+*Carlo Collodi, 1883. Standard Ebooks edition of an early English translation (the translator is not named; the wording is close to Mary Alice Murray's 1892 version). [Standard Ebooks](https://standardebooks.org/ebooks/carlo-collodi/the-adventures-of-pinocchio), source [carlo-collodi_the-adventures-of-pinocchio](https://github.com/standardebooks/carlo-collodi_the-adventures-of-pinocchio) at commit `0849ff206625c456d265d020491d1d6c5536626a`.*
+
+*Level: B1.*
+
+### Pinocchio
+
+> A wooden puppet that Geppetto carves from a piece of wood that can already cry and laugh. His nose grows while it is still being carved ("no sooner had he made it than it began to grow"), and later it grows whenever he lies to the Fairy: "his nose, which was already long, grew at once two inches longer." Lazy and easily tricked, he is robbed by the Fox and the Cat, runs off to the "Land of Boobies" with Candlewick, and wakes up with "a magnificent pair of donkey's ears." He finds Geppetto inside the Dogfish ("Oh, my dear papa! I have found you at last!") and at the end becomes "a well-behaved little boy."
+
+1. “Is it possible that this piece of wood can have learned to cry and to lament like a child?”  
+   *Chapter I: The Piece of Wood That Laughed and Cried Like a Child*: the wood cries · `ROLE`
+2. “he heard the same little voice say, laughing: “Stop! you are tickling me all over!””  
+   *Chapter I: The Piece of Wood That Laughed and Cried Like a Child*: the wood laughs · `ROLE`
+3. ““What name shall I give him?” he said to himself; “I think I will call him Pinocchio.”  
+   *Chapter III: Geppetto Names His Puppet Pinocchio*: named by Geppetto · `NAME`
+4. “He then proceeded to carve the nose, but no sooner had he made it than it began to grow.”  
+   *Chapter III: Geppetto Names His Puppet Pinocchio*: the nose grows as it is carved · `NAME`
+5. “He had scarcely told the lie when his nose, which was already long, grew at once two inches longer.”  
+   *Chapter XVII: Pinocchio Will Not Take His Medicine*: the nose grows when he lies · `NAME`
+6. “There are lies that have short legs, and lies that have long noses. Your lie, as it happens, is one of those that have a long nose.”  
+   *Chapter XVII: Pinocchio Will Not Take His Medicine*: the Fairy explains · `NAME`
+7. ““Ah!” said that lazy Pinocchio at once, “I see that this village will never suit me! I wasn’t born to work!””  
+   *Chapter XXIV: Pinocchio Finds the Fairy Again*: lazy · `NAME`
+8. “of you who are simple enough to believe that money can be sown and gathered in fields in the same way as beans and gourds.”  
+   *Chapter XIX: Pinocchio Is Robbed of His Money*: easily tricked · `NAME`
+9. “while you were in the town the Fox and the Cat returned to the field; they took the buried money and then fled like the wind.”  
+   *Chapter XIX: Pinocchio Is Robbed of His Money*: robbed · `NAME`
+10. “It is called the ‘Land of Boobies.’ Why do you not come, too?”  
+   *Chapter XXX: The “Land of Boobies”*: the Land of Boobies · `NAME`
+11. “He saw his head embellished with a magnificent pair of donkey’s ears!”  
+   *Chapter XXXII: Pinocchio Turns Into a Donkey*: turns into a donkey · `NAME`
+12. ““Oh, my dear papa! I have found you at last! I will never leave you more, never more, never more!””  
+   *Chapter XXXV: A Happy Surprise for Pinocchio*: finds Geppetto · `NAME`
+13. ““How ridiculous I was when I was a puppet! And how glad I am that I have become a well-behaved little boy!””  
+   *Chapter XXXVI: Pinocchio at Last Ceases to Be a Puppet and Becomes a Boy*: becomes a boy · `NAME`
+- Absent from the whole book (pattern `real boy`): confirmed.
+
+### Geppetto
+
+*Also: nicknamed "Pudding"*
+
+> "A lively little old man" whom the neighbourhood boys tease as "Pudding," because "his yellow wig greatly resembled a pudding made of Indian corn"; he is "very fiery" and flies into a rage at the name. He is so poor that the fire in his room is only painted on the wall. He carves Pinocchio and sells his old coat to buy him a spelling-book. At sea he is "swallowed by the terrible Dogfish," where Pinocchio finds him.
+
+1. “A lively little old man immediately walked into the shop. His name was Geppetto, but when the boys of the neighborhood wished to make him angry they called him Pudding, because his yellow wig greatly resembled a pudding made of Indian corn.”  
+   *Chapter II: Master Cherry Gives the Wood Away*: appearance, nickname · `NAME`
+2. “Geppetto was very fiery. Woe to him who called him Pudding!”  
+   *Chapter II: Master Cherry Gives the Wood Away*: temper · `NAME`
+3. “At the end of the room there was a fireplace with a lighted fire; but the fire was painted”  
+   *Chapter III: Geppetto Names His Puppet Pinocchio*: poverty · `NAME`
+4. “He returned shortly, holding in his hand a spelling-book for Pinocchio, but the old coat was gone. The poor man was in his shirtsleeves and out of doors it was snowing. “And the coat, papa?” “I have sold it.””  
+   *Chapter VIII: Geppetto Makes Pinocchio New Feet*: sells his coat · `NAME`
+5. “He must have been swallowed by the terrible Dogfish”  
+   *Chapter XXIV: Pinocchio Finds the Fairy Again*: swallowed · `ROLE`
+
+### The Talking-Cricket
+
+> An old cricket who has "lived in this room a hundred years or more" and warns Pinocchio about disobedient boys. Pinocchio, angry at being called a puppet with "a wooden head," throws a hammer at him, and the Cricket is left "dried up and flattened against the wall." He comes back as "the ghost of the Talking-Cricket" to warn Pinocchio again. The name "Jiminy" comes from the Disney film.
+
+1. ““I am the Talking-Cricket, and I have lived in this room a hundred years or more.””  
+   *Chapter IV: The Talking Cricket Scolds Pinocchio*: who he is · `NAME`
+2. “Woe to those boys who rebel against their parents and run away from home. They will never come to any good in the world, and sooner or later they will repent bitterly.”  
+   *Chapter IV: The Talking Cricket Scolds Pinocchio*: the warning · `NAME`
+3. ““Because you are a puppet and, what is worse, because you have a wooden head.””  
+   *Chapter IV: The Talking Cricket Scolds Pinocchio*: insults Pinocchio · `NAME`
+4. “snatching a wooden hammer from the bench, he threw it at the Talking-Cricket.”  
+   *Chapter IV: The Talking Cricket Scolds Pinocchio*: the hammer · `NAME`
+5. “so that the poor Cricket had scarcely breath to cry “Cri-cri-cri!” and then he remained dried up and flattened against the wall.”  
+   *Chapter IV: The Talking Cricket Scolds Pinocchio*: killed · `NAME`
+6. ““I am the ghost of the Talking-Cricket,” answered the insect”  
+   *Chapter XIII: The Inn of the Red Crawfish*: returns as a ghost · `NAME`
+7. ““I want to give you some advice. Go back and take the four sovereigns that you have left to your poor father”  
+   *Chapter XIII: The Inn of the Red Crawfish*: warns him again · `NAME`
+- Absent from the whole book (pattern `Jiminy`): confirmed.
+
+### The Fairy with Blue Hair
+
+*Also: first seen as "a beautiful Child"*
+
+> When Pinocchio runs from the assassins, "a beautiful Child" appears at a window: "She had blue hair and a face as white as a waxen image." As "the little Fairy with blue hair" she cares for him "with all the patience of a good mamma," tricks him into taking his medicine with sugar, and shows him that lies are easy to spot, because some lies "have long noses."
+
+1. “The window then opened and a beautiful Child appeared at it. She had blue hair and a face as white as a waxen image”  
+   *Chapter XV: The Assassins Hang Pinocchio to the Big Oak*: first appearance · `NAME`
+2. “At first the good little woman maintained that she was not the little Fairy with blue hair”  
+   *Chapter XXV: Pinocchio Promises the Fairy to Be Good*: the Fairy · `NAME`
+3. “The Fairy then, with all the patience of a good mamma, put another lump of sugar in his mouth”  
+   *Chapter XVII: Pinocchio Will Not Take His Medicine*: motherly care · `NAME`
+4. “There are lies that have short legs, and lies that have long noses.”  
+   *Chapter XVII: Pinocchio Will Not Take His Medicine*: catches his lies · `NAME`
+
+### The Fox and the Cat
+
+> Two swindlers Pinocchio meets on the road: "a Fox lame of one foot, and a Cat blind of both eyes." Both are faking, because at the sound of his gold the Fox "stretched out the paw that seemed crippled, and the Cat opened wide two eyes." They tell him to bury his coins in "the Field of Miracles" so they will grow. Disguised as assassins in charcoal sacks, they hang him from the Big Oak. At the end they are begging, and the Cat "had so long feigned blindness that she had become blind in reality."
+
+1. “he met on the road a Fox lame of one foot, and a Cat blind of both eyes”  
+   *Chapter XII: Pinocchio Receives a Present of Five Gold Pieces*: who they are · `NAME`
+2. “the Fox, with an involuntary movement, stretched out the paw that seemed crippled, and the Cat opened wide two eyes that looked like two green lanterns”  
+   *Chapter XII: Pinocchio Receives a Present of Five Gold Pieces*: faking · `NAME`
+3. “in the land of the Owls there is a sacred field called by everybody the Field of Miracles”  
+   *Chapter XII: Pinocchio Receives a Present of Five Gold Pieces*: the swindle · `NAME`
+4. “two evil-looking black figures completely enveloped in charcoal sacks”  
+   *Chapter XIV: Pinocchio Falls Amongst Assassins*: the assassins · `ROLE`
+5. “Imagine his astonishment when instead of a hand he perceived that a cat’s paw lay on the ground.”  
+   *Chapter XIV: Pinocchio Falls Amongst Assassins*: the assassin is the Cat · `NAME`
+6. ““He must be hung! let us hang him!””  
+   *Chapter XV: The Assassins Hang Pinocchio to the Big Oak*: they hang him · `ROLE`
+7. “They were the Cat and the Fox, but they were scarcely recognizable. Fancy! the Cat had so long feigned blindness that she had become blind in reality”  
+   *Chapter XXXVI: Pinocchio at Last Ceases to Be a Puppet and Becomes a Boy*: their end · `NAME`
+
+### Fire-Eater
+
+*Also: the showman*
+
+> The owner of the puppet theatre, "very big, and so ugly that the sight of him was enough to frighten anyone," with a beard "as black as ink" so long that "he trod upon it when he walked." He looks wicked but is soft-hearted: when he feels pity he sneezes ("The showman has sneezed and that is a sign that he pities you"). He spares Pinocchio and gives him "five gold pieces" for Geppetto.
+
+1. “He was very big, and so ugly that the sight of him was enough to frighten anyone. His beard was as black as ink, and so long that it reached from his chin to the ground. I need only say that he trod upon it when he walked.”  
+   *Chapter X: The Puppets Recognize Their Brother Pinocchio*: appearance · `NAME`
+2. “The showman, Fire-Eater—for that was his name—looked like a wicked man”  
+   *Chapter XI: Fire-Eater Sneezes and Pardons Pinocchio*: name · `NAME`
+3. “The showman has sneezed and that is a sign that he pities you, and consequently you are saved.”  
+   *Chapter XI: Fire-Eater Sneezes and Pardons Pinocchio*: the pitying sneeze · `NAME`
+4. “Here are five gold pieces. Go at once and take them to him with my compliments.”  
+   *Chapter XII: Pinocchio Receives a Present of Five Gold Pieces*: the gift · `NAME`
+
+### Candlewick
+
+*Also: real name Romeo*
+
+> Pinocchio's favourite schoolfellow, called Candlewick "because he was so thin, straight and bright, like the new wick of a little nightlight," and "the laziest and the naughtiest boy in the school." He persuades Pinocchio to come to the "Land of Boobies," where both boys turn into donkeys; Candlewick is sold to a peasant.
+
+1. “amongst Pinocchio’s friends and schoolfellows there was one that he greatly preferred and was very fond of.”  
+   *Chapter XXX: The “Land of Boobies”*: his favourite · `NAME`
+2. “This boy’s name was Romeo, but he always went by the nickname of Candlewick, because he was so thin, straight and bright, like the new wick of a little nightlight.”  
+   *Chapter XXX: The “Land of Boobies”*: name, looks · `NAME`
+3. “Candlewick was the laziest and the naughtiest boy in the school”  
+   *Chapter XXX: The “Land of Boobies”*: character · `NAME`
+4. “It is called the ‘Land of Boobies.’ Why do you not come, too?”  
+   *Chapter XXX: The “Land of Boobies”*: tempts Pinocchio · `NAME`
+5. “Candlewick was bought by a peasant whose donkey had died the previous day.”  
+   *Chapter XXXIII: Pinocchio Is Trained for the Circus*: a donkey, sold · `NAME`
+
+### The Dogfish
+
+> A huge sea monster that "has been spreading devastation and ruin" and swallows Geppetto and later Pinocchio. Inside it, Pinocchio finds his father, and they escape while "the Dogfish is sleeping like a dormouse." In the book it is a dogfish, not a whale.
+
+1. “He must have been swallowed by the terrible Dogfish, who for some days past has been spreading devastation and ruin in our waters.”  
+   *Chapter XXIV: Pinocchio Finds the Fairy Again*: who it is · `NAME`
+2. “the Dogfish is sleeping like a dormouse, the sea is calm, and it is as light as day. Follow me, dear papa”  
+   *Chapter XXXV: A Happy Surprise for Pinocchio*: the escape · `NAME`
+- Absent from the whole book (pattern `\bwhale\b`): confirmed.
+
+## E5. Winnie-the-Pooh
+
+*A. A. Milne, 1926. Standard Ebooks edition. [Standard Ebooks](https://standardebooks.org/ebooks/a-a-milne/winnie-the-pooh), source [a-a-milne_winnie-the-pooh](https://github.com/standardebooks/a-a-milne_winnie-the-pooh) at commit `ac37a52022dc1223660055edb44ad2d324de19f9`.*
+
+*Level: B1.*
+
+### Winnie-the-Pooh
+
+*Also: Pooh; "Edward Bear"*
+
+> Christopher Robin's bear: "Edward Bear, known to his friends as Winnie-the-Pooh, or Pooh for short." He loves honey ("the only reason for making honey is so as I can eat it"), makes up little hums, and calls himself "a Bear of Very Little Brain, and long words Bother me." He floats up to a bees' nest on a balloon, trying "to look like a small black cloud," and eats so much at Rabbit's that he gets stuck in the front door, "a Wedged Bear in Great Tightness." To Christopher Robin he is "the Best Bear in All the World." Tigger is not in this book; he first appears in the sequel.
+
+1. “Edward Bear, known to his friends as Winnie-the-Pooh, or Pooh for short, was walking through the forest one day, humming proudly to himself. He had made up a little hum that very morning”  
+   *Chapter II: In Which Pooh Goes Visiting and Gets Into a Tight Place*: name, hums · `NAME`
+2. “picked his Bear up by the leg, and walked off to the door, trailing Pooh behind him”  
+   *Chapter I: In Which We Are Introduced to Winnie-the-Pooh and Some Bees, and the Stories Begin*: Christopher Robin's bear · `NAME`
+3. “And then he got up, and said: “And the only reason for making honey is so as I can eat it.””  
+   *Chapter I: In Which We Are Introduced to Winnie-the-Pooh and Some Bees, and the Stories Begin*: honey · `NAME`
+4. ““For I am a Bear of Very Little Brain, and long words Bother me.””  
+   *Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One*: very little brain · `NAME`
+5. ““I wonder if you’ve got such a thing as a balloon about you?””  
+   *Chapter I: In Which We Are Introduced to Winnie-the-Pooh and Some Bees, and the Stories Begin*: the balloon · `NAME`
+6. ““I shall try to look like a small black cloud. That will deceive them”  
+   *Chapter I: In Which We Are Introduced to Winnie-the-Pooh and Some Bees, and the Stories Begin*: tricks the bees · `NAME`
+7. ““Then would you read a Sustaining Book, such as would help and comfort a Wedged Bear in Great Tightness?””  
+   *Chapter II: In Which Pooh Goes Visiting and Gets Into a Tight Place*: stuck · `NAME`
+8. ““It all comes,” said Rabbit sternly, “of eating too much.”  
+   *Chapter II: In Which Pooh Goes Visiting and Gets Into a Tight Place*: eating too much · `NAME`
+9. “that Rabbit might never be able to use his front door again”  
+   *Chapter II: In Which Pooh Goes Visiting and Gets Into a Tight Place*: stuck in Rabbit's door · `NAME`
+10. ““You’re the Best Bear in All the World,” said Christopher Robin soothingly.”  
+   *Chapter III: In Which Pooh and Piglet Go Hunting and Nearly Catch a Woozle*: Christopher Robin's view · `NAME`
+- Absent from the whole book (pattern `\bTigger\b`): confirmed.
+
+### Piglet
+
+> Pooh's small, timid friend, who "lived in a very grand house in the middle of a beech-tree" beside a broken sign reading "Trespassers W," which he says was his grandfather's name. He admits "It is hard to be brave... when you're only a Very Small Animal." When a flood leaves him "Entirely Surrounded by Water," he sends a message in a bottle, and Christopher Robin and Pooh sail to him in "The Brain of Pooh."
+
+1. “The Piglet lived in a very grand house in the middle of a beech-tree”  
+   *Chapter III: In Which Pooh and Piglet Go Hunting and Nearly Catch a Woozle*: home · `NAME`
+2. “Next to his house was a piece of broken board which had: “Trespassers W” on it.”  
+   *Chapter III: In Which Pooh and Piglet Go Hunting and Nearly Catch a Woozle*: the sign · `NAME`
+3. “he said it was his grandfather’s name, and had been in the family for a long time”  
+   *Chapter III: In Which Pooh and Piglet Go Hunting and Nearly Catch a Woozle*: his explanation · `NAME`
+4. ““It is hard to be brave,” said Piglet, sniffing slightly, “when you’re only a Very Small Animal.””  
+   *Chapter VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath*: timid · `NAME`
+5. “IX In Which Piglet Is Entirely Surrounded by Water”  
+   *Chapter IX: In Which Piglet Is Entirely Surrounded by Water*: the flood · `NAME`
+6. “a man on a desert island who had written something in a bottle and thrown it in the sea; and Piglet thought”  
+   *Chapter IX: In Which Piglet Is Entirely Surrounded by Water*: message in a bottle · `NAME`
+7. ““I shall call this boat The Brain of Pooh,” said Christopher Robin”  
+   *Chapter IX: In Which Piglet Is Entirely Surrounded by Water*: the rescue · `NAME`
+
+### Eeyore
+
+> "The Old Grey Donkey," who "stood by himself in a thistly corner of the forest" and is always gloomy ("I don't seem to have felt at all how for a long time"). He loses his tail, which Pooh finds hanging on Owl's door as a "bell-rope"; Christopher Robin nails it back on. For his birthday he gets "a Useful Pot to Keep Things In" and a balloon that Piglet has burst on the way.
+
+1. “The Old Grey Donkey, Eeyore, stood by himself in a thistly corner of the forest”  
+   *Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One*: who he is · `NAME`
+2. ““I don’t seem to have felt at all how for a long time.””  
+   *Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One*: gloomy · `NAME`
+3. ““Why, what’s happened to your tail?” he said in surprise.”  
+   *Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One*: loses his tail · `NAME`
+4. “and when Christopher Robin had nailed it on in its right place again, Eeyore frisked about the forest”  
+   *Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One*: tail nailed back · `NAME`
+5. ““I’m giving him a Useful Pot to Keep Things In”  
+   *Chapter VI: In Which Eeyore Has a Birthday and Gets Two Presents*: birthday present · `NAME`
+6. ““No, but I—I—oh, Eeyore, I burst the balloon!””  
+   *Chapter VI: In Which Eeyore Has a Birthday and Gets Two Presents*: the burst balloon · `NAME`
+
+### Owl
+
+> The wise-seeming bird who lives at "The Chestnuts, an old-world residence of great charm." He can "read and write and spell his own name Wol," but "went all to pieces over delicate words like measles and buttered toast," so Christopher Robin writes his door notices. He likes long words, such as "the customary procedure," and has been using Eeyore's lost tail as his "Handsome bell-rope."
+
+1. “lived at The Chestnuts, an old-world residence of great charm”  
+   *Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One*: home · `NAME`
+2. “for Owl, wise though he was in many ways, able to read and write and spell his own name Wol, yet somehow went all to pieces over delicate words like measles and buttered toast.”  
+   *Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One*: spelling · `NAME`
+3. “These notices had been written by Christopher Robin, who was the only one in the forest who could spell”  
+   *Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One*: his notices · `NAME`
+4. ““Well,” said Owl, “the customary procedure in such cases is as follows.””  
+   *Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One*: long words · `NAME`
+5. ““Handsome bell-rope, isn’t it?” said Owl.”  
+   *Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One*: Eeyore's tail as a bell-rope · `NAME`
+
+### Rabbit
+
+> The forest's organiser, with a whole crowd of "friends-and-relations." Pooh gets stuck in his front door. When Kanga arrives he writes a "Plan to Capture Baby Roo," which starts from the facts that "Kanga runs faster than any of Us, even Me."
+
+1. “and, at the end, in a long line, all Rabbit’s friends-and-relations.”  
+   *Chapter VIII: In Which Christopher Robin Leads an Expotition to the North Pole*: his relations · `NAME`
+2. “Now by this time Rabbit wanted to go for a walk too, and finding the front door full, he went out by the back door”  
+   *Chapter II: In Which Pooh Goes Visiting and Gets Into a Tight Place*: Pooh in his door · `NAME`
+3. “This was what Rabbit read out: Plan to Capture Baby Roo”  
+   *Chapter VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath*: the plan · `NAME`
+4. “Kanga runs faster than any of Us, even Me.”  
+   *Chapter VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath*: his planning · `NAME`
+
+### Kanga and Baby Roo
+
+> A mother kangaroo and her baby who suddenly appear in the forest. To Rabbit she is "a Strange Animal": "An animal who carries her family about with her in her pocket!" Rabbit's plan swaps Piglet for Roo in Kanga's pocket, but Kanga pretends not to notice and gives Piglet a bath instead.
+
+1. “Nobody seemed to know where they came from, but there they were in the Forest: Kanga and Baby Roo.”  
+   *Chapter VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath*: arrival · `NAME`
+2. “We find a Strange Animal among us.”  
+   *Chapter VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath*: Rabbit's view · `SUBJECT`
+3. “An animal who carries her family about with her in her pocket!”  
+   *Chapter VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath*: the pocket · `NAME`
+4. “VII In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath”  
+   *Chapter VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath*: Piglet's bath · `NAME`
+5. “Of course as soon as Kanga unbuttoned her pocket, she saw what had happened.”  
+   *Chapter VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath*: Kanga sees the swap · `NAME`
+6. “So she said to herself, “If they are having a joke with me, I will have a joke with them.””  
+   *Chapter VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath*: plays along · `NAME`
+7. ““Bath first,” said Kanga in a cheerful voice.”  
+   *Chapter VII: In Which Kanga and Baby Roo Come to the Forest, and Piglet Has a Bath*: the bath · `NAME`
+8. “then Kanga, with Roo in her pocket, and Owl”  
+   *Chapter VIII: In Which Christopher Robin Leads an Expotition to the North Pole*: Roo in her pocket · `NAME`
+
+### Christopher Robin
+
+> The boy who owns Pooh and to whom the stories are told (the narrator calls him "you"). He is "the only one in the forest who could spell," calls Pooh "silly old Bear" "in such a loving voice," leads an "Expotition to the North Pole," and rescues Piglet from the flood.
+
+1. “picked his Bear up by the leg, and walked off to the door, trailing Pooh behind him”  
+   *Chapter I: In Which We Are Introduced to Winnie-the-Pooh and Some Bees, and the Stories Begin*: owns Pooh · `NAME`
+2. ““Good morning, Winnie-ther-Pooh,” said you.”  
+   *Chapter I: In Which We Are Introduced to Winnie-the-Pooh and Some Bees, and the Stories Begin*: the stories are told to him · `NAME`
+3. “These notices had been written by Christopher Robin, who was the only one in the forest who could spell”  
+   *Chapter IV: In Which Eeyore Loses a Tail and Pooh Finds One*: can spell · `NAME`
+4. “he said, “Silly old Bear,” in such a loving voice that everybody felt quite hopeful again.”  
+   *Chapter II: In Which Pooh Goes Visiting and Gets Into a Tight Place*: silly old Bear · `NAME`
+5. “VIII In Which Christopher Robin Leads an Expotition to the North Pole”  
+   *Chapter VIII: In Which Christopher Robin Leads an Expotition to the North Pole*: the Expotition · `NAME`
+6. ““I shall call this boat The Brain of Pooh,” said Christopher Robin”  
+   *Chapter IX: In Which Piglet Is Entirely Surrounded by Water*: rescues Piglet · `NAME`
+
+## E6. Grimms' Fairy Tales
+
+*Jacob and Wilhelm Grimm, 1812 (final edition 1857). Standard Ebooks edition of Margaret Hunt's translation (1884). [Standard Ebooks](https://standardebooks.org/ebooks/jacob-grimm_wilhelm-grimm/household-tales/margaret-hunt), source [jacob-grimm_wilhelm-grimm_household-tales_margaret-hunt](https://github.com/standardebooks/jacob-grimm_wilhelm-grimm_household-tales_margaret-hunt) at commit `971c65b2204609d509e08d1760fd12b73933c624`.*
+
+*Level: B1 (read tale by tale).*
+
+### Hansel and Grethel
+
+*Also: Hänsel and Gretel*
+
+> The children of "a poor woodcutter." When "great scarcity fell on the land," his wife persuades him to leave them in the forest. Hansel first marks the way home with "white pebbles" that shine "like real silver pennies," but on the next trip birds eat his trail of bread crumbs. Lost, they find a house "built of bread and covered with cakes" whose windows "were of clear sugar." The witch who lives there fattens Hansel to eat him, but he holds out "a little bone" instead of his finger, and Grethel pushes her into the oven: "Grethel gave her a push that drove her far into it."
+
+1. “Hard by a great forest dwelt a poor woodcutter with his wife and his two children. The boy was called Hänsel and the girl Grethel.”  
+   *Hänsel and Grethel*: who they are · `NAME`
+2. “once when great scarcity fell on the land, he could no longer procure daily bread.”  
+   *Hänsel and Grethel*: the famine · `NAME`
+3. ““I’ll tell you what, husband,” answered the woman, “Early tomorrow morning we will”  
+   *Hänsel and Grethel*: the woman's plan · `NAME`
+4. “the white pebbles which lay in front of the house glittered like real silver pennies”  
+   *Hänsel and Grethel*: the pebbles · `NAME`
+5. “for the many thousands of birds which fly about in the woods and fields had picked them all up”  
+   *Hänsel and Grethel*: the crumbs are eaten · `NAME`
+6. “they saw that it was built of bread and covered with cakes, but that the windows were of clear sugar”  
+   *Hänsel and Grethel*: the house · `NAME`
+7. “she was in reality a wicked witch, who lay in wait for children”  
+   *Hänsel and Grethel*: the witch · `NAME`
+8. “he is in the stable outside, and is to be made fat. When he is fat, I will eat him.”  
+   *Hänsel and Grethel*: fattened to be eaten · `NAME`
+9. “Hänsel, however, stretched out a little bone to her, and the old woman, who had dim eyes, could not see it”  
+   *Hänsel and Grethel*: the bone trick · `NAME`
+10. “Then Grethel gave her a push that drove her far into it, and shut the iron door, and fastened the bolt.”  
+   *Hänsel and Grethel*: Grethel defeats the witch · `NAME`
+
+### Little Redcap
+
+*Also: Little Red Riding Hood*
+
+> A little girl whose grandmother gives her "a little cap of red velvet, which suited her so well that she would never wear anything else," and so she is called Little Redcap. Sent with "a piece of cake and a bottle of wine" to her sick grandmother, she meets the wolf, who reaches the house first and swallows both of them after the famous questions ("what big ears you have!"... "The better to eat you with!"). A passing huntsman cuts the wolf open with "a pair of scissors" and both come out alive; they fill the wolf with "great stones," and he falls dead.
+
+1. “Once she gave her a little cap of red velvet, which suited her so well that she would never wear anything else; so she was always called “Little Redcap.””  
+   *Little Redcap*: her name · `NAME`
+2. ““Come, Little Redcap, here is a piece of cake and a bottle of wine; take them to your grandmother, she is ill and weak”  
+   *Little Redcap*: the errand · `NAME`
+3. ““Oh! grandmother,” she said, “what big ears you have!” “The better to hear you with, my child,” was the reply.”  
+   *Little Redcap*: the questions · `NAME`
+4. ““The better to eat you with!” And scarcely had the wolf said this, than with one bound he was out of bed and swallowed up Redcap.”  
+   *Little Redcap*: swallowed · `NAME`
+5. “so he did not fire, but took a pair of scissors, and began to cut open the stomach of the sleeping wolf.”  
+   *Little Redcap*: the huntsman · `NAME`
+6. “the little girl sprang out, crying, “Ah, how frightened I have been! How dark it was inside the wolf;” and after that the aged grandmother came out alive also”  
+   *Little Redcap*: both come out alive · `NAME`
+7. “Redcap, however, quickly fetched great stones with which they filled the wolf’s body, and when he awoke, he wanted to run away, but the stones were so heavy that he fell down at once, and fell dead.”  
+   *Little Redcap*: the stones · `NAME`
+
+### Snow-White
+
+*Also: Snow White*
+
+> A princess "as white as snow, and as red as blood," with hair "as black as ebony." Her proud stepmother asks her mirror, "Looking-glass, Looking-glass, on the wall, Who in this land is the fairest of all?" and tries to kill her. Snow-White hides in the dwarfs' cottage with its "seven little beds." She does not wake with a kiss: the men carrying her coffin stumble, and "the poisonous piece of apple" comes out of her throat. At the wedding the stepmother must "put on the red-hot shoes, and dance until she dropped down dead."
+
+1. “Soon after that she had a little daughter, who was as white as snow, and as red as blood, and her hair was as black as ebony”  
+   *Little Snow-White*: appearance · `NAME`
+2. “She was a beautiful woman, but proud and haughty, and she could not bear that anyone else should surpass her in beauty.”  
+   *Little Snow-White*: the proud stepmother · `NAME`
+3. ““Looking-glass, Looking-glass, on the wall, Who in this land is the fairest of all?””  
+   *Little Snow-White*: the mirror · `NAME`
+4. “Kill her, and bring me back her heart as a token.”  
+   *Little Snow-White*: tries to kill her · `NAME`
+5. “Against the wall stood seven little beds side by side”  
+   *Little Snow-White*: the dwarfs' cottage · `NAME`
+6. “they were seven dwarfs who dug and delved in the mountains for ore.”  
+   *Little Snow-White*: the dwarfs · `NAME`
+7. “And it happened that they stumbled over a tree-stump, and with the shock the poisonous piece of apple which Snow-white had bitten off came out of her throat.”  
+   *Little Snow-White*: how she wakes · `NAME`
+8. “Then she was forced to put on the red-hot shoes, and dance until she dropped down dead.”  
+   *Little Snow-White*: the stepmother's end · `NAME`
+- Absent from “Little Snow-White” (pattern `\bkiss`): confirmed.
+
+### Cinderella
+
+> A girl whose stepsisters make her work in the kitchen "from morning till night" and sleep "by the fireside in the ashes." There is no fairy godmother and no glass slipper. She plants a hazel twig on her mother's grave, and a bird in the tree throws down her ball dresses when she calls, "Shiver and quiver, little tree, Silver and gold throw down over me." The prince has the stairs smeared with pitch, catches her "left slipper," which is "all golden," and one stepsister even cuts off her toe to fit it. At the wedding, pigeons peck out the stepsisters' eyes.
+
+1. “There she had to do hard work from morning till night, get up before daybreak, carry water, light fires, cook and wash.”  
+   *Cinderella*: kitchen drudge · `NAME`
+2. “she had no bed to go to, but had to sleep by the fireside in the ashes”  
+   *Cinderella*: the ashes · `NAME`
+3. “a hazel twig brushed against him and knocked off his hat. Then he broke off the branch and took it with him.”  
+   *Cinderella*: the hazel twig (her father brings it) · `NAME`
+4. “Cinderella thanked him, went to her mother’s grave and planted the branch on it”  
+   *Cinderella*: the hazel tree · `NAME`
+5. “if Cinderella expressed a wish, the bird threw down to her what she had wished for.”  
+   *Cinderella*: the bird · `NAME`
+6. ““Shiver and quiver, little tree, Silver and gold throw down over me.””  
+   *Cinderella*: the magic words · `NAME`
+7. “had caused the whole staircase to be smeared with pitch, and there, when she ran down, had the maiden’s left slipper remained sticking. The King’s son picked it up, and it was small and dainty, and all golden.”  
+   *Cinderella*: the golden slipper · `NAME`
+8. ““Cut the toe off; when thou art Queen thou wilt have no more need to go on foot.””  
+   *Cinderella*: the stepsister's toe · `NEAR`
+9. “the pigeons pecked out one eye of each of them”  
+   *Cinderella*: the stepsisters punished · `NAME`
+- Absent from “Cinderella” (pattern `godmother|\bglass\b|pumpkin|midnight`): confirmed.
+
+### Rapunzel
+
+> A girl locked by an enchantress in a tower that "had neither stairs nor door." Her "magnificent long hair, fine as spun gold" is the only way up: "Rapunzel, Rapunzel, Let down thy hair to me." When the enchantress finds out about the king's son, he leaps from the tower and "the thorns into which he fell, pierced his eyes." Years later Rapunzel finds him, and "Two of her tears wetted his eyes and they grew clear again."
+
+1. “shut her into a tower, which lay in a forest, and had neither stairs nor door”  
+   *Rapunzel*: the tower · `NAME`
+2. ““Rapunzel, Rapunzel, Let down thy hair to me.” Rapunzel had magnificent long hair, fine as spun gold”  
+   *Rapunzel*: the hair · `NAME`
+3. “The King’s son was beside himself with pain, and in his despair he leapt down from the tower.”  
+   *Rapunzel*: he leaps · `NAME`
+4. “He escaped with his life, but the thorns into which he fell, pierced his eyes.”  
+   *Rapunzel*: the prince blinded · `NAME`
+5. “Thus he roamed about in misery for some years, and at length came to the desert where Rapunzel”  
+   *Rapunzel*: years later · `NAME`
+6. “Two of her tears wetted his eyes and they grew clear again, and he could see with them as before.”  
+   *Rapunzel*: her tears heal him · `NAME`
+
+### Rumpelstiltskin
+
+> A little man who appears when a boastful miller claims his daughter "can spin straw into gold" and the King shuts her in with the straw. He spins it for her, the third time in return for a promise of "your first child." When she, now Queen, finally guesses "Perhaps your name is Rumpelstiltskin?", he drives his foot deep into the earth in his rage and pulls at his leg so hard that "he tore himself in two."
+
+1. “in order to make himself appear important he said to him, “I have a daughter who can spin straw into gold.””  
+   *Rumpelstiltskin*: the boast · `NAME`
+2. “Thereupon he himself locked up the room, and left her in it alone.”  
+   *Rumpelstiltskin*: shut in with the straw · `NAME`
+3. “the manikin came again for the third time, and said, “What will you give me if I spin the straw for you this time also?””  
+   *Rumpelstiltskin*: the third time · `LINKED`
+4. ““Then promise me, if you should become Queen, your first child.””  
+   *Rumpelstiltskin*: the price · `LINKED`
+5. ““Perhaps your name is Rumpelstiltskin?””  
+   *Rumpelstiltskin*: the name guessed · `NAME`
+6. “in his anger he plunged his right foot so deep into the earth that his whole leg went in”  
+   *Rumpelstiltskin*: his rage · `NAME`
+7. “then in rage he pulled at his left leg so hard with both hands that he tore himself in two.”  
+   *Rumpelstiltskin*: his end · `NAME`
+
+### The Frog-King
+
+*Also: the frog prince*
+
+> A frog who brings back a princess's "golden ball" from a well after she promises to be his companion. When he creeps up to her in bed and asks to be lifted up, she does not kiss him: "she... threw him with all her might against the wall," and he turns into "a King's son with beautiful kind eyes." His servant, Faithful Henry, had been so unhappy that he had "three iron bands" put round his heart.
+
+1. “she took a golden ball, and threw it up on high and caught it, and this ball was her favorite plaything”  
+   *The Frog-King, or Iron Henry*: the golden ball · `NAME`
+2. ““Oh yes,” said she, “I promise thee all thou wishest, if thou wilt but bring me my ball back again.””  
+   *The Frog-King, or Iron Henry*: her promise · `NAME`
+3. “But when she was in bed he crept to her and said, “I am tired, I want to sleep as well as thou, lift me up or I will tell thy father.””  
+   *The Frog-King, or Iron Henry*: in her room · `NAME`
+4. “Then she was terribly angry, and took him up and threw him with all her might against the wall.”  
+   *The Frog-King, or Iron Henry*: no kiss · `NAME`
+5. “But when he fell down he was no frog but a King’s son with beautiful kind eyes.”  
+   *The Frog-King, or Iron Henry*: the transformation · `NAME`
+6. “Faithful Henry had been so unhappy when his master was changed into a frog, that he had caused three iron bands to be laid round his heart”  
+   *The Frog-King, or Iron Henry*: Faithful Henry · `NAME`
+- Absent from “The Frog-King” (pattern `\bkiss`): confirmed.
+
+## E7. Heidi
+
+*Johanna Spyri, 1880–1881. Standard Ebooks edition of Elisabeth P. Stork's translation (1915). [Standard Ebooks](https://standardebooks.org/ebooks/johanna-spyri/heidi/elisabeth-p-stork), source [johanna-spyri_heidi_elisabeth-p-stork](https://github.com/standardebooks/johanna-spyri_heidi_elisabeth-p-stork) at commit `1b0cfa30616729c8dae14146b4b36268ac8b803c`.*
+
+*Level: B1 (upper end).*
+
+### Heidi
+
+*Also: named after her mother, Adelheid*
+
+> An orphan girl, "scarcely five years old" when her aunt Deta takes her up the mountain and leaves her with her grandfather: her father Tobias was killed by a falling beam, and her mother Adelheid died soon after. On the Alm she sleeps in "a hayloft, which was filled with fresh and fragrant hay," and goes up to the pasture with Peter and the goats. Taken to Frankfurt as a companion for the sick girl Clara, she "can't read" at first, and grows "so homesick that her little body has wasted away" that she walks in her sleep, until a doctor sends her home, where she is "so happy to be home again." Back on the Alm she reads to Peter's blind grandmother and helps Clara learn to walk.
+
+1. “the little one, who was scarcely five years old, was bundled up as if she had to brave a bitter frost”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: age · `NAME`
+2. “Heidi liked this prospect and followed Deta without more ado.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter V: Two Visitors*: her aunt Deta · `NAME`
+3. ““Uncle, I have brought the little girl for you to keep,” said Deta.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: left with her grandfather · `NAME`
+4. “when Tobias was helping to build a house, a beam fell on him and killed him. Adelheid was thrown into a violent fever with grief and fright, and never recovered from it.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: orphan · `NAME`
+5. “Only a few weeks after Tobias’s death they buried poor Adelheid.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: her mother's death · `NAME`
+6. “Climbing up, she arrived at a hayloft, which was filled with fresh and fragrant hay.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter II: With the Grandfather*: sleeps in the hayloft · `NAME`
+7. ““Do you want to go with him to the pasture?” asked the grandfather. “Yes,” cried Heidi, clapping her hands.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter III: On the Pasture*: to the pasture · `NAME`
+8. ““Did you like to come to Frankfurt?” asked Clara again.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter VI: A New Chapter with New Things*: taken to Frankfurt · `NAME`
+9. ““I can’t read and Peter can’t do it either,” Heidi”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter VI: A New Chapter with New Things*: cannot read at first · `NAME`
+10. “the little girl is a sleepwalker, and has unconsciously scared your whole household. Besides, she is so homesick that her little body has wasted away.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter XII: The Sesemann House Is Haunted*: homesick, sleepwalking · `NAME`
+11. “The only remedy for her is to be restored to her native mountain air.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter XII: The Sesemann House Is Haunted*: sent home · `NAME`
+12. “Heidi and her grandfather were back on the Alp. The child was so happy to be home again that she jumped about among the beloved objects.”  
+   *Part II: Heidi Makes Use of Her Experience, Chapter XX: News from Distant Friends*: happy at home · `NAME`
+13. ““Grandmother, shall I read you a song from your book now? I can read quite nicely!””  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter XIV: On Sunday When the Church Bells Ring*: reads to the grandmother · `NAME`
+
+### The Alm-Uncle
+
+*Also: Heidi's grandfather*
+
+> Heidi's grandfather, a gruff old man living alone up on the Alm. He was once "heir to a large farm in Domleschg" but "lost everything with drink and play." The villagers are afraid of him, "with those thick grey eyebrows and that huge uncanny beard," but he takes Heidi in and later carries Clara up the mountain.
+
+1. “He was heir to a large farm in Domleschg. But setting up to play the fine gentleman, he soon lost everything with drink and play.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: his past · `NAME`
+2. “After the death of his son he never spoke to a living soul. Suddenly he moved up to the Alp, to live there at enmity with God and man.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: lives alone · `NEAR`
+3. “He was named ‘Alm-Uncle’ when he moved up to the Alm.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: his name · `NAME`
+4. “We all fear him and he is really just like a heathen or an old Indian, with those thick grey eyebrows and that huge uncanny beard.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: feared, appearance · `NEAR`
+5. “for he was strange to look at, with his thick, grey beard and shaggy eyebrows, that met in the middle like a thicket.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: appearance · `NAME`
+6. “The old man’s eyes flamed with anger. “Indeed!” he said. “What on earth shall I do, when she begins to whine and cry for you?”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: gruff · `NAME`
+7. “Unfolding the covers, he put Clara down on the dry grass.”  
+   *Part II: Heidi Makes Use of Her Experience, Chapter XXII: Something Unexpected Happens*: cares for Clara · `SUBJECT`
+8. “Then, lifting Clara up on one strong arm, he carried the covers on the other. “Now, march!””  
+   *Part II: Heidi Makes Use of Her Experience, Chapter XXII: Something Unexpected Happens*: carries Clara up to the pasture · `NAME`
+
+### Peter the goatherd
+
+> The village boy who takes the goats up to the pasture each day. He would rather cut hazel-rods than "learn to read" and lives with his mother and "an old blind grandmother." Jealous when Clara takes up all of Heidi's time, he pushes Clara's empty rolling-chair down the slope: "He had destroyed the chair to get rid of the stranger."
+
+1. “She is climbing up with the goatherd Peter and his goats.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: who he is · `NAME`
+2. “The boy thought it was a more useful occupation to look for hazel-rods than to learn to read”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter V: Two Visitors*: won't learn to read · `NAME`
+3. “At home lived his mother and an old blind grandmother”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: family · `NAME`
+4. “Heidi had not been up with him a single time; it was too much! And today she was coming at last, but again in company with this hateful stranger.”  
+   *Part II: Heidi Makes Use of Her Experience, Chapter XXII: Something Unexpected Happens*: jealous · `NAME`
+5. “It was then that Peter noticed the rolling-chair standing near the hut. After carefully glancing about him, he rushed at the hated object and pushed it down the incline.”  
+   *Part II: Heidi Makes Use of Her Experience, Chapter XXII: Something Unexpected Happens*: pushes the chair · `NAME`
+6. “He had destroyed the chair to get rid of the stranger”  
+   *Part II: Heidi Makes Use of Her Experience, Chapter XXII: Something Unexpected Happens*: jealousy · `NAME`
+7. “Now the stranger would have to travel home and Heidi would be his again!”  
+   *Part II: Heidi Makes Use of Her Experience, Chapter XXII: Something Unexpected Happens*: why he did it · `NAME`
+
+### Clara Sesemann
+
+> A girl in Frankfurt, "a sick child" who spends her days "in a comfortable rolling-chair," with "a pale, thin face with soft blue eyes." Heidi is brought to keep her company. Later Clara visits the Alm, and there she takes her first steps: "I can take steps, one after another."
+
+1. “In a beautiful house in Frankfurt lived a sick child by the name of Clara Sesemann. She was sitting in a comfortable rolling-chair, which could be pushed from room to room.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter VI: A New Chapter with New Things*: who she is · `NAME`
+2. “Clara had a pale, thin face with soft blue eyes”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter VI: A New Chapter with New Things*: appearance · `NAME`
+3. ““Oh, Heidi, I can do it. Oh, I really can. Just look! I can take steps, one after another.””  
+   *Part II: Heidi Makes Use of Her Experience, Chapter XXII: Something Unexpected Happens*: learns to walk · `NAME`
+
+### Miss Rottenmeier
+
+> The strict housekeeper of the Sesemann house in Frankfurt, who "wore a peculiar uniform with a long cape, and a high cap on her head" and runs the whole household. She is shocked that Heidi has studied no books at all.
+
+1. “In a beautiful house in Frankfurt lived a sick child by the name of Clara Sesemann.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter VI: A New Chapter with New Things*: the Frankfurt house · `NAME`
+2. “The lady so addressed was the housekeeper, who had lived with Clara since Mrs. Sesemann’s death. Miss Rottenmeier wore a peculiar uniform with a long cape, and a high cap on her head.”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter VI: A New Chapter with New Things*: who she is · `NAME`
+3. “Clara’s father, who was away from home a great deal, left the entire management of the house to this lady”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter VI: A New Chapter with New Things*: runs the house · `NAME`
+4. “Miss Rottenmeier exclaimed indignantly. “How can we get along? What have you learned? What books have you studied?””  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter VI: A New Chapter with New Things*: strict · `NAME`
+
+### Peter's grandmother
+
+> Peter's old, blind grandmother, whom Heidi visits in the village. Heidi saves "soft white rolls" for her because "the black bread is too hard," and once Heidi can read, she reads her songs from her hymnbook.
+
+1. “his blind grandmother was called by young and old”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter I: Going Up to the Alm-Uncle*: blind · `NAME`
+2. ““You might bring her some soft white rolls, Heidi. I think the black bread is too hard for poor grandmother”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter V: Two Visitors*: the white rolls · `NAME`
+3. “Seeing the old hymnbook on the shelf, Heidi said: “Grandmother, shall I read you a song from your book now?”  
+   *Part I: Heidi’s Years of Learning and Travel, Chapter XIV: On Sunday When the Church Bells Ring*: Heidi reads to her · `NAME`
+
+## E8. The Wonderful Wizard of Oz
+
+*L. Frank Baum, 1900. Standard Ebooks edition. [Standard Ebooks](https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz), source [l-frank-baum_the-wonderful-wizard-of-oz](https://github.com/standardebooks/l-frank-baum_the-wonderful-wizard-of-oz) at commit `36104f0b9ace47debd6ac19cec9dc91b3858e83a`.*
+
+*Level: B1 (upper end).*
+
+### Dorothy
+
+> A little girl who lives on the gray Kansas prairie with Uncle Henry, "who was a farmer," and Aunt Em. A cyclone carries her house to the Land of Oz, where it falls on the Wicked Witch of the East, and Dorothy is given the Witch's "silver shoes with pointed toes." In her gingham dress "with checks of white and blue" and a pink sunbonnet, she follows the road "paved with yellow brick" to the Emerald City to ask the Wizard to send her home. She melts the Wicked Witch of the West with "the bucket of water," and finally clicks her heels together three times: "Take me home to Aunt Em!" The book never gives her a surname, and her shoes are silver; the ruby slippers come from the film.
+
+1. “Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife.”  
+   *Chapter I: The Cyclone*: home and family · `NAME`
+2. “When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side.”  
+   *Chapter I: The Cyclone*: the gray prairie · `NAME`
+3. “The house whirled around two or three times and rose slowly through the air.”  
+   *Chapter I: The Cyclone*: the cyclone · `NAME`
+4. “Dorothy was an innocent, harmless little girl, who had been carried by a cyclone many miles from home”  
+   *Chapter II: The Council with the Munchkins*: carried by a cyclone · `NAME`
+5. “two feet were sticking out, shod in silver shoes with pointed toes. “Oh, dear! Oh, dear!” cried Dorothy”  
+   *Chapter II: The Council with the Munchkins*: the house lands on a witch; silver shoes · `NAME`
+6. ““But who was she?” asked Dorothy. “She was the Wicked Witch of the East, as I said,” answered the little woman.”  
+   *Chapter II: The Council with the Munchkins*: the Witch of the East · `NAME`
+7. “there is but one Wicked Witch in all the Land of Oz—the one who lives in the West.”  
+   *Chapter II: The Council with the Munchkins*: the Land of Oz · `NAME`
+8. “But the silver shoes are yours, and you shall have them to wear.”  
+   *Chapter II: The Council with the Munchkins*: given the shoes · `NAME`
+9. “It was gingham, with checks of white and blue; and although the blue was somewhat faded with many washings, it was still a pretty frock. The girl washed herself carefully, dressed herself in the clean gingham, and tied her pink sunbonnet on her head.”  
+   *Chapter III: How Dorothy Saved the Scarecrow*: dress and bonnet · `NAME`
+10. “The road to the City of Emeralds is paved with yellow brick”  
+   *Chapter II: The Council with the Munchkins*: the yellow brick road · `NAME`
+11. ““And I am going to ask him to send Toto and me back to Kansas,” added Dorothy.”  
+   *Chapter VI: The Cowardly Lion*: her wish · `NAME`
+12. “This made Dorothy so very angry that she picked up the bucket of water that stood near and dashed it over the Witch”  
+   *Chapter XII: The Search for the Wicked Witch*: melts the Witch of the West · `NAME`
+13. “she clapped the heels of her shoes together three times, saying: “Take me home to Aunt Em!””  
+   *Chapter XXIII: Glinda the Good Witch Grants Dorothy’s Wish*: goes home · `NAME`
+- Absent from the whole book (pattern `Dorothy Gale`): confirmed.
+- Absent from the whole book (pattern `ruby (slippers|shoes)`): confirmed.
+- Absent from the whole book (pattern `not in Kansas any ?more`): confirmed.
+- Absent from the whole book (pattern `\brainbow\b`): confirmed.
+
+### Toto
+
+*Also: Dorothy's dog*
+
+> Dorothy's dog, "a little black dog, with long silky hair and small black eyes that twinkled merrily." In gray Kansas, "It was Toto that made Dorothy laugh." In the Wizard's throne room he jumps away from the Lion's roar and tips over a screen, uncovering the real Wizard.
+
+1. “It was Toto that made Dorothy laugh, and saved her from growing as gray as her other surroundings. Toto was not gray; he was a little black dog, with long silky hair and small black eyes that twinkled merrily on either side of his funny, wee nose.”  
+   *Chapter I: The Cyclone*: who he is · `NAME`
+2. ““And I am going to ask him to send Toto and me back to Kansas,” added Dorothy.”  
+   *Chapter VI: The Cowardly Lion*: from Kansas · `NAME`
+3. “Toto jumped away from him in alarm and tipped over the screen that stood in a corner.”  
+   *Chapter XV: The Discovery of Oz, the Terrible*: uncovers the Wizard · `NAME`
+
+### The Scarecrow
+
+> A scarecrow whose head is "a small sack stuffed with straw, with eyes, nose, and mouth painted on it." Dorothy lifts him off his pole in a cornfield. "I am stuffed, so I have no brains at all," he says, so he goes to ask Oz for some. The Wizard fills his head with bran mixed with pins and needles ("bran-new brains"), and he ends up as "the ruler of the Emerald City."
+
+1. “Its head was a small sack stuffed with straw, with eyes, nose, and mouth painted on it to represent a face.”  
+   *Chapter III: How Dorothy Saved the Scarecrow*: appearance · `NAME`
+2. “There was a great cornfield beyond the fence, and not far away she saw a Scarecrow, placed high on a pole to keep the birds from the ripe corn.”  
+   *Chapter III: How Dorothy Saved the Scarecrow*: in a cornfield, on a pole · `NAME`
+3. “Dorothy reached up both arms and lifted the figure off the pole, for, being stuffed with straw, it was quite light.”  
+   *Chapter III: How Dorothy Saved the Scarecrow*: Dorothy lifts him down · `NAME`
+4. “I don’t know anything. You see, I am stuffed, so I have no brains at all,”  
+   *Chapter III: How Dorothy Saved the Scarecrow*: no brains · `NAME`
+5. “Do you think,” he asked, “if I go to the Emerald City with you, that Oz would give me some brains?”  
+   *Chapter III: How Dorothy Saved the Scarecrow*: his wish · `NAME`
+6. “took up a measure of bran, which he mixed with a great many pins and needles”  
+   *Chapter XVI: The Magic Art of the Great Humbug*: the Wizard's cure · `NAME`
+7. “for I have given you a lot of bran-new brains.”  
+   *Chapter XVI: The Magic Art of the Great Humbug*: bran-new brains · `NAME`
+8. “The Scarecrow was now the ruler of the Emerald City”  
+   *Chapter XVIII: Away to the South*: ruler · `NAME`
+
+### The Tin Woodman
+
+> Found in the forest with his axe raised, "a man made entirely of tin" who cannot move: "They are rusted so badly that I cannot move them at all," so he begs for an oilcan. He was once a woodchopper; after the Wicked Witch of the East enchanted his axe, it cut off his legs and arms one after another, and a tinsmith replaced each with tin. He wants a heart, and the Wizard gives him one "made entirely of silk and stuffed with sawdust." Glinda sends him to "rule the Winkies."
+
+1. “with an uplifted axe in his hands, was a man made entirely of tin.”  
+   *Chapter V: The Rescue of the Tin Woodman*: appearance · `NAME`
+2. ““Get an oilcan and oil my joints,” he answered. “They are rusted so badly that I cannot move them at all”  
+   *Chapter V: The Rescue of the Tin Woodman*: rusted · `NAME`
+3. “When I grew up, I too became a woodchopper”  
+   *Chapter V: The Rescue of the Tin Woodman*: once a woodchopper · `NAME`
+4. “So I went to a tinsmith and had him make me a new leg out of tin.”  
+   *Chapter V: The Rescue of the Tin Woodman*: how he became tin 1 · `NAME`
+5. “But my action angered the Wicked Witch of the East, for she had promised the old woman I should not marry the pretty Munchkin girl.”  
+   *Chapter V: The Rescue of the Tin Woodman*: the Witch of the East's curse · `NAME`
+6. “After this the enchanted axe cut off my arms, one after the other; but, nothing daunted, I had them replaced with tin ones.”  
+   *Chapter V: The Rescue of the Tin Woodman*: how he became tin 2 · `NAME`
+7. “Then he said: “Do you suppose Oz could give me a heart?””  
+   *Chapter V: The Rescue of the Tin Woodman*: his wish · `NAME`
+8. “he took out a pretty heart, made entirely of silk and stuffed with sawdust.”  
+   *Chapter XVI: The Magic Art of the Great Humbug*: the Wizard's gift · `NAME`
+9. “I am sure you will rule the Winkies wisely and well.”  
+   *Chapter XXIII: Glinda the Good Witch Grants Dorothy’s Wish*: ruler of the Winkies · `NAME`
+
+### The Cowardly Lion
+
+> A lion everyone expects to be brave, since "the Lion is everywhere thought to be the King of Beasts," but who covers his fear by roaring: "I'm such a coward." He joins Dorothy because "my life is simply unbearable without a bit of courage." The Wizard gives him a green-gold dish to "Drink," explaining that "courage is always inside one." Later the forest animals accept him as "King of the Forest."
+
+1. “All the other animals in the forest naturally expect me to be brave, for the Lion is everywhere thought to be the King of Beasts.”  
+   *Chapter VI: The Cowardly Lion*: expected to be brave · `NAME`
+2. “I learned that if I roared very loudly every living thing was frightened and got out of my way.”  
+   *Chapter VI: The Cowardly Lion*: roars to hide his fear · `NAME`
+3. “I’m such a coward”  
+   *Chapter VI: The Cowardly Lion*: his fear · `NAME`
+4. “for my life is simply unbearable without a bit of courage.”  
+   *Chapter VI: The Cowardly Lion*: his wish · `NAME`
+5. “I am a Cowardly Lion, afraid of everything.”  
+   *Chapter XI: The Wonderful City of Oz*: introduces himself to Oz · `NAME`
+6. “the contents of which he poured into a green-gold dish, beautifully carved. Placing this before the Cowardly Lion, who sniffed at it as if he did not like it, the Wizard said: “Drink.””  
+   *Chapter XVI: The Magic Art of the Great Humbug*: the Wizard's gift · `NAME`
+7. “You know, of course, that courage is always inside one”  
+   *Chapter XVI: The Magic Art of the Great Humbug*: the Wizard's explanation · `NAME`
+8. “will you bow down to me and obey me as King of the Forest?”  
+   *Chapter XXI: The Lion Becomes the King of Beasts*: becomes king · `NAME`
+
+### The Wizard of Oz
+
+*Also: "Oz, the Great and Terrible"*
+
+> The ruler of the Emerald City, who announces himself as "Oz, the Great and Terrible" and receives each visitor in a different shape: "an enormous Head, without a body," "a most lovely Lady," a Beast, a Ball of Fire. Behind the screen he is "a little old man, with a bald head and a wrinkled face," born in Omaha, who was a ventriloquist and then a balloonist. He admits "I am a humbug" and "a very good man, but I'm a very bad Wizard." He made the city look green by making everyone wear green spectacles, and he leaves in his balloon.
+
+1. “I am Oz, the Great and Terrible. Who are you, and why do you seek me?”  
+   *Chapter XI: The Wonderful City of Oz*: how he announces himself · `NAME`
+2. “In the center of the chair was an enormous Head, without a body to support it or any arms or legs whatever.”  
+   *Chapter XI: The Wonderful City of Oz*: the Head · `NAME`
+3. “where he saw, sitting in the emerald throne, a most lovely Lady.”  
+   *Chapter XI: The Wonderful City of Oz*: the Lady · `NAME`
+4. “for Oz had taken the shape of a most terrible Beast.”  
+   *Chapter XI: The Wonderful City of Oz*: the Beast · `NAME`
+5. “came from the Ball of Fire, and these were the words it spoke: “I am Oz, the Great and Terrible.”  
+   *Chapter XI: The Wonderful City of Oz*: the Ball of Fire · `NAME`
+6. “Dorothy was surprised to find that the Great Wizard was not a Head, as she had seen him, but a lovely Lady.”  
+   *Chapter XI: The Wonderful City of Oz*: changes shape · `NAME`
+7. “a little old man, with a bald head and a wrinkled face, who seemed to be as much surprised as they were.”  
+   *Chapter XV: The Discovery of Oz, the Terrible*: his real appearance · `NAME`
+8. ““Exactly so!” declared the little man, rubbing his hands together as if it pleased him. “I am a humbug.””  
+   *Chapter XV: The Discovery of Oz, the Terrible*: a humbug · `NAME`
+9. “I’m really a very good man, but I’m a very bad Wizard, I must admit.”  
+   *Chapter XV: The Discovery of Oz, the Terrible*: good man, bad wizard · `NAME`
+10. “I was born in Omaha—”  
+   *Chapter XV: The Discovery of Oz, the Terrible*: origin · `NAME`
+11. “When I grew up I became a ventriloquist, and at that I was very well trained by a great master.”  
+   *Chapter XV: The Discovery of Oz, the Terrible*: ventriloquist · `NAME`
+12. “I tired of that, and became a balloonist.”  
+   *Chapter XV: The Discovery of Oz, the Terrible*: balloonist · `NAME`
+13. “I put green spectacles on all the people, so that everything they saw was green.”  
+   *Chapter XV: The Discovery of Oz, the Terrible*: the green trick · `NAME`
+14. “Gradually the balloon swelled out and rose into the air”  
+   *Chapter XVII: How the Balloon Was Launched*: leaves by balloon · `NAME`
+
+### The Wicked Witch of the West
+
+> The witch who rules the West, "where the Winkies live," and "would make you her slave if you passed her way." She "had but one eye, yet that was as powerful as a telescope," commands the Winged Monkeys through her Golden Cap, and is "too much afraid of the dark" to steal Dorothy's shoes at night. When Dorothy throws water over her she melts "like brown sugar": "Didn't you know water would be the end of me?"
+
+1. “And that country, where the Winkies live, is ruled by the Wicked Witch of the West, who would make you her slave if you passed her way.”  
+   *Chapter II: The Council with the Munchkins*: who she is · `NAME`
+2. “Now the Wicked Witch of the West had but one eye, yet that was as powerful as a telescope”  
+   *Chapter XII: The Search for the Wicked Witch*: one eye · `NAME`
+3. “This Golden Cap had a charm. Whoever owned it could call three times upon the Winged Monkeys”  
+   *Chapter XII: The Search for the Wicked Witch*: the Golden Cap · `NAME`
+4. “The Witch was too much afraid of the dark to dare go in Dorothy’s room at night to take the shoes”  
+   *Chapter XII: The Search for the Wicked Witch*: afraid of the dark · `NAME`
+5. “In a minute I shall melt away.”  
+   *Chapter XII: The Search for the Wicked Witch*: melts · `NAME`
+6. “melting away like brown sugar before her very eyes”  
+   *Chapter XII: The Search for the Wicked Witch*: melts like brown sugar · `NAME`
+7. “Didn’t you know water would be the end of me?”  
+   *Chapter XII: The Search for the Wicked Witch*: water kills her · `NAME`
+- Absent from the whole book (pattern `I'll get you, my pretty`): confirmed.
+
+### Glinda
+
+*Also: the Good Witch of the South*
+
+> "The Witch of the South," "the most powerful of all the Witches," who "rules over the Quadlings." She is "both beautiful and young," with hair "a rich red in color" and blue eyes, and she tells Dorothy that the silver shoes can carry her anywhere: "All you have to do is to knock the heels together three times." In the book she is the Witch of the South; the kindly Witch who meets Dorothy first is the Witch of the North, who kisses her forehead.
+
+1. ““Who is Glinda?” inquired the Scarecrow. “The Witch of the South. She is the most powerful of all the Witches, and rules over the Quadlings.”  
+   *Chapter XVIII: Away to the South*: who she is · `NAME`
+2. “where the Witch Glinda sat upon a throne of rubies. She was both beautiful and young to their eyes. Her hair was a rich red in color and fell in flowing ringlets over her shoulders. Her dress was pure white but her eyes were blue”  
+   *Chapter XXIII: Glinda the Good Witch Grants Dorothy’s Wish*: appearance · `NAME`
+3. “All you have to do is to knock the heels together three times and command the shoes to carry you wherever you wish to go.”  
+   *Chapter XXIII: Glinda the Good Witch Grants Dorothy’s Wish*: the shoes' power · `NAME`
+4. “no one will dare injure a person who has been kissed by the Witch of the North.” She came close to Dorothy and kissed her gently on the forehead. Where her lips touched the girl they left a round, shining mark”  
+   *Chapter II: The Council with the Munchkins*: the Witch of the North (for contrast) · `NAME`
