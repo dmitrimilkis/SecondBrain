@@ -2,584 +2,584 @@
 
 *Date: 2026-09-30*
 
-One list of all 23 books, ordered by year of creation. Every prompt ends with the same style line, taken from your example: flat illustration, die-cut sticker with a white border, soft grain. The clothes follow the period each story is set in, and the other details come from the checked descriptions. A few extra details were checked in the text first, such as the Scarecrow's pointed blue hat and Pinocchio's suit of flowered paper. So some differ from famous films: Dorothy's shoes are silver, not ruby.
+All 23 books in one list, ordered by year of creation. Each prompt gives the period of the character's clothes, the features that make them recognizable, and one prop or pose, all from the checked descriptions (a few extra details were first confirmed in the books). Book details win over film images: Dorothy's shoes are silver.
 
 ## 1. The Odyssey (Homer, c. 8th century BC)
 
 **Odysseus**  
-Odysseus (Ulysses), king of Ithaca, in Homeric ancient Greek beggar's rags: disguised as a wrinkled old man whose auburn hair has fallen away, a boar-tusk scar on his leg, bending a great bow with ease; shrewd, much-enduring face. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Odysseus disguised as a wrinkled, balding beggar in Homeric Greek rags, a boar-tusk scar on his leg, bending a great bow, shrewd eyes.
 
 **Penelope**  
-Penelope, faithful and clever queen of Ithaca, in a long Homeric ancient Greek peplos, at her loom with a half-woven shroud, a torch beside her for unravelling it at night; wise, patient expression. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Penelope, queen of Ithaca, in a long Homeric Greek peplos, weaving a shroud at her loom beside a torch, patient.
 
 **Telemachus**  
-Telemachus, Odysseus's young son, in a Homeric ancient Greek short chiton and cloak, standing up boldly to the suitors, a ship waiting to take him in search of his father. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Telemachus, a young prince in a short Homeric Greek chiton and cloak, standing boldly, a ship waiting behind him.
 
 **Athena**  
-Pallas Athena, the blue-eyed goddess, in a flowing Homeric ancient Greek peplos, touching a wand to disguise a hero; calm, watchful, protective. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Pallas Athena, a blue-eyed goddess in a flowing Homeric Greek peplos, raising a wand, calm and watchful.
 
 **Polyphemus**  
-Polyphemus the Cyclops, a huge one-eyed giant shepherd in rough ancient Greek herdsman's clothes, a great bowl of wine in his hand, his flock around him; brutish and menacing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Polyphemus, a huge one-eyed giant shepherd in rough ancient Greek herdsman's clothes, gripping a bowl of wine, sheep at his feet.
 
 **Circe**  
-Circe, the fair-haired goddess of Aeaea and daughter of the Sun, in an elegant Homeric ancient Greek peplos, holding a cup of drugged wine, pigs that were once men at her feet. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Circe, a fair-haired goddess in an elegant Homeric Greek peplos, offering a cup of drugged wine, pigs around her.
 
 **Calypso**  
-Calypso of the radiant hair, a goddess on her island, in a Homeric ancient Greek peplos, shining flowing hair, a tender, longing gaze. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Calypso, a goddess with radiant flowing hair, in a Homeric Greek peplos on a lush island, longing gaze.
 
 **Argus**  
-Argus, Odysseus's old hunting dog, thin and neglected on a dung heap by the stable doors, lifting his head with ears pricked at his long-lost master; no clothing, Homeric Greek setting. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Argus, an old, thin hunting dog lying on a dung heap by Homeric Greek stable doors, head lifted, ears pricked.
 
 **Eurycleia**  
-Eurycleia, the faithful old nurse, in a plain Homeric ancient Greek servant's peplos, kneeling with a basin to wash a beggar's feet, startled as she recognizes a scar. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Eurycleia, an old nurse in a plain Homeric Greek peplos, kneeling with a basin to wash a beggar's feet, startled.
 
 **Antinous**  
-Antinous, arrogant leader of Penelope's suitors, in a rich Homeric ancient Greek chiton and cloak, raising a wine cup at a feast, insolent sneer. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Antinous, an arrogant young nobleman in a rich Homeric Greek chiton and cloak, raising a wine cup, sneering.
 
 ## 2. Aesop's Fables (Aesop, c. 6th century BC)
 
 **The Hare and the Tortoise**  
-A proud hare fast asleep under a tree while a slow tortoise plods steadily past toward the finish; no clothing, simple ancient Greek fable landscape. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: A proud hare asleep under a tree as a tortoise plods past toward the finish, ancient Greek countryside.
 
 **The Fox**  
-Aesop's clever fox looking up with a flattering grin at a crow holding cheese in her beak, bunches of grapes hanging just out of reach on a high trellis behind; no clothing, ancient Greek fable. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: A clever fox grinning up at a crow with cheese in her beak, grapes out of reach on a trellis, ancient Greek countryside.
 
 **The Shepherd's Boy**  
-The shepherd's boy of the fable in a simple ancient Greek shepherd's tunic, hands cupped to shout a false alarm, mischievous grin, sheep around him and a village in the distance. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: A shepherd boy in a simple ancient Greek tunic, hands cupped to shout, mischievous grin, sheep around him.
 
 **The Grasshopper and the Ants**  
-A thin, starving grasshopper in winter snow begging busy ants who are drying their store of corn; no clothing, ancient Greek fable. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: A thin grasshopper in winter snow begging ants drying their store of corn, ancient Greek countryside.
 
 **The Lion and the Mouse**  
-A mighty lion caught in a hunters' rope net while a tiny mouse gnaws through the ropes to free him; no clothing, ancient Greek fable. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: A lion trapped in a hunters' rope net while a tiny mouse gnaws the ropes, ancient Greek countryside.
 
 **The Town Mouse and the Country Mouse**  
-A sleek town mouse and a plain country mouse in a larder full of flour, oatmeal, figs, honey and dates, ears pricked in alarm; no clothing, ancient Greek fable. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: A sleek town mouse and a plain country mouse in a larder of flour, figs, honey and dates, ears pricked in alarm.
 
 **The Goose That Laid the Golden Eggs**  
-A plain white goose beside a shining golden egg, a greedy peasant man and wife in simple ancient Greek tunics peering at it. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: A white goose beside a golden egg, a peasant man and wife in simple ancient Greek tunics staring greedily.
 
 ## 3. Hamlet (William Shakespeare, c. 1600)
 
 **Prince Hamlet**  
-Prince Hamlet of Denmark, a thirty-year-old Wittenberg scholar in Elizabethan-era (c. 1600) mourning black: inky cloak, doublet and hose, rapier at his side; brooding, feigning madness. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Prince Hamlet, about thirty, in Elizabethan (c. 1600) mourning black, inky cloak, doublet and hose, rapier at his side, brooding.
 
 **King Claudius**  
-King Claudius of Denmark in Elizabethan-era (c. 1600) royal robes and crown, smiling smoothly while hiding his guilt, a poisoned cup in his hand. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: King Claudius in Elizabethan (c. 1600) royal robes and crown, smooth smile, holding a poisoned cup.
 
 **Queen Gertrude**  
-Queen Gertrude of Denmark in an Elizabethan-era (c. 1600) royal gown and crown, raising a cup of wine without knowing it is poisoned. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Queen Gertrude in an Elizabethan (c. 1600) gown and crown, raising a cup of wine.
 
 **Ophelia**  
-Ophelia, Polonius's young daughter, in a flowing Elizabethan-era (c. 1600) gown, distracted and singing, holding out rosemary and wild flowers, a willow behind her. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Ophelia, a young woman in a flowing Elizabethan (c. 1600) gown, distracted, singing, holding out rosemary and wild flowers, a willow behind her.
 
 **Polonius**  
-Polonius, the long-winded, meddling old counsellor, in a long Elizabethan-era (c. 1600) gown, peering out from behind a tapestry, one finger raised mid-speech. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Polonius, an old counsellor in a long Elizabethan (c. 1600) gown, peering from behind a tapestry, one finger raised.
 
 **Laertes**  
-Laertes, Polonius's hot-tempered son back from France, in an Elizabethan-era (c. 1600) doublet and short cape, brandishing a fencing sword, furious and vengeful. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Laertes, a hot-tempered young nobleman in an Elizabethan (c. 1600) doublet and short cape, brandishing a fencing sword.
 
 **Horatio**  
-Horatio, Hamlet's calm, loyal scholar friend, in a sober black Elizabethan-era (c. 1600) doublet and scholar's gown, steady and composed. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Horatio, a calm young scholar in a sober Elizabethan (c. 1600) black doublet and gown, steady gaze.
 
 **The Ghost**  
-The Ghost of Hamlet's father, the dead King of Denmark, in full late-medieval armour from head to foot, a sable-silvered beard and a face more in sorrow than in anger; pale and translucent. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Ghost of Hamlet's father, a dead king in full late-medieval armour, sable-silvered beard, sorrowful face, pale and translucent.
 
 **Yorick**  
-Yorick's skull, the late king's jester, dug up in a late-16th-century churchyard: a bare, grinning human skull on fresh earth beside a gravedigger's spade. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Yorick's skull, bare and grinning, on fresh earth beside a gravedigger's spade in a late-16th-century churchyard.
 
 **Rosencrantz and Guildenstern**  
-Rosencrantz and Guildenstern, two near-identical courtiers in matching Elizabethan-era (c. 1600) doublets, ruffs and hose, bowing, carrying a sealed royal letter. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Rosencrantz and Guildenstern, two near-identical courtiers in matching Elizabethan (c. 1600) doublets, ruffs and hose, bowing, holding a sealed letter.
 
 ## 4. Don Quixote (Miguel de Cervantes, 1605–1615)
 
 **Don Quixote of La Mancha**  
-Don Quixote, a spare, gaunt country gentleman of nearly fifty from early-1600s La Mancha, in his great-grandfather's rusty old armour with a pasteboard visor, lance raised, charging windmills on his bony horse. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Don Quixote, a gaunt gentleman of nearly fifty in rusty early-1600s Spanish armour with a pasteboard visor, lance raised, riding a bony horse toward windmills.
 
 **Sancho Panza**  
-Sancho Panza, an early-1600s Spanish farm labourer with a big belly, short body and long shanks, in simple peasant clothes, riding his donkey Dapple; good-natured and simple. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Sancho Panza, a farm labourer with a big belly, short body and long shanks, in early-1600s Spanish peasant clothes, riding a donkey.
 
 **Dulcinea del Toboso**  
-Aldonza Lorenzo, the real Dulcinea: a good-looking, strong farm girl of El Toboso in early-1600s Spanish peasant dress, hoisting a heavy iron crowbar with ease. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Dulcinea (Aldonza Lorenzo), a good-looking, strong farm girl in early-1600s Spanish peasant dress, hoisting an iron crowbar.
 
 **Rocinante**  
-Rocinante, Don Quixote's bony old nag, all skin and bone, in a worn early-1600s saddle and bridle; proud but pitiful. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Rocinante, a bony old nag in a worn early-1600s Spanish saddle and bridle.
 
 **Samson Carrasco**  
-Samson Carrasco, a mischievous young bachelor of about twenty-four with a round face, flat nose and large mouth, in early-1600s full armour as the Knight of the White Moon, a shining moon painted on his shield. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Samson Carrasco, a young man with a round face, flat nose and large mouth, mischievous grin, in early-1600s armour, a shining moon painted on his shield.
 
 ## 5. Grimms' Fairy Tales (Jacob and Wilhelm Grimm, 1812)
 
 **Hansel and Grethel**  
-Hansel and Grethel, a poor woodcutter's two children in old German folk-tale peasant clothes, lost in the forest before a house built of bread and cakes with windows of clear sugar; Hansel holding shining white pebbles. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Hansel and Grethel, a poor brother and sister in old German peasant clothes before a forest house built of bread and cakes with sugar windows, the boy holding white pebbles.
 
 **Little Redcap**  
-Little Redcap, a little girl in old German folk-tale peasant dress and a little cap of red velvet, carrying a piece of cake and a bottle of wine through the woods, a wolf peering from the trees. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Little Redcap, a little girl in German folk-tale peasant dress and a red velvet cap, carrying cake and a bottle of wine, a wolf peering from the trees.
 
 **Snow-White**  
-Snow-White, a princess in old German folk-tale court dress, skin as white as snow, cheeks as red as blood, hair as black as ebony, holding a half-bitten apple. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Snow-White, a princess in an old German fairy-tale court gown, snow-white skin, blood-red cheeks, ebony-black hair, holding a half-bitten apple.
 
 **Cinderella**  
-Cinderella in a dress of silver and gold and slippers all golden, gifts from the hazel tree on her mother's grave, a little white bird above her; old German folk-tale setting. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Cinderella in a German fairy-tale ball gown of silver and gold with golden slippers, a little white bird above her.
 
 **Rapunzel**  
-Rapunzel at the window of a tower with no stairs and no door, letting down her magnificent braided hair, fine as spun gold, all the way to the ground; old German folk-tale dress. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Rapunzel in a simple folk-tale gown at the window of a doorless tower, letting her long braided golden hair fall to the ground.
 
 **Rumpelstiltskin**  
-Rumpelstiltskin, an angry little man in old German folk-tale clothes, spinning straw into gold at a spinning wheel in a room full of straw. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Rumpelstiltskin, an angry little man in shabby old German clothes, turning straw into gold at a spinning wheel.
 
 **The Frog-King**  
-A frog sitting by a well, holding a princess's golden ball; no clothing, old German folk-tale setting. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: A frog beside an old German stone well, holding a golden ball.
 
 ## 6. Pride and Prejudice (Jane Austen, 1813)
 
 **Elizabeth Bennet**  
-Elizabeth Bennet, not yet twenty-one, in a Regency (1810s) high-waisted muslin gown and bonnet, with beautiful dark eyes and a lively, playful, teasing expression. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Elizabeth Bennet, about twenty, in a Regency (1810s) high-waisted muslin gown and bonnet, dark eyes, playful, teasing smile.
 
 **Mr. Fitzwilliam Darcy**  
-Mr. Darcy, a tall, handsome, rich gentleman in a Regency (1810s) tailcoat, cravat, breeches and top hat; noble bearing, cool and proud reserve. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mr. Darcy, a tall, handsome gentleman wearing a Regency (1810s) tailcoat, cravat, breeches and top hat, noble bearing, cool reserve.
 
 **Jane Bennet**  
-Jane Bennet, about twenty-three and the family beauty, in a Regency (1810s) high-waisted gown, with a gentle, sweet, trusting smile. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Jane Bennet, a beautiful young woman of twenty-three in an 1810s Regency high-waisted gown, gentle, trusting smile.
 
 **Mr. Charles Bingley**  
-Mr. Bingley, a good-looking, gentlemanlike young man in a Regency (1810s) tailcoat and cravat, with easy, unaffected, cheerful manners. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mr. Bingley, a good-looking young gentleman in a Regency (1810s) tailcoat and cravat, easy, cheerful smile.
 
 **Mr. Bennet**  
-Mr. Bennet, a dry, ironic country gentleman in Regency (1810s) dress, a sardonic half-smile, book in hand in his library. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mr. Bennet, a middle-aged gentleman in Regency (1810s) country dress, sardonic half-smile, book in hand.
 
 **Mrs. Bennet**  
-Mrs. Bennet, a silly, excitable mother in a Regency (1810s) gown and matron's cap, fanning herself over her poor nerves. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mrs. Bennet, a flustered mother wearing an 1810s Regency gown and matron's cap, fanning herself.
 
 **Lydia Bennet**  
-Lydia Bennet, a stout, well-grown girl of fifteen with a fine complexion, in a Regency (1810s) gown and bonnet, high-spirited, flirting with red-coated officers. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Lydia Bennet, a stout, well-grown girl of fifteen with a fine complexion, in a Regency (1810s) gown and bonnet, flirting with red-coated officers.
 
 **Mr. George Wickham**  
-Mr. Wickham, a handsome, smooth-talking militia officer in a Regency (1810s) red coat, fine countenance and good figure, charming, untrustworthy smile. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mr. Wickham, a handsome militia officer in an 1810s Regency red coat, good figure, charming smile.
 
 **Mr. William Collins**  
-Mr. Collins, a tall, heavy-looking clergyman of twenty-five in Regency (1810s) black clerical dress, bowing low, grave, formal and pompous. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mr. Collins, a tall, heavy-looking clergyman of twenty-five in Regency (1810s) black clerical dress, bowing low, pompous.
 
 **Lady Catherine de Bourgh**  
-Lady Catherine de Bourgh, a tall, large woman with strongly marked features, in rich Regency (1810s) dress, imperious and overbearing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Lady Catherine de Bourgh, a tall, large, imperious woman with strongly marked features, in rich Regency (1810s) dress.
 
 ## 7. Frankenstein (Mary Shelley, 1818)
 
 **Victor Frankenstein**  
-Victor Frankenstein, a young Genevese student in 1790s dress (tailcoat and cravat), in his Ingolstadt laboratory, eyes wild with horror. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Victor Frankenstein, a young student in a 1790s tailcoat and cravat, in his laboratory, eyes wild with horror.
 
 **The Creature**  
-Frankenstein's Creature, about eight feet tall: yellow skin barely covering muscles, flowing lustrous black hair, pearly white teeth, watery eyes, shrivelled complexion, straight black lips; rough, ill-fitting 1790s clothes; lonely and sorrowful. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Frankenstein's Creature, eight feet tall, yellow skin over visible muscles, flowing lustrous hair and straight lips, both black, pearly teeth, watery eyes, shrivelled face, rough ill-fitting 1790s clothes, sorrowful.
 
 **Elizabeth Lavenza**  
-Elizabeth Lavenza, thin and very fair, with hair of the brightest living gold and cloudless blue eyes, in a white high-waisted 1790s gown; gentle. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Elizabeth Lavenza, a thin, fair young woman with bright golden hair and cloudless blue eyes, in a white high-waisted 1790s gown.
 
 **Henry Clerval**  
-Henry Clerval, a Geneva merchant's son, a bright, imaginative young man in 1790s dress (tailcoat and cravat), holding a book of chivalry and romance. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Henry Clerval, a bright young man in a 1790s tailcoat and cravat, holding a book of chivalry.
 
 **Robert Walton**  
-Robert Walton, a lonely, ambitious polar explorer in a heavy 1790s sea captain's coat, on the deck of a ship locked in Arctic ice. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Robert Walton, a lonely explorer in a heavy 1790s sea captain's coat, on the deck of a ship locked in Arctic ice.
 
 ## 8. A Christmas Carol (Charles Dickens, 1843)
 
 **Ebenezer Scrooge**  
-Ebenezer Scrooge, a miserly old London businessman in a dark early-Victorian (1840s) frock coat: pointed nose, red eyes, thin blue lips, frost on his head and eyebrows, scowling over a ledger. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Ebenezer Scrooge, a miserly old man in a dark early-Victorian (1840s) frock coat, pointed nose, red eyes, thin blue lips, frost on his head and eyebrows, scowling over a ledger.
 
 **Jacob Marley's Ghost**  
-Jacob Marley's Ghost, transparent, in old-fashioned late-18th-century dress with pigtail, waistcoat, tights and tasselled boots, dragging a long chain of cash boxes, keys, padlocks, ledgers and steel purses. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Jacob Marley's Ghost, transparent, in a late-18th-century pigtail, waistcoat, tights and tasselled boots, dragging a chain of cash boxes, keys, padlocks, ledgers and steel purses.
 
 **Bob Cratchit**  
-Bob Cratchit, a poor, kind clerk in threadbare early-Victorian (1840s) clothes and a long white comforter, warming his hands at a candle. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Bob Cratchit, a poor clerk in threadbare early-Victorian (1840s) clothes and a long white comforter, warming his hands at a candle.
 
 **Tiny Tim**  
-Tiny Tim, a small, cheerful boy in patched early-Victorian (1840s) clothes, leaning on a little crutch, his limbs supported by an iron frame. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Tiny Tim, a small, smiling boy in patched early-Victorian (1840s) clothes, leaning on a little crutch, an iron frame supporting his limbs.
 
 **The Ghost of Christmas Past**  
-The Ghost of Christmas Past, like a child yet like an old man: long white hair, unwrinkled face, a bright jet of light from its head, a pure white tunic with a lustrous belt, a branch of green holly in hand; timeless spirit's dress. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Ghost of Christmas Past, childlike yet old, unwrinkled face, long hair and a timeless tunic both white, a shining belt, a jet of light from its head, holding green holly.
 
 **The Ghost of Christmas Present**  
-The Ghost of Christmas Present, a jolly giant in a simple deep-green robe bordered with white fur, a holly wreath on long dark-brown curls, holding a glowing torch shaped like Plenty's horn; timeless spirit's dress. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Ghost of Christmas Present, a jolly giant in a timeless deep-green robe trimmed with white fur, holly wreath on long dark-brown curls, holding a torch shaped like a horn of plenty.
 
 **The Ghost of Christmas Yet to Come**  
-The Ghost of Christmas Yet to Come, a silent phantom shrouded in a deep black garment, only one outstretched, pointing hand showing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Ghost of Christmas Yet to Come, a phantom in a timeless black shroud, only one pointing hand showing.
 
 **Fred**  
-Fred, Scrooge's cheerful nephew, with a ruddy, handsome face and sparkling eyes, in an early-Victorian (1840s) frock coat and top hat, smiling warmly. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Fred, a young man with a ruddy, handsome face and sparkling eyes, in an early-Victorian (1840s) frock coat and top hat, warm smile.
 
 **Mr. Fezziwig**  
-Mr. Fezziwig, a jolly old merchant in a Welsh wig and late-Georgian (c. 1800) dress, dancing merrily at his Christmas Eve ball. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mr. Fezziwig, a jolly old merchant in a Welsh wig and late-Georgian (c. 1800) dress, dancing.
 
 ## 9. Moby-Dick (Herman Melville, 1851)
 
 **Ishmael**  
-Ishmael, a former schoolmaster turned common sailor in 1840s sailor's clothes, clinging to a floating coffin used as a life-buoy on the open sea. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Ishmael, a young sailor in 1840s seaman's clothes, clinging to a floating coffin on the open sea.
 
 **Captain Ahab**  
-Captain Ahab, a grim old whaling captain in 1840s sea clothes, standing on an ivory leg made from a sperm whale's jaw, bronze-like body, a livid white scar running from his grey hair down his tawny, scorched face and neck. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Captain Ahab, a grim old whaling captain in 1840s sea clothes, standing on an ivory leg, a livid white scar running from his grey hair down his tawny face and neck.
 
 **Moby Dick**  
-Moby Dick, an enormous white sperm whale with a snow-white wrinkled forehead, a high pyramid-shaped white hump, a crooked jaw and three holes in its right tail fluke; 1840s whaling seas. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Moby Dick, an enormous white sperm whale with a wrinkled brow, a high pyramid-shaped hump, a crooked jaw and three holes in its right tail fluke.
 
 **Queequeg**  
-Queequeg, a tattooed harpooneer from a South Sea island, his face dark purplish-yellow and covered with large blackish squares, in 1840s whaleman's clothes, holding a harpoon and a tomahawk-pipe. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Queequeg, a South Sea islander in 1840s whaleman's clothes, face dark purplish-yellow with large blackish tattooed squares, holding a harpoon and a tomahawk-pipe.
 
 **Starbuck**  
-Starbuck, the chief mate, a long, earnest Nantucket Quaker in plain 1840s whaleman's clothes, grave and careful. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Starbuck, a tall, earnest Quaker first mate in plain 1840s whaleman's clothes, grave expression.
 
 **Stubb**  
-Stubb, the happy-go-lucky second mate from Cape Cod, in 1840s whaleman's clothes, a short black pipe in his mouth, grinning calmly. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Stubb, a happy-go-lucky second mate in 1840s sailor's clothes, grinning, a short black pipe in his mouth.
 
 **Flask**  
-Flask, the third mate from Martha's Vineyard, a short, stout, ruddy young man in 1840s whaleman's clothes, glaring pugnaciously. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Flask, a short, stout, ruddy young third mate in 1840s whaling gear, pugnacious glare.
 
 ## 10. Les Misérables (Victor Hugo, 1862)
 
 **Jean Valjean**  
-Jean Valjean, a thickset, robust ex-convict of enormous strength, in a worn 1815 French traveller's coat, holding the Bishop's two massive silver candlesticks. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Jean Valjean, a thickset, powerful man in a worn 1815 French traveller's coat, holding two massive silver candlesticks.
 
 **Inspector Javert**  
-Inspector Javert, a relentless police inspector in an 1820s French long coat and hat, a flat nose with two deep nostrils and enormous whiskers climbing his cheeks; stern and rigid. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Inspector Javert in an 1820s French police coat and hat, flat nose with deep nostrils, enormous whiskers climbing his cheeks, stern.
 
 **Fantine**  
-Fantine, a lovely young blonde with golden hair and fine white teeth, in a simple 1820s French working woman's dress; sweet and sad. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Fantine, a young woman with golden hair and fine white teeth, in a simple 1820s French working woman's dress, sad smile.
 
 **Cosette**  
-Cosette, a thin, pale girl of eight who looks six, in ragged 1820s clothes, sweeping the street before daylight with a big broom. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Cosette, a thin, pale little girl in ragged 1820s clothes, sweeping the street before dawn with a big broom.
 
 **Marius Pontmercy**  
-Marius Pontmercy, a handsome, poor student with thick, intensely black hair and a lofty brow, in a threadbare 1830s coat. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Marius Pontmercy, a handsome young student with thick black hair and a lofty brow, in a threadbare 1830s coat.
 
 **Bishop Myriel**  
-Bishop Myriel, a saintly old man of about seventy-five in a plain 1815 bishop's cassock, holding out two massive silver candlesticks. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Bishop Myriel, a kindly man of seventy-five in a plain 1815 bishop's cassock, holding out two massive silver candlesticks.
 
 **The Thénardiers**  
-The Thénardiers, greedy innkeepers in shabby 1820s French clothes: a small, thin, pale, bony man with a polecat's glance beside his tall, enormous, red-faced wife with a beard. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Thénardiers, innkeepers in shabby 1820s French clothes: a small, thin, pale, bony man with a sly glance beside his huge, red-faced, bearded wife.
 
 **Éponine**  
-Éponine, a thin young woman disguised in men's clothes at an 1832 Paris barricade, secretly in love. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Éponine, a thin young woman disguised in men's clothes at an 1832 Paris barricade.
 
 **Gavroche**  
-Gavroche, a cheeky Paris street boy of eleven or twelve in 1830s street clothes, singing at the barricade with a basket of cartridges. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Gavroche, a cheeky Paris urchin of about twelve in 1830s street clothes, singing at a barricade with a basket of cartridges.
 
 **Enjolras**  
-Enjolras, an angelically handsome young student leader in 1832 revolutionary dress, commanding the barricade, stern and idealistic. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Enjolras, an angelically handsome young student leader in 1832 revolutionary dress, commanding a barricade, stern.
 
 ## 11. Alice's Adventures in Wonderland (Lewis Carroll, 1865)
 
 **Alice**  
-Alice, a curious, well-mannered little girl in an 1860s Victorian child's dress, straight hair without ringlets, holding a little bottle labelled DRINK ME. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Alice, a curious little girl in an 1860s Victorian child's dress, straight hair without ringlets, holding a small bottle labelled DRINK ME.
 
 **The White Rabbit**  
-The White Rabbit, with pink eyes, in an 1860s Victorian waistcoat, anxiously checking his pocket watch, carrying white kid gloves and a fan. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The White Rabbit with pink eyes, in an 1860s Victorian waistcoat, checking a pocket watch, holding white kid gloves and a fan, flustered.
 
 **The Cheshire Cat**  
-The Cheshire Cat, a large cat grinning from ear to ear, fading away until only the grin remains; no clothing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Cheshire Cat, a large cat fading away until only its enormous grin remains.
 
 **The Hatter**  
-The Hatter, a rude, riddling hat-seller in 1860s Victorian dress and a hat, holding a teacup in one hand and bread-and-butter in the other. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Hatter, a rude hat-seller in 1860s Victorian dress and a hat, holding a teacup and a slice of bread-and-butter.
 
 **The March Hare**  
-The March Hare at an endless tea table, offering wine when there is only tea; no clothing, 1860s Victorian tea things. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The March Hare, without clothes, at a tea table laid with 1860s Victorian china, offering a glass of wine.
 
 **The Dormouse**  
-The Dormouse, fast asleep between two tea-party guests who use it as a cushion, about to be put into a teapot; no clothing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Dormouse, fast asleep, half inside a Victorian teapot.
 
 **The Queen of Hearts**  
-The furious Queen of Hearts from a pack of playing cards, in the Tudor-style costume of the court cards with a crown and hearts, holding a live flamingo as a croquet mallet, shouting. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Queen of Hearts, a furious playing-card queen in Tudor-style court dress with a crown and hearts, holding a live flamingo as a croquet mallet, shouting.
 
 **The Caterpillar**  
-A large blue caterpillar sitting on a mushroom with its arms folded, smoking a long hookah, languid and sleepy; no clothing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Caterpillar, large and blue, sitting on a mushroom with arms folded, smoking a long hookah, sleepy.
 
 **The Duchess**  
-The Duchess, a very ugly noblewoman in fanciful Victorian-fantasy (1860s) dress, nursing a howling baby that is turning into a pig, a pepper-filled kitchen behind her. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Duchess, an ugly noblewoman in 1860s Victorian-fantasy dress, nursing a howling baby that is turning into a pig, pepper in the air.
 
 **The Mock Turtle**  
-The Mock Turtle, a tearful turtle-like creature sitting sad and lonely on a little ledge of rock by the sea, sighing as if his heart would break; no clothing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Mock Turtle, a weeping turtle-like creature sitting alone on a ledge of rock by the sea.
 
 ## 12. Crime and Punishment (Fyodor Dostoevsky, 1866)
 
 **Rodion Romanovitch Raskolnikov**  
-Rodion Raskolnikov, an exceptionally handsome, tall, slim ex-student with beautiful dark eyes and dark brown hair, in ragged 1860s St Petersburg clothes, feverish and haunted. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Rodion Raskolnikov, a tall, slim, handsome young man with dark eyes and deep brown hair, in ragged 1860s St Petersburg clothes, feverish look.
 
 **Sonia Marmeladov**  
-Sonia Marmeladov, a small, thin girl of eighteen with fair hair and wonderful blue eyes, in a poor 1860s St Petersburg dress, timid and devout, holding a New Testament. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Sonia Marmeladov, a small, thin girl of eighteen with fair hair and blue eyes, timid, wearing a poor 1860s St Petersburg dress, holding a New Testament.
 
 **Porfiry Petrovitch**  
-Porfiry Petrovitch, an investigating lawyer of about thirty-five, short and stout, clean-shaven, with a large round head and a soft, snub-nosed face, in 1860s St Petersburg clothes, sly, knowing smile. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Porfiry Petrovitch, a short, stout, clean-shaven man of thirty-five with a large round head and a soft, snub-nosed face, in 1860s St Petersburg clothes, knowing smile.
 
 **Dounia Raskolnikov**  
-Dounia Raskolnikov, a tall, strikingly well-proportioned, strong young woman with dark brown hair and almost black eyes, in a modest 1860s dress, proud, holding a revolver. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Dounia Raskolnikov, a tall, well-proportioned, strong young woman with dark brown hair and almost black eyes, in a modest 1860s dress, holding a revolver.
 
 **Razumihin**  
-Razumihin, a tall, thin, black-haired, badly shaved student of great physical strength, in shabby 1860s St Petersburg clothes, good-natured grin. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Razumihin, a tall, thin, black-haired, badly shaved student in shabby 1860s St Petersburg clothes, good-natured grin.
 
 **Arkady Svidrigailov**  
-Svidrigailov, a landowner with a mask-like white-and-red face, bright red lips, a flaxen beard and eyes somehow too blue, in fine 1860s gentleman's clothes. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Svidrigailov, a man with a mask-like white-and-red face, bright red lips, a flaxen beard and unnaturally blue eyes, in fine 1860s gentleman's clothes.
 
 **Semyon Zaharovitch Marmeladov**  
-Semyon Marmeladov, a drunken retired clerk over fifty, bald and grizzled, with a bloated, yellowish-green face, in a shabby 1860s clerk's coat, bottle in hand. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Semyon Marmeladov, a bald, grizzled man over fifty with a bloated, yellowish-green face, in a shabby 1860s clerk's coat, holding a bottle.
 
 **Katerina Ivanovna**  
-Katerina Ivanovna, a tall, slim, graceful but terribly emaciated consumptive woman with magnificent dark brown hair and a hectic flush in her cheeks, in a worn 1860s dress. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Katerina Ivanovna, a tall, slim, emaciated woman with magnificent dark brown hair and flushed cheeks, in a worn 1860s dress.
 
 **Alyona Ivanovna**  
-Alyona Ivanovna, a tiny, withered old pawnbroker of sixty with sharp malignant eyes, a sharp little nose and grizzled hair thickly smeared with oil, in a shabby 1860s dress. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Alyona Ivanovna, a tiny, withered pawnbroker of sixty with malignant, piercing eyes, a sharp little nose and grizzled, oiled hair, in a shabby 1860s dress.
 
 ## 13. War and Peace (Leo Tolstoy, 1869)
 
 **Pierre Bezukhov**  
-Pierre Bezukhov, a stout, heavily built young man with close-cropped hair and spectacles and a childlike, kindly smile, in an 1805 Empire-era tailcoat and cravat. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Pierre Bezukhov, a stout, heavily built young man with close-cropped hair and spectacles, childlike, kindly smile, in an 1805 Empire-era tailcoat and cravat.
 
 **Natasha Rostova**  
-Natasha Rostova at thirteen, black-eyed and wide-mouthed with black curls, not pretty but full of life, dancing in an 1805 Empire-waist dress. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Natasha Rostova, a lively thirteen-year-old with a wide mouth, black eyes and curls, dancing in an 1805 Empire-waist dress.
 
 **Prince Andrey Bolkonski**  
-Prince Andrey Bolkonski, very handsome, of medium height, with firm clear-cut features and a weary, bored look, in an 1805 Russian officer's uniform, gazing up at the lofty sky. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Prince Andrey Bolkonski, a handsome man of medium height with firm, clear-cut features and a weary look, in an 1805 Russian officer's uniform, gazing at the sky.
 
 **Nikolay Rostov**  
-Nikolay Rostov, a short, curly-haired young hussar in a Napoleonic-era (1805) hussar uniform, with an open, impetuous, enthusiastic face. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Nikolay Rostov, a short, curly-haired young officer in an 1805 hussar uniform, open, eager face.
 
 **Princess Marya Bolkonskaya**  
-Princess Marya Bolkonskaya, plain-faced but with large, deep, luminous eyes, in a modest Empire-era (1805) dress, gentle and devout. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Princess Marya Bolkonskaya, a plain-faced woman with large, deep, luminous eyes, in a modest 1805 Empire-era dress, gentle.
 
 **Elen Kuragina**  
-Elen (Hélène) Kuragina, a dazzling society beauty with white shoulders and a perfectly beautiful smile, in an Empire-era (1805) ball gown. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Elen (Hélène) Kuragina, a dazzling beauty with white shoulders and a perfect smile, in an 1805 Empire-era ball gown.
 
 **Sonya**  
-Sonya, a slender little brunette with long lashes and thick black braids coiled twice round her head, in a simple Empire-era (1805) dress. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Sonya, a slender little brunette with long lashes and thick black braids coiled twice round her head, in a simple 1805 Empire-era dress.
 
 **Fedor Dolokhov**  
-Dolokhov, a reckless gambler and duellist of medium height with curly hair and light-blue eyes, in a Napoleonic-era (1805) Russian officer's uniform, sitting on a high window ledge with a bottle of rum. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Dolokhov, a reckless officer with curly hair and light-blue eyes, in an 1805 Russian uniform, sitting on a high window ledge with a bottle of rum.
 
 **General Kutuzov**  
-General Kutuzov, the old, corpulent Russian commander-in-chief, blind in one eye with a bleached eyeball and a scar, in an 1812 Russian general's uniform, calm and patient. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: General Kutuzov, an old, corpulent commander blind in one eye, the eyeball bleached and scarred, in an 1812 Russian general's uniform, calm.
 
 **Napoleon**  
-Napoleon, the French emperor without glamour: short, with a rotund stomach, fat thighs, a plump white neck and a plump little hand, in an 1812 French imperial uniform. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Napoleon, a short emperor with a rotund stomach, fat thighs, a plump white neck and hands, in an 1812 French imperial uniform.
 
 ## 14. Heidi (Johanna Spyri, 1880–1881)
 
 **Heidi**  
-Heidi, a small girl of about five with black eyes and curly hair, in simple 1870s Swiss mountain clothes, running on an Alpine pasture among goats. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Heidi, a small girl of about five with black eyes and curly hair, in simple 1870s Swiss mountain clothes, running on an Alpine pasture among goats.
 
 **The Alm-Uncle**  
-The Alm-Uncle, Heidi's gruff grandfather, with thick grey eyebrows and a huge grey beard, in 1870s Swiss Alpine peasant clothes, carrying a girl on one strong arm. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Alm-Uncle, a gruff old man with thick grey eyebrows and a huge beard, in 1870s Swiss Alpine peasant clothes, carrying a girl on one arm.
 
 **Peter the goatherd**  
-Peter the goatherd, a village boy in rough 1870s Swiss peasant clothes, with a hazel rod, driving his goats up the mountain. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Peter, a goatherd boy in rough 1870s Swiss peasant clothes, holding a hazel rod, driving goats up a mountain.
 
 **Clara Sesemann**  
-Clara Sesemann, a sick girl with a pale, thin face and soft blue eyes, in a fine 1870s Frankfurt girl's dress, sitting in a comfortable rolling-chair (wheelchair). Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Clara Sesemann, a sick girl with a pale, thin face and soft blue eyes, sitting in a wheelchair, wearing a fine 1870s city girl's dress.
 
 **Miss Rottenmeier**  
-Miss Rottenmeier, the strict housekeeper, in a peculiar 1870s uniform with a long cape and a high cap, stiff and disapproving. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Miss Rottenmeier, a strict housekeeper in a peculiar 1870s uniform with a long cape and a high cap, stiff and disapproving.
 
 **Peter's grandmother**  
-Peter's old blind grandmother in simple 1870s Swiss village clothes, holding soft white rolls, a hymnbook beside her. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Peter's grandmother, a blind old woman in simple 1870s Swiss village clothes, holding soft white rolls, a hymnbook beside her.
 
 ## 15. The Adventures of Pinocchio (Carlo Collodi, 1883)
 
 **Pinocchio**  
-Pinocchio, a wooden puppet with a long nose, in the clothes Geppetto made him in 1880s Tuscany: a little suit of flowered paper, shoes of tree bark and a cap of bread crumb; mischievous grin. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Pinocchio, a wooden puppet with a long nose, wearing homemade 1880s Tuscan clothes: a suit of flowered paper, tree-bark shoes and a bread-crumb cap, mischievous grin.
 
 **Geppetto**  
-Geppetto, a lively, fiery little old man in a yellow wig like corn pudding, in poor 1880s Tuscan artisan's shirtsleeves, carving a wooden puppet. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Geppetto, a fiery little old man in a yellow wig and poor 1880s Tuscan shirtsleeves, carving a wooden puppet.
 
 **The Talking-Cricket**  
-The Talking-Cricket, a wise old cricket on a wall, looking sternly at a wooden puppet; no clothing, 1880s Tuscan cottage. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Talking-Cricket, an old cricket without clothes on the wall of an 1880s Tuscan cottage, frowning.
 
 **The Fairy with Blue Hair**  
-The Fairy with Blue Hair, a beautiful child with blue hair and a face as white as wax, looking out of a window, kind and motherly; simple fairy-tale dress. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Fairy with Blue Hair, a beautiful girl with blue hair and a face as white as wax, in a simple fairy-tale dress, looking out of a window.
 
 **The Fox and the Cat**  
-The Fox and the Cat, two swindlers on a country road, a fox faking a lame foot and a cat faking blindness, sly grins; no clothing, 1880s Tuscan countryside. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Fox and the Cat, two swindlers without clothes on an 1880s Tuscan country road, the fox faking a limp, the cat pretending to be blind, sly grins.
 
 **Fire-Eater**  
-Fire-Eater, the huge, ugly puppet-show owner in 1880s Italian showman's clothes, an ink-black beard so long he treads on it, eyes like red glass lanterns, cracking a whip of snakes and foxes' tails. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Fire-Eater, a huge, ugly puppet-master in 1880s Italian showman's clothes, an ink-black beard so long he treads on it, eyes like red lanterns, cracking a whip of snakes and foxes' tails.
 
 **Candlewick**  
-Candlewick, a thin, straight, bright schoolboy like the new wick of a nightlight, in 1880s Italian schoolboy clothes, donkey ears sprouting from his head, lazy grin. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Candlewick, a thin, straight schoolboy in 1880s Italian school clothes, donkey ears sprouting from his head, lazy grin.
 
 **The Dogfish**  
-The terrible Dogfish, a gigantic shark-like sea monster with its mouth gaping wide in a stormy sea; no clothing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Dogfish, a gigantic shark-like monster with its mouth wide open in a stormy sea.
 
 ## 16. Adventures of Huckleberry Finn (Mark Twain, 1884)
 
 **Huckleberry "Huck" Finn**  
-Huckleberry Finn, a barely schooled, resourceful runaway boy in rough 1840s clothes, on a log raft drifting down the Mississippi. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Huckleberry Finn, a runaway boy in rough 1840s clothes on a log raft on the Mississippi.
 
 **Jim**  
-Jim, a warm, protective, dignified Black man in plain 1840s work clothes, on the raft on the Mississippi, watching over Huck. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Jim, a kind, dignified Black man in plain 1840s work clothes on a raft on the Mississippi, protective.
 
 **Tom Sawyer**  
-Tom Sawyer, a show-off boy in 1840s clothes with his nose in an adventure book, a bullet hanging from his watch-guard. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Tom Sawyer, a show-off boy in 1840s clothes reading an adventure book, a bullet hanging from his watch-guard.
 
 **Pap Finn**  
-Pap Finn, a violent drunk of nearly fifty with long, tangled, greasy hair and a fish-belly-white face, in 1840s rags. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Pap Finn, a drunk of nearly fifty with long, tangled, greasy hair and a fish-belly-white face, in 1840s rags.
 
 **The King and the Duke**  
-The King and the Duke, two con men in shabby 1840s clothes, the King about seventy with a bald head and very grey whiskers, the Duke about thirty; posing as royalty. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The King and the Duke, two con men in shabby 1840s clothes posing as royalty: one bald and seventy with grey whiskers, the other thirty.
 
 **Widow Douglas and Miss Watson**  
-Widow Douglas and Miss Watson, two sisters in 1840s dresses: the kind widow, and Miss Watson, a slim old maid with goggles, holding a spelling-book. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Widow Douglas and Miss Watson, two sisters in 1840s dresses: a kind widow and a slim old maid in goggles holding a spelling-book.
 
 ## 17. The Happy Prince and Other Tales (Oscar Wilde, 1888)
 
 **The Happy Prince**  
-The Happy Prince, a statue of a young prince on a tall column above the city, gilded all over with thin leaves of gold, bright sapphire eyes, a large red ruby on his sword-hilt, tears on his cheeks; princely fairy-tale dress of no set period. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Happy Prince, a statue on a tall column, covered in gold leaf, sapphire eyes, a red ruby on his sword-hilt, tears on his cheeks, in fairy-tale royal dress.
 
 **The Swallow**  
-A little swallow flying over the roofs of a town with a great red ruby in its beak; no clothing, fairy-tale setting. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: A little swallow flying over rooftops with a red ruby in its beak.
 
 **The Selfish Giant**  
-The Selfish Giant gently lifting a little boy into a tree that bursts into blossom, a high garden wall behind him; simple fairy-tale clothes of no set period. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Selfish Giant in simple fairy-tale clothes, lifting a little boy into a tree that bursts into blossom, a high garden wall behind him.
 
 **The Nightingale**  
-A small brown nightingale singing in the moonlight with her breast pressed against a rose thorn, a red rose blooming above her; no clothing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: A small brown nightingale singing in moonlight, her breast pressed against a thorn, a red rose above her.
 
 ## 18. The Adventures of Sherlock Holmes (Arthur Conan Doyle, 1892)
 
 **Sherlock Holmes**  
-Sherlock Holmes, tall and gaunt with a hawk-like nose and long, thin fingers, in a late-Victorian (1880s–90s) long grey travelling-cloak and close-fitting cloth cap, smoking a black clay pipe. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Sherlock Holmes, tall and gaunt with a hawk-like nose and thin fingers, in a late-Victorian long grey travelling-cloak and close-fitting cloth cap, smoking a black clay pipe.
 
 **Dr. Watson**  
-Dr. Watson, Holmes's loyal friend, a doctor and army veteran in a sober late-Victorian (1880s–90s) suit, carrying a doctor's bag. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Dr. Watson, a former army doctor in a sober late-Victorian suit, holding a medical bag.
 
 **Irene Adler**  
-Irene Adler, a beautiful, resolute opera singer in an elegant late-Victorian (1880s) evening gown, with a confident, knowing smile. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Irene Adler, a beautiful opera singer in an elegant late-Victorian evening gown, confident, knowing smile.
 
 **Inspector Lestrade**  
-Inspector Lestrade of Scotland Yard, a lean, ferret-like man, furtive and sly-looking, in a late-Victorian light brown dustcoat and leather leggings. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Inspector Lestrade, a lean, ferret-like, sly-looking man in a late-Victorian light brown dustcoat and leather leggings.
 
 **Mrs. Hudson**  
-Mrs. Hudson, Holmes's landlady, in a modest late-Victorian (1880s–90s) dress, lighting the fire at Baker Street. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mrs. Hudson, a landlady in a modest late-Victorian dress, lighting a fire.
 
 ## 19. Dracula (Bram Stoker, 1897)
 
 **Count Dracula**  
-Count Dracula, a tall old man dressed in black from head to foot in 1890s style, clean-shaven except for a long white moustache, arched nose, bushy eyebrows almost meeting, sharp white teeth over very red lips, pointed ears, holding an antique silver lamp. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Count Dracula, a tall old man dressed all in black in 1890s fashion, clean-shaven except for a long white moustache, arched nose, bushy eyebrows that nearly meet, sharp teeth, red lips, pointed ears, holding an antique silver lamp.
 
 **Jonathan Harker**  
-Jonathan Harker, a young English solicitor in an 1890s travelling suit, his dark brown hair turned white, gripping a Kukri knife. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Jonathan Harker, a young solicitor in an 1890s travelling suit, his hair turned white, gripping a Kukri knife.
 
 **Mina Harker**  
-Mina Harker, a clever assistant schoolmistress in an 1890s blouse and skirt, at a typewriter, a red scar burned on her forehead. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mina Harker, a young schoolmistress in an 1890s blouse and skirt, at a typewriter, a red scar on her forehead.
 
 **Lucy Westenra**  
-Lucy Westenra, a lovely, lively young woman in a white 1890s nightdress, sleepwalking. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Lucy Westenra, a pretty young woman in a white 1890s nightdress, sleepwalking.
 
 **Professor Abraham Van Helsing**  
-Professor Van Helsing, a strongly built, clean-shaven Dutch doctor with reddish hair, big bushy brows and big dark-blue eyes set wide apart, in an 1890s frock coat, doctor's bag in hand. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Professor Van Helsing, a strongly built, clean-shaven man with reddish hair, big bushy brows and wide-set dark-blue eyes, in an 1890s frock coat, holding a medical bag.
 
 **R. M. Renfield**  
-Renfield, an asylum patient of fifty-nine with great physical strength and an excitable manner, in 1890s asylum clothes, catching flies to feed his spiders. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Renfield, a strong, excitable patient of fifty-nine in 1890s asylum clothes, catching flies.
 
 **Dr. John Seward**  
-Dr. John Seward, a clever young doctor of twenty-nine who runs a lunatic asylum, in an 1890s suit, speaking into a phonograph. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Dr. John Seward, a young man of twenty-nine in an 1890s suit, speaking into a phonograph.
 
 **Arthur Holmwood**  
-Arthur Holmwood, a young English nobleman in dark 1890s clothes, grief-stricken, holding a wooden stake and a hammer. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Arthur Holmwood, a grief-stricken young nobleman in dark 1890s clothes, holding a wooden stake and a hammer.
 
 **Quincey P. Morris**  
-Quincey P. Morris, a young, fresh-faced American adventurer from Texas in 1890s traveller's clothes, holding a bowie knife. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Quincey P. Morris, a young, fresh-faced Texan in 1890s traveller's clothes, holding a bowie knife.
 
 ## 20. The Wonderful Wizard of Oz (L. Frank Baum, 1900)
 
 **Dorothy**  
-Dorothy, a little Kansas farm girl of 1900 in a gingham dress checked white and blue, a pink sunbonnet and silver shoes with pointed toes, her little black dog Toto beside her. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Dorothy, a little Kansas farm girl in a 1900 gingham dress checked white and blue, a pink sunbonnet and silver shoes with pointed toes, a small black dog beside her.
 
 **Toto**  
-Toto, a little black dog with long silky hair and small black eyes that twinkle merrily; no clothing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Toto, a little black dog with long silky hair and small, twinkling eyes.
 
 **The Scarecrow**  
-The Scarecrow, his head a small sack stuffed with straw with a painted face, in 1900 Munchkin-country clothes: an old pointed blue hat, a worn, faded blue suit stuffed with straw and old blue-topped boots. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Scarecrow, a straw-stuffed figure with a painted sack face, in 1900 Munchkin-country clothes: a pointed hat, faded suit and old boots, all blue.
 
 **The Tin Woodman**  
-The Tin Woodman, a man made entirely of tin, rusted stiff with his axe raised, an oilcan at his feet; no clothes, all tin. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Tin Woodman, a man made of tin, rusted stiff, axe raised, an oilcan at his feet.
 
 **The Cowardly Lion**  
-The Cowardly Lion, a big lion roaring loudly while trembling with fear; no clothing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Cowardly Lion, roaring while trembling with fear.
 
 **The Wizard of Oz**  
-The Wizard of Oz unmasked: a little old man with a bald head and a wrinkled face, in turn-of-the-century (c. 1900) American clothes, stepping from behind a screen, his balloon behind him. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Wizard of Oz, a little old man with a bald head and a wrinkled face, in c. 1900 American clothes, stepping from behind a screen, a hot-air balloon behind him.
 
 **The Wicked Witch of the West**  
-The Wicked Witch of the West, with one eye as powerful as a telescope, wearing the Golden Cap that commands the Winged Monkeys; fairy-tale witch's dress. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: The Wicked Witch of the West, one-eyed, in fairy-tale robes and a Golden Cap, winged monkeys circling above.
 
 **Glinda**  
-Glinda, the Good Witch of the South, beautiful and young, with rich red hair in flowing ringlets and blue eyes, in a pure white dress, seated on a throne of rubies. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Glinda, a beautiful young witch with rich red ringlets and blue eyes, in a pure white dress, on a throne of rubies.
 
 ## 21. The Tale of Peter Rabbit and other tales (Beatrix Potter, 1902–1918)
 
 **Peter Rabbit**  
-Peter Rabbit, a naughty little rabbit in a new blue jacket with brass buttons, squeezing under a garden gate among the lettuces; Edwardian (1900s) English countryside. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Peter Rabbit, a little rabbit in an Edwardian (1900s) blue jacket with brass buttons, squeezing under a garden gate among lettuces.
 
 **Mr. McGregor**  
-Mr. McGregor, an old gardener in Edwardian (1900s) working clothes and a tam-o'-shanter, waving a rake among his cabbages. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mr. McGregor, an old gardener in Edwardian (1900s) working clothes and a tam-o'-shanter, waving a rake among cabbages.
 
 **Benjamin Bunny**  
-Benjamin Bunny, a little rabbit in clogs and a tam-o'-shanter far too big for him, carrying onions in a red pocket-handkerchief; Edwardian (1900s) countryside. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Benjamin Bunny, a little rabbit in Edwardian (1900s) clogs and an oversized tam-o'-shanter, carrying onions in a red handkerchief.
 
 **Squirrel Nutkin**  
-Squirrel Nutkin, a cheeky little red squirrel bobbing up and down like a red cherry, dancing and singing riddles at a stern old owl; no clothing. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Squirrel Nutkin, a cheeky little red squirrel, dancing and bobbing in front of a stern old owl.
 
 **Mrs. Tiggy-Winkle**  
-Mrs. Tiggy-winkle, a very stout, short hedgehog washerwoman in an Edwardian (1900s) print gown tucked up, a large apron over a striped petticoat and a white frilled cap with prickles poking out, iron in hand. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mrs. Tiggy-winkle, a stout, short hedgehog washerwoman wearing an Edwardian (1900s) print gown, large apron, striped petticoat and white frilled cap, prickles poking out, iron in hand.
 
 **Mr. Jeremy Fisher**  
-Mr. Jeremy Fisher, a frog in an Edwardian (1900s) macintosh and shiny goloshes, fishing in the rain from a round green lily-leaf boat with a little red float. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Mr. Jeremy Fisher, a frog in an Edwardian (1900s) macintosh and shiny goloshes, fishing in the rain from a lily-leaf boat with a red float.
 
 **Jemima Puddle-Duck**  
-Jemima Puddle-duck, a farm duck in an Edwardian (1900s) shawl and poke bonnet, flapping off to find a secret nesting place. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Jemima Puddle-duck, a farm duck in an Edwardian (1900s) shawl and poke bonnet, taking off in flight.
 
 ## 22. The Great Gatsby (F. Scott Fitzgerald, 1925)
 
 **Jay Gatsby**  
-Jay Gatsby, a rich, mysterious man just over thirty, in a 1922 Jazz Age pink suit, with a reassuring smile, gazing at a green light across the water. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Jay Gatsby, a rich man in his early thirties in a 1922 Jazz Age pink suit, reassuring smile, gazing at a green light across the water.
 
 **Nick Carraway**  
-Nick Carraway, a reserved young Yale man turned bond salesman, in a 1922 Jazz Age suit, quiet and observant. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Nick Carraway, a reserved young man in a 1922 Jazz Age suit, quiet, observant.
 
 **Daisy Buchanan**  
-Daisy Buchanan, a lovely young woman with a sad, bright face, in a white 1922 Jazz Age dress rippling as if in a breeze. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Daisy Buchanan, a pretty young woman with a sad, bright face, in a white 1922 Jazz Age dress rippling in a breeze.
 
 **Tom Buchanan**  
-Tom Buchanan, a sturdy, straw-haired man of thirty with a hard mouth, a supercilious manner and a powerful, cruel body, in 1922 riding clothes. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Tom Buchanan, a sturdy, straw-haired man of thirty with a hard mouth, a supercilious look and a powerful body, in 1922 riding clothes.
 
 **Jordan Baker**  
-Jordan Baker, a slender golf champion with an erect carriage, in a white 1922 Jazz Age dress, golf club in hand. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Jordan Baker, a slender champion athlete with an erect posture, in a white 1922 Jazz Age dress, holding a golf club.
 
 **Myrtle Wilson**  
-Myrtle Wilson, in her mid-thirties, faintly stout but sensuous, in a spotted dark-blue crêpe-de-chine 1922 dress. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Myrtle Wilson, a sensuous, faintly stout woman in her mid-thirties, in a spotted dark-blue crêpe-de-chine 1922 dress.
 
 **George Wilson**  
-George Wilson, a blond, spiritless, anaemic, faintly handsome garage owner in 1922 work clothes, in a bare, run-down garage. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: George Wilson, a blond, pale, spiritless man in 1922 work clothes, in his bare garage.
 
 **Meyer Wolfshiem**  
-Meyer Wolfshiem, a shady gambler in a 1922 Jazz Age suit, showing off cuff buttons made of human molars. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Meyer Wolfshiem, a shady gambler in a 1922 Jazz Age suit, wearing cuff buttons made of human molars.
 
 ## 23. Winnie-the-Pooh (A. A. Milne, 1926)
 
 **Winnie-the-Pooh**  
-Winnie-the-Pooh, a small, round bear with no clothes, hanging from a balloon beside a bees' nest, trying to look like a small black cloud; 1920s English forest. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Winnie-the-Pooh, a round little bear without clothes, hanging from a balloon beside a bees' nest, pretending to be a small black cloud, 1920s English forest.
 
 **Piglet**  
-Piglet, a very small, timid piglet with no clothes, beside his house in a beech-tree and a broken sign reading TRESPASSERS W. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Piglet, a tiny, timid piglet without clothes beside his beech-tree house and a broken sign reading TRESPASSERS W.
 
 **Eeyore**  
-Eeyore, the old grey donkey, gloomy, standing by himself in a thistly corner, his tail nailed back on; no clothes. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Eeyore, a gloomy old grey donkey alone in a thistly corner, his tail nailed back on.
 
 **Owl**  
-Owl, a wise-looking owl outside his house, The Chestnuts, a misspelt notice on the door and a donkey's tail hanging as his bell-rope; no clothes. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Owl, a wise-looking owl outside his house, a misspelt notice on the door and a donkey's tail as a bell-rope.
 
 **Rabbit**  
-Rabbit, the forest's organiser, writing a plan with a pencil, a crowd of friends-and-relations behind him; no clothes. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Rabbit, writing a plan with a pencil, a crowd of friends-and-relations behind him.
 
 **Kanga and Baby Roo**  
-Kanga, a mother kangaroo with Baby Roo peeping from her pocket, cheerfully giving a surprised little piglet a bath; no clothes. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Kanga, a mother kangaroo with Baby Roo in her pocket, smiling as she gives a surprised little piglet a bath.
 
 **Christopher Robin**  
-Christopher Robin, a small English boy in 1920s clothes, leading an expedition through the forest with his bear. Flat storybook sticker illustration, clean simple shapes, soft paper-grain texture, muted rich colours, thick white die-cut border, plain white background.
+Draw a sticker on a transparent background: Christopher Robin, a small English boy in 1920s clothes, leading an expedition through the forest with his bear.
 
 ---
-*Sources: the character descriptions in [the full character list](2026-09-29_query-15-famous-public-domain-books-characters.md) and [the clean list](2026-09-30_query-clean-list-character-descriptions.md), each checked against the book's own text (Standard Ebooks editions); the extra visual details were checked word for word in the same texts; the style follows the example image supplied with the request.*
+*Sources: the character descriptions in [the full character list](2026-09-29_query-15-famous-public-domain-books-characters.md) and [the clean list](2026-09-30_query-clean-list-character-descriptions.md), each checked against the book's own text (Standard Ebooks editions); the extra visual details were checked word for word in the same texts.*
